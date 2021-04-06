@@ -1,658 +1,658 @@
-,County,Agency,Year,Months Reported,Index Total,Violent Total,Murder,Rape,Robbery,Aggravated Assault,Property Total,Burglary,Larceny,Motor Vehicle Theft,Region
-23,Albany,Albany City PD,2013,12.0,4881.0,796.0,8.0,32.0,228.0,528.0,4085.0,702.0,3243.0,140.0,Non-New York City
-78,Albany,Albany County Park PD,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,Non-New York City
-111,Albany,Albany County Sheriff,2013,12.0,147.0,5.0,0.0,0.0,0.0,5.0,142.0,38.0,99.0,5.0,Non-New York City
-141,Albany,Albany County State Police,2013,12.0,186.0,8.0,0.0,3.0,0.0,5.0,178.0,17.0,159.0,2.0,Non-New York City
-171,Albany,Altamont Vg PD,2013,12.0,18.0,1.0,0.0,0.0,0.0,1.0,17.0,0.0,17.0,0.0,Non-New York City
-201,Albany,Bethlehem Town PD,2013,12.0,456.0,13.0,0.0,0.0,3.0,10.0,443.0,50.0,388.0,5.0,Non-New York City
-231,Albany,Coeymans Town PD,2013,12.0,125.0,39.0,0.0,2.0,0.0,37.0,86.0,13.0,69.0,4.0,Non-New York City
-261,Albany,Cohoes City PD,2013,12.0,270.0,27.0,0.0,1.0,12.0,14.0,243.0,65.0,163.0,15.0,Non-New York City
-291,Albany,Colonie Town PD,2013,12.0,2053.0,63.0,0.0,0.0,31.0,32.0,1990.0,186.0,1753.0,51.0,Non-New York City
-321,Albany,County Total,2013,,9457.0,1006.0,9.0,47.0,293.0,657.0,8451.0,1203.0,6998.0,250.0,Non-New York City
-351,Albany,Green Island Vg PD,2013,12.0,51.0,4.0,0.0,1.0,1.0,2.0,47.0,9.0,33.0,5.0,Non-New York City
-381,Albany,Guilderland Town PD,2013,12.0,686.0,12.0,0.0,3.0,5.0,4.0,674.0,48.0,625.0,1.0,Non-New York City
-411,Albany,Menands Vg PD,2013,12.0,108.0,6.0,0.0,1.0,1.0,4.0,102.0,13.0,88.0,1.0,Non-New York City
-467,Albany,SUNY Police - Albany,2013,12.0,203.0,5.0,0.0,1.0,1.0,3.0,198.0,4.0,194.0,0.0,Non-New York City
-499,Albany,Watervliet City PD,2013,12.0,271.0,27.0,1.0,3.0,11.0,12.0,244.0,58.0,165.0,21.0,Non-New York City
-529,Allegany,Alfred Vg PD,2013,12.0,51.0,5.0,0.0,0.0,3.0,2.0,46.0,10.0,36.0,0.0,Non-New York City
-558,Allegany,Allegany County Sheriff,2013,12.0,10.0,8.0,0.0,0.0,0.0,8.0,2.0,0.0,2.0,0.0,Non-New York City
-587,Allegany,Allegany County State Police,2013,12.0,365.0,21.0,0.0,6.0,0.0,15.0,344.0,124.0,211.0,9.0,Non-New York City
-611,Allegany,Andover Vg PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Non-New York City
-637,Allegany,Angelica Vg PD,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,Non-New York City
-663,Allegany,Belmont Vg PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-688,Allegany,Bolivar Vg PD,2013,12.0,5.0,1.0,0.0,0.0,0.0,1.0,4.0,2.0,2.0,0.0,Non-New York City
-715,Allegany,County Total,2013,,796.0,54.0,0.0,9.0,4.0,41.0,742.0,194.0,534.0,14.0,Non-New York City
-745,Allegany,Cuba Town PD,2013,12.0,86.0,5.0,0.0,1.0,0.0,4.0,81.0,7.0,72.0,2.0,Non-New York City
-767,Allegany,Friendship Town PD,2013,12.0,16.0,0.0,0.0,0.0,0.0,0.0,16.0,6.0,10.0,0.0,Non-New York City
-786,Allegany,Independence Town PD,2013,12.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,5.0,6.0,0.0,Non-New York City
-824,Allegany,SUNY Police - Alfred,2013,12.0,73.0,3.0,0.0,1.0,1.0,1.0,70.0,6.0,64.0,0.0,Non-New York City
-854,Allegany,Wellsville Vg PD,2013,12.0,175.0,11.0,0.0,1.0,0.0,10.0,164.0,32.0,129.0,3.0,Non-New York City
-884,Bronx,County Total,2013,12.0,36280.0,13020.0,83.0,189.0,4456.0,8292.0,23260.0,2795.0,19016.0,1449.0,New York City
-914,Broome,Binghamton City PD,2013,12.0,2638.0,286.0,4.0,19.0,101.0,162.0,2352.0,525.0,1771.0,56.0,Non-New York City
-958,Broome,Broome County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-986,Broome,Broome County Sheriff,2013,12.0,924.0,49.0,3.0,8.0,8.0,30.0,875.0,182.0,669.0,24.0,Non-New York City
-1016,Broome,Broome County State Police,2013,12.0,665.0,42.0,0.0,11.0,3.0,28.0,623.0,156.0,448.0,19.0,Non-New York City
-1046,Broome,County Total,2013,,6706.0,512.0,8.0,51.0,153.0,300.0,6194.0,1162.0,4903.0,129.0,Non-New York City
-1076,Broome,Deposit Vg PD,2013,12.0,14.0,0.0,0.0,0.0,0.0,0.0,14.0,6.0,8.0,0.0,Non-New York City
-1106,Broome,Endicott Vg PD,2013,12.0,649.0,46.0,0.0,4.0,13.0,29.0,603.0,137.0,455.0,11.0,Non-New York City
-1136,Broome,Johnson City Vg PD,2013,12.0,1019.0,69.0,1.0,6.0,20.0,42.0,950.0,111.0,829.0,10.0,Non-New York City
-1166,Broome,Port Dickinson Vg PD,2013,12.0,31.0,0.0,0.0,0.0,0.0,0.0,31.0,0.0,31.0,0.0,Non-New York City
-1204,Broome,SUNY Police - Binghamton,2013,12.0,177.0,4.0,0.0,1.0,2.0,1.0,173.0,6.0,167.0,0.0,Non-New York City
-1234,Broome,Vestal Town PD,2013,12.0,588.0,16.0,0.0,2.0,6.0,8.0,572.0,39.0,524.0,9.0,Non-New York City
-1265,Cattaraugus,Allegany Vg PD,2013,12.0,13.0,3.0,0.0,0.0,0.0,3.0,10.0,0.0,10.0,0.0,Non-New York City
-1306,Cattaraugus,Cattaraugus County Park PD,2013,12.0,13.0,1.0,0.0,0.0,0.0,1.0,12.0,2.0,10.0,0.0,Non-New York City
-1336,Cattaraugus,Cattaraugus County Sheriff,2013,12.0,524.0,37.0,0.0,6.0,0.0,31.0,487.0,132.0,324.0,31.0,Non-New York City
-1366,Cattaraugus,Cattaraugus County State Police,2013,12.0,360.0,15.0,0.0,1.0,3.0,11.0,345.0,58.0,277.0,10.0,Non-New York City
-1394,Cattaraugus,Cattaraugus Vg PD,2013,12.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,Non-New York City
-1422,Cattaraugus,County Total,2013,,1771.0,115.0,0.0,13.0,11.0,91.0,1656.0,309.0,1285.0,62.0,Non-New York City
-1451,Cattaraugus,Ellicottville Town PD,2013,12.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,2.0,8.0,0.0,Non-New York City
-1478,Cattaraugus,Franklinville Vg PD,2013,12.0,33.0,1.0,0.0,0.0,1.0,0.0,32.0,0.0,32.0,0.0,Non-New York City
-1508,Cattaraugus,Olean City PD,2013,12.0,633.0,40.0,0.0,5.0,5.0,30.0,593.0,76.0,508.0,9.0,Non-New York City
-1536,Cattaraugus,Portville Vg PD,2013,12.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,1.0,7.0,0.0,Non-New York City
-1562,Cattaraugus,Salamanca City PD,2013,12.0,173.0,18.0,0.0,1.0,2.0,15.0,155.0,38.0,105.0,12.0,Non-New York City
-1592,Cayuga,Auburn City PD,2013,12.0,958.0,97.0,1.0,21.0,22.0,53.0,861.0,131.0,723.0,7.0,Non-New York City
-1631,Cayuga,Cayuga County Park PD,2013,12.0,9.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,9.0,0.0,Non-New York City
-1661,Cayuga,Cayuga County Sheriff,2013,12.0,262.0,14.0,1.0,1.0,0.0,12.0,248.0,62.0,185.0,1.0,Non-New York City
-1691,Cayuga,Cayuga County State Police,2013,12.0,245.0,14.0,0.0,4.0,1.0,9.0,231.0,71.0,157.0,3.0,Non-New York City
-1721,Cayuga,County Total,2013,,1517.0,128.0,2.0,26.0,23.0,77.0,1389.0,269.0,1109.0,11.0,Non-New York City
-1751,Cayuga,Moravia Vg PD,2013,12.0,18.0,3.0,0.0,0.0,0.0,3.0,15.0,0.0,15.0,0.0,Non-New York City
-1805,Cayuga,Weedsport Vg PD,2013,12.0,25.0,0.0,0.0,0.0,0.0,0.0,25.0,5.0,20.0,0.0,Non-New York City
-1835,Chautauqua,Carroll Town PD,2013,12.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,3.0,5.0,0.0,Non-New York City
-1869,Chautauqua,Chautauqua County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Non-New York City
-1897,Chautauqua,Chautauqua County Sheriff,2013,12.0,764.0,24.0,2.0,4.0,6.0,12.0,740.0,241.0,496.0,3.0,Non-New York City
-1927,Chautauqua,Chautauqua County State Police,2013,12.0,306.0,18.0,0.0,3.0,1.0,14.0,288.0,66.0,211.0,11.0,Non-New York City
-1957,Chautauqua,County Total,2013,,3637.0,274.0,2.0,30.0,65.0,177.0,3363.0,776.0,2540.0,47.0,Non-New York City
-1987,Chautauqua,Dunkirk City PD,2013,12.0,349.0,40.0,0.0,0.0,12.0,28.0,309.0,78.0,230.0,1.0,Non-New York City
-2017,Chautauqua,Ellicott Town PD,2013,12.0,296.0,8.0,0.0,2.0,1.0,5.0,288.0,53.0,235.0,0.0,Non-New York City
-2047,Chautauqua,Fredonia Vg PD,2013,12.0,218.0,10.0,0.0,2.0,5.0,3.0,208.0,26.0,182.0,0.0,Non-New York City
-2077,Chautauqua,Jamestown City PD,2013,12.0,1308.0,168.0,0.0,19.0,39.0,110.0,1140.0,281.0,829.0,30.0,Non-New York City
-2107,Chautauqua,Lakewood-Busti PD,2013,12.0,342.0,1.0,0.0,0.0,1.0,0.0,341.0,23.0,316.0,2.0,Non-New York City
-2137,Chautauqua,Silver Creek Vg PD,2013,3.0,14.0,3.0,0.0,0.0,0.0,3.0,11.0,0.0,11.0,0.0,Non-New York City
-2161,Chautauqua,SUNY Police - Fredonia,2013,12.0,23.0,1.0,0.0,0.0,0.0,1.0,22.0,3.0,19.0,0.0,Non-New York City
-2191,Chautauqua,Westfield Vg PD,2013,12.0,8.0,1.0,0.0,0.0,0.0,1.0,7.0,1.0,6.0,0.0,Non-New York City
-2220,Chemung,Chemung County Park PD,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,Non-New York City
-2245,Chemung,Chemung County Sheriff,2013,12.0,594.0,29.0,0.0,3.0,5.0,21.0,565.0,58.0,500.0,7.0,Non-New York City
-2275,Chemung,Chemung County State Police,2013,12.0,293.0,37.0,0.0,2.0,2.0,33.0,256.0,40.0,211.0,5.0,Non-New York City
-2305,Chemung,County Total,2013,,2201.0,151.0,0.0,7.0,37.0,107.0,2050.0,351.0,1672.0,27.0,Non-New York City
-2335,Chemung,Elmira City PD,2013,12.0,1108.0,81.0,0.0,2.0,29.0,50.0,1027.0,224.0,790.0,13.0,Non-New York City
-2365,Chemung,Elmira Heights Vg PD,2013,12.0,91.0,2.0,0.0,0.0,1.0,1.0,89.0,9.0,78.0,2.0,Non-New York City
-2393,Chemung,Elmira Town PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-2423,Chemung,Horseheads Vg PD,2013,12.0,112.0,2.0,0.0,0.0,0.0,2.0,110.0,20.0,90.0,0.0,Non-New York City
-2470,Chenango,Afton Vg PD,2013,12.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,4.0,2.0,0.0,Non-New York City
-2497,Chenango,Bainbridge Vg PD,2013,12.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,Non-New York City
-2550,Chenango,Chenango County Sheriff,2013,12.0,360.0,16.0,2.0,7.0,1.0,6.0,344.0,68.0,273.0,3.0,Non-New York City
-2580,Chenango,Chenango County State Police,2013,12.0,185.0,14.0,0.0,2.0,2.0,10.0,171.0,58.0,107.0,6.0,Non-New York City
-2610,Chenango,County Total,2013,,926.0,48.0,2.0,13.0,4.0,29.0,878.0,164.0,702.0,12.0,Non-New York City
-2635,Chenango,Greene Vg PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Non-New York City
-2694,Chenango,Norwich City PD,2013,12.0,340.0,15.0,0.0,4.0,0.0,11.0,325.0,25.0,297.0,3.0,Non-New York City
-2723,Chenango,Oxford Vg PD,2013,12.0,15.0,2.0,0.0,0.0,1.0,1.0,13.0,1.0,12.0,0.0,Non-New York City
-2753,Chenango,Sherburne Vg PD,2013,12.0,16.0,1.0,0.0,0.0,0.0,1.0,15.0,7.0,8.0,0.0,Non-New York City
-2799,Clinton,Clinton County Park PD,2013,12.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,2.0,0.0,Non-New York City
-2828,Clinton,Clinton County Sheriff,2013,12.0,43.0,12.0,0.0,1.0,0.0,11.0,31.0,0.0,29.0,2.0,Non-New York City
-2858,Clinton,Clinton County State Police,2013,12.0,998.0,58.0,3.0,15.0,5.0,35.0,940.0,169.0,742.0,29.0,Non-New York City
-2888,Clinton,County Total,2013,,1666.0,111.0,3.0,21.0,9.0,78.0,1555.0,262.0,1254.0,39.0,Non-New York City
-2918,Clinton,Plattsburgh City PD,2013,12.0,525.0,41.0,0.0,5.0,4.0,32.0,484.0,80.0,396.0,8.0,Non-New York City
-2975,Clinton,SUNY Police - Plattsburgh,2013,12.0,97.0,0.0,0.0,0.0,0.0,0.0,97.0,12.0,85.0,0.0,Non-New York City
-3005,Columbia,Chatham Vg PD,2013,12.0,35.0,3.0,0.0,0.0,0.0,3.0,32.0,5.0,27.0,0.0,Non-New York City
-3046,Columbia,Columbia County Park PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,5.0,0.0,Non-New York City
-3076,Columbia,Columbia County Sheriff,2013,12.0,333.0,15.0,0.0,1.0,2.0,12.0,318.0,76.0,236.0,6.0,Non-New York City
-3106,Columbia,Columbia County State Police,2013,12.0,294.0,30.0,0.0,6.0,6.0,18.0,264.0,86.0,173.0,5.0,Non-New York City
-3158,Columbia,County Total,2013,,1127.0,76.0,0.0,8.0,17.0,51.0,1051.0,207.0,830.0,14.0,Non-New York City
-3184,Columbia,Germantown Town PD,2013,12.0,9.0,0.0,0.0,0.0,0.0,0.0,9.0,2.0,7.0,0.0,Non-New York City
-3211,Columbia,Greenport Town PD,2013,12.0,219.0,2.0,0.0,0.0,1.0,1.0,217.0,10.0,205.0,2.0,Non-New York City
-3241,Columbia,Hudson City PD,2013,12.0,224.0,26.0,0.0,1.0,8.0,17.0,198.0,25.0,172.0,1.0,Non-New York City
-3288,Columbia,Stockport Town PD,2013,12.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,3.0,5.0,0.0,Non-New York City
-3316,Cortland,Cortland City PD,2013,12.0,416.0,18.0,0.0,3.0,3.0,12.0,398.0,88.0,306.0,4.0,Non-New York City
-3351,Cortland,Cortland County Sheriff,2013,12.0,431.0,26.0,0.0,7.0,3.0,16.0,405.0,77.0,327.0,1.0,Non-New York City
-3381,Cortland,Cortland County State Police,2013,12.0,127.0,4.0,0.0,0.0,2.0,2.0,123.0,28.0,89.0,6.0,Non-New York City
-3411,Cortland,County Total,2013,,1064.0,51.0,0.0,12.0,9.0,30.0,1013.0,210.0,791.0,12.0,Non-New York City
-3441,Cortland,Homer Vg PD,2013,12.0,33.0,0.0,0.0,0.0,0.0,0.0,33.0,3.0,29.0,1.0,Non-New York City
-3490,Cortland,SUNY Police - Cortland,2013,12.0,57.0,3.0,0.0,2.0,1.0,0.0,54.0,14.0,40.0,0.0,Non-New York City
-3563,Delaware,County Total,2013,,806.0,56.0,2.0,7.0,5.0,42.0,750.0,172.0,561.0,17.0,Non-New York City
-3604,Delaware,Delaware County Sheriff,2013,12.0,178.0,17.0,0.0,1.0,1.0,15.0,161.0,47.0,113.0,1.0,Non-New York City
-3634,Delaware,Delaware County State Police,2013,12.0,260.0,22.0,2.0,1.0,3.0,16.0,238.0,80.0,147.0,11.0,Non-New York City
-3664,Delaware,Delhi Vg PD,2013,12.0,37.0,1.0,0.0,0.0,0.0,1.0,36.0,4.0,30.0,2.0,Non-New York City
-3725,Delaware,Sidney Vg PD,2013,12.0,195.0,9.0,0.0,4.0,1.0,4.0,186.0,21.0,162.0,3.0,Non-New York City
-3752,Delaware,SUNY Police - Delhi,2013,12.0,63.0,1.0,0.0,0.0,0.0,1.0,62.0,3.0,59.0,0.0,Non-New York City
-3782,Delaware,Walton Vg PD,2013,12.0,73.0,6.0,0.0,1.0,0.0,5.0,67.0,17.0,50.0,0.0,Non-New York City
-3810,Dutchess,Beacon City PD,2013,12.0,320.0,51.0,0.0,0.0,7.0,44.0,269.0,72.0,188.0,9.0,Non-New York City
-3840,Dutchess,County Total,2013,,5121.0,584.0,12.0,28.0,150.0,394.0,4537.0,770.0,3629.0,138.0,Non-New York City
-3875,Dutchess,Dutchess County MTA,2013,12.0,33.0,1.0,0.0,0.0,1.0,0.0,32.0,0.0,31.0,1.0,Non-New York City
-3905,Dutchess,Dutchess County Park PD,2013,12.0,16.0,0.0,0.0,0.0,0.0,0.0,16.0,2.0,14.0,0.0,Non-New York City
-3935,Dutchess,Dutchess County Sheriff,2013,12.0,720.0,73.0,0.0,2.0,7.0,64.0,647.0,137.0,484.0,26.0,Non-New York City
-3965,Dutchess,Dutchess County State Police,2013,12.0,663.0,85.0,3.0,6.0,10.0,66.0,578.0,131.0,424.0,23.0,Non-New York City
-3995,Dutchess,East Fishkill Town PD,2013,12.0,174.0,9.0,1.0,0.0,1.0,7.0,165.0,18.0,141.0,6.0,Non-New York City
-4025,Dutchess,Fishkill Town PD,2013,12.0,279.0,3.0,0.0,0.0,1.0,2.0,276.0,28.0,243.0,5.0,Non-New York City
-4055,Dutchess,Fishkill Vg PD,2013,12.0,27.0,1.0,0.0,0.0,1.0,0.0,26.0,0.0,26.0,0.0,Non-New York City
-4085,Dutchess,Hyde Park Town PD,2013,12.0,198.0,18.0,0.0,3.0,4.0,11.0,180.0,42.0,133.0,5.0,Non-New York City
-4118,Dutchess,Millerton Vg PD,2013,12.0,14.0,6.0,0.0,0.0,0.0,6.0,8.0,4.0,4.0,0.0,Non-New York City
-4164,Dutchess,Pine Plains Town PD,2013,12.0,13.0,1.0,0.0,0.0,0.0,1.0,12.0,1.0,9.0,2.0,Non-New York City
-4191,Dutchess,Poughkeepsie City PD,2013,12.0,1115.0,288.0,7.0,16.0,100.0,165.0,827.0,189.0,590.0,48.0,Non-New York City
-4221,Dutchess,Poughkeepsie Town PD,2013,12.0,1379.0,39.0,1.0,1.0,12.0,25.0,1340.0,125.0,1204.0,11.0,Non-New York City
-4247,Dutchess,Red Hook Vg PD,2013,12.0,31.0,1.0,0.0,0.0,0.0,1.0,30.0,6.0,24.0,0.0,Non-New York City
-4267,Dutchess,Rhinebeck Vg PD,2013,12.0,44.0,2.0,0.0,0.0,0.0,2.0,42.0,0.0,41.0,1.0,Non-New York City
-4297,Dutchess,Wappingers Falls Vg PD,2013,12.0,95.0,6.0,0.0,0.0,6.0,0.0,89.0,15.0,73.0,1.0,Non-New York City
-4326,Erie,Akron Vg PD,2013,12.0,19.0,3.0,0.0,0.0,0.0,3.0,16.0,1.0,15.0,0.0,Non-New York City
-4356,Erie,Amherst Town PD,2013,12.0,2225.0,107.0,1.0,7.0,31.0,68.0,2118.0,204.0,1882.0,32.0,Non-New York City
-4403,Erie,Brant Town PD,2013,12.0,35.0,4.0,0.0,0.0,1.0,3.0,31.0,9.0,20.0,2.0,Non-New York City
-4433,Erie,Buffalo City PD,2013,12.0,15731.0,3251.0,47.0,150.0,1320.0,1734.0,12480.0,3458.0,8066.0,956.0,Non-New York City
-4463,Erie,Cheektowaga Town PD,2013,12.0,2847.0,158.0,0.0,11.0,48.0,99.0,2689.0,345.0,2271.0,73.0,Non-New York City
-4493,Erie,County Total,2013,,29295.0,4089.0,55.0,209.0,1501.0,2324.0,25206.0,5222.0,18729.0,1255.0,Non-New York City
-4523,Erie,Depew Vg PD,2013,12.0,327.0,17.0,0.0,3.0,2.0,12.0,310.0,54.0,251.0,5.0,Non-New York City
-4553,Erie,East Aurora-Town Of Aurora PD,2013,12.0,136.0,5.0,0.0,0.0,2.0,3.0,131.0,24.0,105.0,2.0,Non-New York City
-4583,Erie,Eden Town PD,2013,12.0,32.0,1.0,0.0,0.0,0.0,1.0,31.0,7.0,24.0,0.0,Non-New York City
-4648,Erie,Erie County Park PD,2013,12.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,3.0,2.0,1.0,Non-New York City
-4678,Erie,Erie County Sheriff,2013,12.0,1002.0,104.0,2.0,1.0,8.0,93.0,898.0,180.0,695.0,23.0,Non-New York City
-4708,Erie,Erie County State Police,2013,12.0,375.0,24.0,0.0,6.0,2.0,16.0,351.0,46.0,287.0,18.0,Non-New York City
-4738,Erie,Evans Town PD,2013,12.0,330.0,17.0,0.0,1.0,1.0,15.0,313.0,49.0,258.0,6.0,Non-New York City
-4768,Erie,Gowanda Vg PD,2013,12.0,34.0,5.0,0.0,0.0,0.0,5.0,29.0,11.0,16.0,2.0,Non-New York City
-4798,Erie,Hamburg Town PD,2013,12.0,1205.0,38.0,1.0,1.0,12.0,24.0,1167.0,134.0,1012.0,21.0,Non-New York City
-4828,Erie,Hamburg Vg PD,2013,12.0,169.0,8.0,0.0,2.0,0.0,6.0,161.0,40.0,121.0,0.0,Non-New York City
-4858,Erie,Kenmore Vg PD,2013,12.0,246.0,26.0,1.0,2.0,10.0,13.0,220.0,34.0,181.0,5.0,Non-New York City
-4888,Erie,Lackawanna City PD,2013,12.0,622.0,89.0,1.0,13.0,11.0,64.0,533.0,100.0,398.0,35.0,Non-New York City
-4918,Erie,Lancaster Town PD,2013,12.0,562.0,15.0,0.0,1.0,4.0,10.0,547.0,44.0,494.0,9.0,Non-New York City
-4965,Erie,Orchard Park Town PD,2013,12.0,362.0,16.0,0.0,2.0,4.0,10.0,346.0,37.0,297.0,12.0,Non-New York City
-5013,Erie,SUNY Police - Buffalo,2013,12.0,381.0,11.0,0.0,1.0,5.0,5.0,370.0,47.0,319.0,4.0,Non-New York City
-5025,Erie,SUNY Police - Buffalo State College,2013,12.0,153.0,4.0,0.0,2.0,2.0,0.0,149.0,15.0,134.0,0.0,Non-New York City
-5055,Erie,Tonawanda City PD,2013,12.0,349.0,34.0,0.0,0.0,4.0,30.0,315.0,24.0,289.0,2.0,Non-New York City
-5085,Erie,Tonawanda Town PD,2013,12.0,1216.0,117.0,1.0,5.0,25.0,86.0,1099.0,190.0,882.0,27.0,Non-New York City
-5115,Erie,West Seneca Town PD,2013,12.0,931.0,35.0,1.0,1.0,9.0,24.0,896.0,166.0,710.0,20.0,Non-New York City
-5145,Essex,County Total,2013,,449.0,43.0,0.0,8.0,2.0,33.0,406.0,121.0,266.0,19.0,Non-New York City
-5171,Essex,Essex County Sheriff,2013,12.0,12.0,5.0,0.0,0.0,0.0,5.0,7.0,2.0,5.0,0.0,Non-New York City
-5201,Essex,Essex County State Police,2013,12.0,264.0,18.0,0.0,4.0,2.0,12.0,246.0,82.0,148.0,16.0,Non-New York City
-5231,Essex,Lake Placid Vg PD,2013,12.0,53.0,2.0,0.0,0.0,0.0,2.0,51.0,11.0,38.0,2.0,Non-New York City
-5255,Essex,Moriah Town PD,2013,12.0,16.0,7.0,0.0,0.0,0.0,7.0,9.0,3.0,5.0,1.0,Non-New York City
-5284,Essex,Ticonderoga Town PD,2013,12.0,104.0,11.0,0.0,4.0,0.0,7.0,93.0,23.0,70.0,0.0,Non-New York City
-5314,Franklin,County Total,2013,,876.0,61.0,1.0,10.0,3.0,47.0,815.0,179.0,608.0,28.0,Non-New York City
-5326,Franklin,Franklin County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-5334,Franklin,Franklin County Sheriff,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-5358,Franklin,Franklin County State Police,2013,12.0,413.0,28.0,0.0,9.0,0.0,19.0,385.0,99.0,269.0,17.0,Non-New York City
-5388,Franklin,Malone Vg PD,2013,12.0,196.0,4.0,0.0,0.0,2.0,2.0,192.0,28.0,161.0,3.0,Non-New York City
-5418,Franklin,Saranac Lake Vg PD,2013,12.0,179.0,26.0,1.0,1.0,1.0,23.0,153.0,30.0,117.0,6.0,Non-New York City
-5448,Franklin,Tupper Lake Vg PD,2013,12.0,86.0,3.0,0.0,0.0,0.0,3.0,83.0,22.0,59.0,2.0,Non-New York City
-5478,Fulton,County Total,2013,,1527.0,62.0,1.0,13.0,11.0,37.0,1465.0,262.0,1164.0,39.0,Non-New York City
-5513,Fulton,Fulton County Sheriff,2013,12.0,352.0,11.0,1.0,2.0,0.0,8.0,341.0,90.0,245.0,6.0,Non-New York City
-5543,Fulton,Fulton County State Police,2013,12.0,125.0,4.0,0.0,1.0,1.0,2.0,121.0,32.0,85.0,4.0,Non-New York City
-5573,Fulton,Gloversville City PD,2013,12.0,719.0,33.0,0.0,9.0,6.0,18.0,686.0,111.0,560.0,15.0,Non-New York City
-5603,Fulton,Johnstown City PD,2013,12.0,330.0,14.0,0.0,1.0,4.0,9.0,316.0,29.0,273.0,14.0,Non-New York City
-5630,Fulton,Northville Vg PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-5658,Genesee,Batavia City PD,2013,12.0,618.0,57.0,0.0,7.0,13.0,37.0,561.0,104.0,454.0,3.0,Non-New York City
-5694,Genesee,County Total,2013,,1467.0,109.0,0.0,22.0,22.0,65.0,1358.0,294.0,1044.0,20.0,Non-New York City
-5737,Genesee,Genesee County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-5764,Genesee,Genesee County Sheriff,2013,12.0,631.0,33.0,0.0,9.0,8.0,16.0,598.0,155.0,427.0,16.0,Non-New York City
-5794,Genesee,Genesee County State Police,2013,12.0,119.0,6.0,0.0,3.0,0.0,3.0,113.0,17.0,95.0,1.0,Non-New York City
-5824,Genesee,LeRoy Vg PD,2013,12.0,98.0,13.0,0.0,3.0,1.0,9.0,85.0,18.0,67.0,0.0,Non-New York City
-5870,Greene,Cairo Town PD,2013,12.0,16.0,0.0,0.0,0.0,0.0,0.0,16.0,1.0,15.0,0.0,Non-New York City
-5900,Greene,Catskill Vg PD,2013,12.0,133.0,14.0,0.0,1.0,3.0,10.0,119.0,16.0,101.0,2.0,Non-New York City
-5930,Greene,County Total,2013,,718.0,58.0,1.0,8.0,6.0,43.0,660.0,213.0,421.0,26.0,Non-New York City
-5960,Greene,Coxsackie Vg PD,2013,12.0,12.0,0.0,0.0,0.0,0.0,0.0,12.0,2.0,10.0,0.0,Non-New York City
-5978,Greene,Durham Town PD,2013,12.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,3.0,3.0,0.0,Non-New York City
-6020,Greene,Greene County Sheriff,2013,9.0,96.0,8.0,0.0,0.0,1.0,7.0,88.0,43.0,44.0,1.0,Non-New York City
-6050,Greene,Greene County State Police,2013,12.0,444.0,36.0,1.0,7.0,2.0,26.0,408.0,146.0,239.0,23.0,Non-New York City
-6107,Greene,Windham Town PD,2013,12.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,2.0,9.0,0.0,Non-New York City
-6137,Hamilton,County Total,2013,,62.0,4.0,0.0,0.0,0.0,4.0,58.0,21.0,37.0,0.0,Non-New York City
-6167,Hamilton,Hamilton County Sheriff,2013,12.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,4.0,2.0,0.0,Non-New York City
-6197,Hamilton,Hamilton County State Police,2013,12.0,38.0,1.0,0.0,0.0,0.0,1.0,37.0,11.0,26.0,0.0,Non-New York City
-6232,Hamilton,Inlet Town PD,2013,12.0,18.0,3.0,0.0,0.0,0.0,3.0,15.0,6.0,9.0,0.0,Non-New York City
-6262,Herkimer,County Total,2013,,1190.0,126.0,4.0,15.0,7.0,100.0,1064.0,245.0,803.0,16.0,Non-New York City
-6291,Herkimer,Dolgeville Vg PD,2013,12.0,46.0,7.0,0.0,0.0,0.0,7.0,39.0,5.0,33.0,1.0,Non-New York City
-6320,Herkimer,Frankfort Town PD,2013,12.0,50.0,0.0,0.0,0.0,0.0,0.0,50.0,22.0,27.0,1.0,Non-New York City
-6349,Herkimer,Frankfort Vg PD,2013,12.0,38.0,5.0,0.0,0.0,0.0,5.0,33.0,4.0,28.0,1.0,Non-New York City
-6399,Herkimer,Herkimer County Sheriff,2013,12.0,6.0,2.0,0.0,0.0,0.0,2.0,4.0,0.0,4.0,0.0,Non-New York City
-6427,Herkimer,Herkimer County State Police,2013,12.0,329.0,28.0,4.0,2.0,1.0,21.0,301.0,126.0,164.0,11.0,Non-New York City
-6457,Herkimer,Herkimer Vg PD,2013,12.0,432.0,53.0,0.0,9.0,3.0,41.0,379.0,49.0,330.0,0.0,Non-New York City
-6487,Herkimer,Ilion Vg PD,2013,12.0,143.0,15.0,0.0,1.0,2.0,12.0,128.0,21.0,106.0,1.0,Non-New York City
-6517,Herkimer,Little Falls City PD,2013,12.0,146.0,16.0,0.0,3.0,1.0,12.0,130.0,18.0,111.0,1.0,Non-New York City
-6592,Jefferson,Adams Vg PD,2013,12.0,12.0,0.0,0.0,0.0,0.0,0.0,12.0,2.0,10.0,0.0,Non-New York City
-6621,Jefferson,Alexandria Bay Vg PD,2013,12.0,15.0,0.0,0.0,0.0,0.0,0.0,15.0,4.0,10.0,1.0,Non-New York City
-6635,Jefferson,Black River Vg PD,2013,12.0,14.0,0.0,0.0,0.0,0.0,0.0,14.0,2.0,12.0,0.0,Non-New York City
-6664,Jefferson,Brownville Vg PD,2013,12.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,10.0,0.0,Non-New York City
-6689,Jefferson,Cape Vincent Vg PD,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,Non-New York City
-6716,Jefferson,Carthage Vg PD,2013,12.0,61.0,1.0,0.0,1.0,0.0,0.0,60.0,12.0,47.0,1.0,Non-New York City
-6746,Jefferson,Clayton Vg PD,2013,12.0,19.0,0.0,0.0,0.0,0.0,0.0,19.0,3.0,16.0,0.0,Non-New York City
-6775,Jefferson,County Total,2013,,2402.0,140.0,1.0,16.0,16.0,107.0,2262.0,339.0,1843.0,80.0,Non-New York City
-6803,Jefferson,Dexter Vg PD,2013,12.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,2.0,6.0,0.0,Non-New York City
-6832,Jefferson,Glen Park Vg PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,5.0,0.0,Non-New York City
-6871,Jefferson,Jefferson County Park PD,2013,12.0,16.0,0.0,0.0,0.0,0.0,0.0,16.0,1.0,15.0,0.0,Non-New York City
-6901,Jefferson,Jefferson County Sheriff,2013,12.0,226.0,11.0,0.0,1.0,0.0,10.0,215.0,21.0,191.0,3.0,Non-New York City
-6931,Jefferson,Jefferson County State Police,2013,12.0,733.0,17.0,0.0,1.0,0.0,16.0,716.0,122.0,562.0,32.0,Non-New York City
-6987,Jefferson,Watertown City PD,2013,12.0,1281.0,111.0,1.0,13.0,16.0,81.0,1170.0,170.0,957.0,43.0,Non-New York City
-7043,Kings,County Total,2013,12.0,59056.0,18258.0,147.0,401.0,6854.0,10856.0,40798.0,5635.0,32557.0,2606.0,New York City
-7073,Lewis,County Total,2013,,332.0,24.0,1.0,1.0,0.0,22.0,308.0,95.0,199.0,14.0,Non-New York City
-7088,Lewis,Lewis County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-7113,Lewis,Lewis County Sheriff,2013,12.0,154.0,15.0,1.0,0.0,0.0,14.0,139.0,50.0,85.0,4.0,Non-New York City
-7143,Lewis,Lewis County State Police,2013,12.0,117.0,7.0,0.0,1.0,0.0,6.0,110.0,38.0,66.0,6.0,Non-New York City
-7173,Lewis,Lowville Vg PD,2013,12.0,60.0,2.0,0.0,0.0,0.0,2.0,58.0,7.0,47.0,4.0,Non-New York City
-7203,Livingston,Avon Vg PD,2013,12.0,26.0,1.0,0.0,0.0,1.0,0.0,25.0,3.0,20.0,2.0,Non-New York City
-7231,Livingston,Caledonia Vg PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,5.0,0.0,Non-New York City
-7260,Livingston,County Total,2013,,1088.0,56.0,0.0,16.0,9.0,31.0,1032.0,185.0,814.0,33.0,Non-New York City
-7290,Livingston,Dansville Vg PD,2013,12.0,154.0,2.0,0.0,0.0,1.0,1.0,152.0,24.0,120.0,8.0,Non-New York City
-7320,Livingston,Geneseo Vg PD,2013,12.0,168.0,6.0,0.0,3.0,3.0,0.0,162.0,7.0,155.0,0.0,Non-New York City
-7352,Livingston,Livingston County Park PD,2013,12.0,13.0,1.0,0.0,0.0,0.0,1.0,12.0,0.0,12.0,0.0,Non-New York City
-7381,Livingston,Livingston County Sheriff,2013,12.0,469.0,25.0,0.0,5.0,2.0,18.0,444.0,116.0,310.0,18.0,Non-New York City
-7411,Livingston,Livingston County State Police,2013,12.0,65.0,13.0,0.0,3.0,1.0,9.0,52.0,12.0,36.0,4.0,Non-New York City
-7441,Livingston,Mount Morris Vg PD,2013,12.0,76.0,2.0,0.0,0.0,1.0,1.0,74.0,10.0,63.0,1.0,Non-New York City
-7471,Livingston,Nunda Town and Vg PD,2013,12.0,17.0,0.0,0.0,0.0,0.0,0.0,17.0,4.0,13.0,0.0,Non-New York City
-7500,Livingston,SUNY Police - Geneseo,2013,12.0,95.0,6.0,0.0,5.0,0.0,1.0,89.0,9.0,80.0,0.0,Non-New York City
-7530,Madison,Canastota Vg PD,2013,12.0,64.0,4.0,0.0,0.0,0.0,4.0,60.0,8.0,51.0,1.0,Non-New York City
-7560,Madison,Cazenovia Vg PD,2013,12.0,58.0,0.0,0.0,0.0,0.0,0.0,58.0,5.0,52.0,1.0,Non-New York City
-7590,Madison,Chittenango Vg PD,2013,12.0,66.0,1.0,0.0,0.0,0.0,1.0,65.0,11.0,53.0,1.0,Non-New York City
-7620,Madison,County Total,2013,,1156.0,55.0,1.0,9.0,7.0,38.0,1101.0,210.0,868.0,23.0,Non-New York City
-7667,Madison,Hamilton Vg PD,2013,12.0,34.0,4.0,0.0,0.0,1.0,3.0,30.0,2.0,28.0,0.0,Non-New York City
-7697,Madison,Madison County Park PD,2013,12.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,Non-New York City
-7726,Madison,Madison County Sheriff,2013,12.0,217.0,10.0,0.0,1.0,0.0,9.0,207.0,58.0,145.0,4.0,Non-New York City
-7756,Madison,Madison County State Police,2013,12.0,192.0,14.0,1.0,5.0,0.0,8.0,178.0,48.0,123.0,7.0,Non-New York City
-7786,Madison,Oneida City PD,2013,12.0,452.0,18.0,0.0,2.0,4.0,12.0,434.0,68.0,357.0,9.0,Non-New York City
-7816,Madison,SUNY Police - Morrisville,2013,12.0,69.0,4.0,0.0,1.0,2.0,1.0,65.0,10.0,55.0,0.0,Non-New York City
-7846,Monroe,Brighton Town PD,2013,12.0,822.0,27.0,1.0,2.0,10.0,14.0,795.0,143.0,624.0,28.0,Non-New York City
-7876,Monroe,Brockport Vg PD,2013,12.0,190.0,23.0,1.0,1.0,5.0,16.0,167.0,29.0,134.0,4.0,Non-New York City
-7906,Monroe,County Total,2013,,23076.0,2686.0,48.0,144.0,1133.0,1361.0,20390.0,4267.0,15236.0,887.0,Non-New York City
-7936,Monroe,East Rochester Vg PD,2013,12.0,133.0,8.0,1.0,0.0,3.0,4.0,125.0,25.0,97.0,3.0,Non-New York City
-7966,Monroe,Fairport Vg PD,2013,12.0,58.0,5.0,0.0,1.0,0.0,4.0,53.0,13.0,37.0,3.0,Non-New York City
-7996,Monroe,Gates Town PD,2013,12.0,1108.0,57.0,0.0,4.0,19.0,34.0,1051.0,95.0,922.0,34.0,Non-New York City
-8026,Monroe,Greece Town PD,2013,12.0,2457.0,151.0,0.0,9.0,60.0,82.0,2306.0,332.0,1928.0,46.0,Non-New York City
-8056,Monroe,Irondequoit Town PD,2013,12.0,1447.0,93.0,1.0,6.0,51.0,35.0,1354.0,271.0,1049.0,34.0,Non-New York City
-8099,Monroe,Monroe County Park PD,2013,12.0,21.0,1.0,0.0,1.0,0.0,0.0,20.0,1.0,19.0,0.0,Non-New York City
-8129,Monroe,Monroe County Sheriff,2013,12.0,3774.0,162.0,2.0,16.0,56.0,88.0,3612.0,636.0,2876.0,100.0,Non-New York City
-8159,Monroe,Monroe County State Police,2013,12.0,82.0,7.0,0.0,6.0,1.0,0.0,75.0,1.0,66.0,8.0,Non-New York City
-8189,Monroe,Ogden Town PD,2013,12.0,225.0,17.0,0.0,2.0,6.0,9.0,208.0,24.0,176.0,8.0,Non-New York City
-8219,Monroe,Rochester City PD,2013,12.0,12160.0,2109.0,42.0,94.0,918.0,1055.0,10051.0,2587.0,6855.0,609.0,Non-New York City
-8245,Monroe,SUNY Police - Brockport,2013,12.0,108.0,5.0,0.0,0.0,1.0,4.0,103.0,9.0,91.0,3.0,Non-New York City
-8275,Monroe,Webster Town and Vg PD,2013,12.0,491.0,21.0,0.0,2.0,3.0,16.0,470.0,101.0,362.0,7.0,Non-New York City
-8310,Montgomery,Amsterdam City PD,2013,12.0,435.0,30.0,0.0,0.0,12.0,18.0,405.0,99.0,291.0,15.0,Non-New York City
-8337,Montgomery,Canajoharie Vg PD,2013,12.0,15.0,1.0,0.0,0.0,0.0,1.0,14.0,1.0,13.0,0.0,Non-New York City
-8367,Montgomery,County Total,2013,,1125.0,48.0,0.0,4.0,13.0,31.0,1077.0,186.0,864.0,27.0,Non-New York City
-8397,Montgomery,Fort Plain Vg PD,2013,12.0,94.0,4.0,0.0,0.0,1.0,3.0,90.0,23.0,65.0,2.0,Non-New York City
-8421,Montgomery,Montgomery County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-8445,Montgomery,Montgomery County Sheriff,2013,12.0,424.0,6.0,0.0,0.0,0.0,6.0,418.0,37.0,377.0,4.0,Non-New York City
-8475,Montgomery,Montgomery County State Police,2013,12.0,106.0,4.0,0.0,4.0,0.0,0.0,102.0,18.0,78.0,6.0,Non-New York City
-8505,Montgomery,St Johnsville Vg PD,2013,12.0,50.0,3.0,0.0,0.0,0.0,3.0,47.0,8.0,39.0,0.0,Non-New York City
-8534,Nassau,Centre Island Vg PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-8564,Nassau,County Total,2013,,18683.0,2111.0,25.0,54.0,1043.0,989.0,16572.0,2355.0,13328.0,889.0,Non-New York City
-8598,Nassau,Floral Park Vg PD,2013,12.0,86.0,14.0,0.0,2.0,7.0,5.0,72.0,16.0,44.0,12.0,Non-New York City
-8628,Nassau,Freeport Vg PD,2013,12.0,1085.0,152.0,0.0,2.0,76.0,74.0,933.0,168.0,698.0,67.0,Non-New York City
-8658,Nassau,Garden City Vg PD,2013,12.0,356.0,10.0,0.0,0.0,4.0,6.0,346.0,33.0,303.0,10.0,Non-New York City
-8688,Nassau,Glen Cove City PD,2013,12.0,98.0,8.0,0.0,0.0,4.0,4.0,90.0,25.0,62.0,3.0,Non-New York City
-8717,Nassau,Great Neck Estates Vg PD,2013,12.0,20.0,0.0,0.0,0.0,0.0,0.0,20.0,6.0,12.0,2.0,Non-New York City
-8746,Nassau,Hempstead Vg PD,2013,12.0,1391.0,433.0,10.0,3.0,204.0,216.0,958.0,206.0,630.0,122.0,Non-New York City
-8774,Nassau,Kensington Vg PD,2013,11.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,Non-New York City
-8800,Nassau,Kings Point Vg PD,2013,12.0,17.0,1.0,0.0,0.0,0.0,1.0,16.0,4.0,11.0,1.0,Non-New York City
-8830,Nassau,Lake Success Vg PD,2013,12.0,34.0,2.0,0.0,0.0,0.0,2.0,32.0,10.0,21.0,1.0,Non-New York City
-8869,Nassau,Long Beach City PD,2013,12.0,373.0,35.0,0.0,1.0,13.0,21.0,338.0,42.0,278.0,18.0,Non-New York City
-8899,Nassau,Lynbrook Vg PD,2013,12.0,175.0,12.0,0.0,1.0,3.0,8.0,163.0,18.0,128.0,17.0,Non-New York City
-8929,Nassau,Malverne Vg PD,2013,12.0,25.0,4.0,0.0,0.0,3.0,1.0,21.0,3.0,17.0,1.0,Non-New York City
-8959,Nassau,Nassau County MTA,2013,12.0,86.0,11.0,1.0,0.0,8.0,2.0,75.0,1.0,74.0,0.0,Non-New York City
-8989,Nassau,Nassau County Park PD,2013,12.0,62.0,5.0,0.0,1.0,2.0,2.0,57.0,3.0,52.0,2.0,Non-New York City
-9019,Nassau,Nassau County PD,2013,12.0,14283.0,1394.0,12.0,43.0,706.0,633.0,12889.0,1737.0,10558.0,594.0,Non-New York City
-9049,Nassau,Nassau County State Police,2013,12.0,6.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,4.0,1.0,Non-New York City
-9079,Nassau,Old Brookville Vg PD,2013,12.0,58.0,4.0,0.0,0.0,1.0,3.0,54.0,16.0,28.0,10.0,Non-New York City
-9109,Nassau,Old Westbury Vg PD,2013,12.0,40.0,1.0,0.0,0.0,0.0,1.0,39.0,6.0,29.0,4.0,Non-New York City
-9139,Nassau,Oyster Bay Cove Vg PD,2013,12.0,19.0,0.0,0.0,0.0,0.0,0.0,19.0,3.0,16.0,0.0,Non-New York City
-9169,Nassau,Port Washington Police District,2013,12.0,100.0,2.0,0.0,0.0,1.0,1.0,98.0,13.0,81.0,4.0,Non-New York City
-9199,Nassau,Rockville Centre Vg PD,2013,12.0,293.0,22.0,1.0,1.0,11.0,9.0,271.0,30.0,223.0,18.0,Non-New York City
-9229,Nassau,Sands Point Vg PD,2013,12.0,18.0,0.0,0.0,0.0,0.0,0.0,18.0,4.0,13.0,1.0,Non-New York City
-9259,Nassau,SUNY Police - Old Westbury,2013,12.0,54.0,0.0,0.0,0.0,0.0,0.0,54.0,8.0,45.0,1.0,Non-New York City
-9286,New York,County Total,2013,12.0,51872.0,8708.0,39.0,236.0,3340.0,5093.0,43164.0,2775.0,39647.0,742.0,New York City
-9316,Niagara,County Total,2013,,6655.0,798.0,4.0,37.0,240.0,517.0,5857.0,1312.0,4323.0,222.0,Non-New York City
-9348,Niagara,Lewiston Town PD,2013,12.0,146.0,12.0,0.0,0.0,1.0,11.0,134.0,30.0,96.0,8.0,Non-New York City
-9378,Niagara,Lockport City PD,2013,12.0,723.0,70.0,0.0,6.0,24.0,40.0,653.0,120.0,527.0,6.0,Non-New York City
-9407,Niagara,Middleport Vg PD,2013,12.0,21.0,2.0,0.0,0.0,0.0,2.0,19.0,1.0,16.0,2.0,Non-New York City
-9451,Niagara,Niagara County Park PD,2013,12.0,60.0,2.0,0.0,0.0,2.0,0.0,58.0,1.0,56.0,1.0,Non-New York City
-9481,Niagara,Niagara County Sheriff,2013,12.0,966.0,61.0,0.0,8.0,22.0,31.0,905.0,234.0,618.0,53.0,Non-New York City
-9511,Niagara,Niagara County State Police,2013,12.0,208.0,13.0,0.0,3.0,6.0,4.0,195.0,18.0,171.0,6.0,Non-New York City
-9541,Niagara,Niagara Falls City PD,2013,12.0,3393.0,584.0,3.0,12.0,166.0,403.0,2809.0,746.0,1949.0,114.0,Non-New York City
-9571,Niagara,Niagara Town PD,2013,12.0,507.0,13.0,0.0,0.0,2.0,11.0,494.0,48.0,432.0,14.0,Non-New York City
-9601,Niagara,North Tonawanda City PD,2013,12.0,628.0,41.0,1.0,8.0,17.0,15.0,587.0,114.0,455.0,18.0,Non-New York City
-9621,Niagara,Youngstown Vg PD,2013,12.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,Non-New York City
-9651,Oneida,Boonville Vg PD,2013,12.0,20.0,1.0,0.0,0.0,0.0,1.0,19.0,7.0,12.0,0.0,Non-New York City
-9681,Oneida,Camden Vg PD,2013,12.0,51.0,5.0,0.0,0.0,0.0,5.0,46.0,4.0,42.0,0.0,Non-New York City
-9716,Oneida,County Total,2013,,5990.0,537.0,13.0,45.0,136.0,343.0,5453.0,1056.0,4228.0,169.0,Non-New York City
-9746,Oneida,Kirkland Town PD,2013,12.0,103.0,0.0,0.0,0.0,0.0,0.0,103.0,21.0,81.0,1.0,Non-New York City
-9776,Oneida,New Hartford Town and Vg PD,2013,12.0,826.0,13.0,0.0,1.0,3.0,9.0,813.0,74.0,734.0,5.0,Non-New York City
-9806,Oneida,New York Mills Vg PD,2013,12.0,66.0,2.0,0.0,0.0,0.0,2.0,64.0,16.0,47.0,1.0,Non-New York City
-9849,Oneida,Oneida County Park PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,Non-New York City
-9879,Oneida,Oneida County Sheriff,2013,12.0,471.0,40.0,1.0,7.0,4.0,28.0,431.0,130.0,291.0,10.0,Non-New York City
-9909,Oneida,Oneida County State Police,2013,12.0,632.0,56.0,1.0,10.0,2.0,43.0,576.0,145.0,401.0,30.0,Non-New York City
-9939,Oneida,Oriskany Vg PD,2013,12.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,2.0,8.0,0.0,Non-New York City
-9969,Oneida,Rome City PD,2013,12.0,709.0,47.0,4.0,0.0,23.0,20.0,662.0,157.0,470.0,35.0,Non-New York City
-9999,Oneida,Sherrill City PD,2013,12.0,41.0,4.0,0.0,0.0,0.0,4.0,37.0,14.0,23.0,0.0,Non-New York City
-10029,Oneida,SUNY Police - Polytechnic Institute,2013,12.0,16.0,1.0,0.0,0.0,0.0,1.0,15.0,1.0,14.0,0.0,Non-New York City
-10059,Oneida,Utica City PD,2013,12.0,2890.0,361.0,7.0,27.0,102.0,225.0,2529.0,449.0,1998.0,82.0,Non-New York City
-10089,Oneida,Vernon Vg PD,2013,12.0,23.0,2.0,0.0,0.0,1.0,1.0,21.0,4.0,17.0,0.0,Non-New York City
-10122,Oneida,Whitesboro Vg PD,2013,12.0,40.0,4.0,0.0,0.0,0.0,4.0,36.0,14.0,21.0,1.0,Non-New York City
-10152,Oneida,Whitestown Town PD,2013,12.0,77.0,0.0,0.0,0.0,0.0,0.0,77.0,13.0,61.0,3.0,Non-New York City
-10182,Oneida,Yorkville Vg PD,2013,3.0,10.0,1.0,0.0,0.0,1.0,0.0,9.0,4.0,4.0,1.0,Non-New York City
-10211,Onondaga,Baldwinsville Vg PD,2013,12.0,93.0,5.0,0.0,0.0,1.0,4.0,88.0,10.0,77.0,1.0,Non-New York City
-10241,Onondaga,Camillus Town and Vg PD,2013,12.0,362.0,14.0,0.0,1.0,0.0,13.0,348.0,36.0,307.0,5.0,Non-New York City
-10271,Onondaga,Cicero Town PD,2013,12.0,452.0,12.0,0.0,0.0,2.0,10.0,440.0,45.0,393.0,2.0,Non-New York City
-10320,Onondaga,County Total,2013,,13987.0,1491.0,25.0,104.0,469.0,893.0,12496.0,2642.0,9312.0,542.0,Non-New York City
-10350,Onondaga,DeWitt Town PD,2013,12.0,735.0,20.0,0.0,0.0,10.0,10.0,715.0,85.0,618.0,12.0,Non-New York City
-10380,Onondaga,East Syracuse Vg PD,2013,12.0,155.0,8.0,0.0,0.0,4.0,4.0,147.0,19.0,121.0,7.0,Non-New York City
-10405,Onondaga,Geddes Town PD,2013,12.0,258.0,7.0,0.0,0.0,2.0,5.0,251.0,21.0,222.0,8.0,Non-New York City
-10432,Onondaga,Jordan Vg PD,2013,12.0,3.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,2.0,0.0,Non-New York City
-10461,Onondaga,Liverpool Vg PD,2013,12.0,48.0,2.0,0.0,0.0,1.0,1.0,46.0,6.0,39.0,1.0,Non-New York City
-10491,Onondaga,Manlius Town PD,2013,12.0,420.0,18.0,0.0,0.0,4.0,14.0,402.0,56.0,343.0,3.0,Non-New York City
-10521,Onondaga,Marcellus Vg PD,2013,12.0,13.0,0.0,0.0,0.0,0.0,0.0,13.0,2.0,11.0,0.0,Non-New York City
-10551,Onondaga,North Syracuse Vg PD,2013,12.0,121.0,10.0,0.0,0.0,0.0,10.0,111.0,14.0,94.0,3.0,Non-New York City
-10596,Onondaga,Onondaga County Park PD,2013,12.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,11.0,0.0,Non-New York City
-10626,Onondaga,Onondaga County Park Rangers,2013,12.0,64.0,0.0,0.0,0.0,0.0,0.0,64.0,4.0,60.0,0.0,Non-New York City
-10656,Onondaga,Onondaga County Sheriff,2013,12.0,2448.0,146.0,3.0,18.0,32.0,93.0,2302.0,386.0,1851.0,65.0,Non-New York City
-10686,Onondaga,Onondaga County State Police,2013,12.0,783.0,34.0,1.0,10.0,6.0,17.0,749.0,135.0,579.0,35.0,Non-New York City
-10716,Onondaga,Skaneateles Vg PD,2013,12.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,2.0,8.0,0.0,Non-New York City
-10746,Onondaga,Solvay Vg PD,2013,12.0,205.0,19.0,0.0,0.0,6.0,13.0,186.0,38.0,142.0,6.0,Non-New York City
-10792,Onondaga,SUNY Police - Environmental Science,2013,12.0,22.0,0.0,0.0,0.0,0.0,0.0,22.0,0.0,22.0,0.0,Non-New York City
-10804,Onondaga,SUNY Police - Upstate Medical,2013,12.0,119.0,3.0,0.0,0.0,1.0,2.0,116.0,2.0,114.0,0.0,Non-New York City
-10834,Onondaga,Syracuse City PD,2013,12.0,7665.0,1192.0,21.0,75.0,400.0,696.0,6473.0,1781.0,4298.0,394.0,Non-New York City
-10870,Ontario,Canandaigua City PD,2013,12.0,349.0,29.0,0.0,7.0,9.0,13.0,320.0,55.0,255.0,10.0,Non-New York City
-10926,Ontario,County Total,2013,,2096.0,122.0,1.0,20.0,31.0,70.0,1974.0,388.0,1549.0,37.0,Non-New York City
-10956,Ontario,Geneva City PD,2013,12.0,371.0,28.0,1.0,4.0,5.0,18.0,343.0,65.0,275.0,3.0,Non-New York City
-10994,Ontario,Ontario County Park PD,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,Non-New York City
-11022,Ontario,Ontario County Sheriff,2013,12.0,1130.0,54.0,0.0,8.0,16.0,30.0,1076.0,225.0,829.0,22.0,Non-New York City
-11052,Ontario,Ontario County State Police,2013,12.0,222.0,10.0,0.0,1.0,1.0,8.0,212.0,40.0,170.0,2.0,Non-New York City
-11079,Ontario,Phelps Vg PD,2013,11.0,22.0,1.0,0.0,0.0,0.0,1.0,21.0,3.0,18.0,0.0,Non-New York City
-11121,Orange,Blooming Grove Town PD,2013,12.0,113.0,9.0,0.0,1.0,1.0,7.0,104.0,21.0,76.0,7.0,Non-New York City
-11151,Orange,Chester Town PD,2013,12.0,24.0,0.0,0.0,0.0,0.0,0.0,24.0,9.0,15.0,0.0,Non-New York City
-11181,Orange,Chester Vg PD,2013,12.0,98.0,6.0,0.0,0.0,4.0,2.0,92.0,14.0,78.0,0.0,Non-New York City
-11211,Orange,Cornwall Town PD,2013,12.0,43.0,1.0,0.0,0.0,0.0,1.0,42.0,10.0,32.0,0.0,Non-New York City
-11239,Orange,Cornwall-on-Hudson Vg PD,2013,12.0,24.0,2.0,0.0,0.0,0.0,2.0,22.0,8.0,14.0,0.0,Non-New York City
-11269,Orange,County Total,2013,,8590.0,868.0,12.0,74.0,277.0,505.0,7722.0,1195.0,6310.0,217.0,Non-New York City
-11298,Orange,Crawford Town PD,2013,12.0,122.0,11.0,0.0,0.0,2.0,9.0,111.0,16.0,95.0,0.0,Non-New York City
-11316,Orange,Deerpark Town PD,2013,12.0,159.0,7.0,0.0,2.0,2.0,3.0,152.0,52.0,100.0,0.0,Non-New York City
-11346,Orange,Florida Vg PD,2013,12.0,44.0,0.0,0.0,0.0,0.0,0.0,44.0,5.0,39.0,0.0,Non-New York City
-11375,Orange,Goshen Town PD,2013,12.0,63.0,1.0,0.0,0.0,0.0,1.0,62.0,7.0,52.0,3.0,Non-New York City
-11405,Orange,Goshen Vg PD,2013,12.0,66.0,2.0,0.0,1.0,1.0,0.0,64.0,2.0,62.0,0.0,Non-New York City
-11435,Orange,Greenwood Lake Vg PD,2013,12.0,23.0,2.0,0.0,0.0,0.0,2.0,21.0,3.0,16.0,2.0,Non-New York City
-11465,Orange,Harriman Vg PD,2013,12.0,15.0,2.0,0.0,0.0,0.0,2.0,13.0,3.0,10.0,0.0,Non-New York City
-11495,Orange,Highland Falls Vg PD,2013,12.0,42.0,3.0,0.0,0.0,0.0,3.0,39.0,8.0,31.0,0.0,Non-New York City
-11525,Orange,Highlands Town PD,2013,12.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,2.0,8.0,0.0,Non-New York City
-11555,Orange,Maybrook Vg PD,2013,12.0,17.0,2.0,0.0,0.0,1.0,1.0,15.0,3.0,10.0,2.0,Non-New York City
-11585,Orange,Middletown City PD,2013,12.0,966.0,114.0,1.0,6.0,47.0,60.0,852.0,136.0,683.0,33.0,Non-New York City
-11615,Orange,Monroe Vg PD,2013,12.0,151.0,14.0,0.0,2.0,5.0,7.0,137.0,16.0,118.0,3.0,Non-New York City
-11643,Orange,Montgomery Town PD,2013,12.0,120.0,6.0,0.0,2.0,1.0,3.0,114.0,22.0,91.0,1.0,Non-New York City
-11673,Orange,Montgomery Vg PD,2013,12.0,47.0,2.0,0.0,0.0,0.0,2.0,45.0,3.0,42.0,0.0,Non-New York City
-11703,Orange,Mount Hope Town PD,2013,12.0,32.0,0.0,0.0,0.0,0.0,0.0,32.0,6.0,25.0,1.0,Non-New York City
-11733,Orange,New Windsor Town PD,2013,12.0,502.0,31.0,0.0,1.0,8.0,22.0,471.0,65.0,394.0,12.0,Non-New York City
-11763,Orange,Newburgh City PD,2013,12.0,1475.0,435.0,5.0,21.0,150.0,259.0,1040.0,304.0,673.0,63.0,Non-New York City
-11793,Orange,Newburgh Town PD,2013,12.0,1391.0,38.0,0.0,5.0,15.0,18.0,1353.0,143.0,1182.0,28.0,Non-New York City
-11834,Orange,Orange County MTA,2013,12.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,6.0,0.0,Non-New York City
-11864,Orange,Orange County Park PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,Non-New York City
-11894,Orange,Orange County Sheriff,2013,12.0,16.0,9.0,0.0,0.0,0.0,9.0,7.0,0.0,7.0,0.0,Non-New York City
-11924,Orange,Orange County State Police,2013,12.0,963.0,79.0,4.0,24.0,15.0,36.0,884.0,112.0,754.0,18.0,Non-New York City
-11954,Orange,Port Jervis City PD,2013,12.0,299.0,15.0,1.0,3.0,3.0,8.0,284.0,67.0,214.0,3.0,Non-New York City
-12028,Orange,Walden Vg PD,2013,12.0,161.0,18.0,1.0,2.0,1.0,14.0,143.0,12.0,126.0,5.0,Non-New York City
-12058,Orange,Wallkill Town PD,2013,12.0,807.0,40.0,0.0,3.0,16.0,21.0,767.0,91.0,650.0,26.0,Non-New York City
-12088,Orange,Warwick Town PD,2013,12.0,175.0,14.0,0.0,1.0,2.0,11.0,161.0,40.0,117.0,4.0,Non-New York City
-12120,Orange,Washingtonville Vg PD,2013,12.0,60.0,2.0,0.0,0.0,1.0,1.0,58.0,5.0,51.0,2.0,Non-New York City
-12150,Orange,Woodbury Town PD,2013,12.0,551.0,3.0,0.0,0.0,2.0,1.0,548.0,9.0,535.0,4.0,Non-New York City
-12180,Orleans,Albion Vg PD,2013,12.0,245.0,23.0,0.0,3.0,4.0,16.0,222.0,52.0,166.0,4.0,Non-New York City
-12210,Orleans,County Total,2013,,747.0,59.0,1.0,6.0,8.0,44.0,688.0,196.0,468.0,24.0,Non-New York City
-12234,Orleans,Holley Vg PD,2013,12.0,42.0,3.0,0.0,0.0,0.0,3.0,39.0,8.0,28.0,3.0,Non-New York City
-12264,Orleans,Medina Vg PD,2013,12.0,152.0,13.0,0.0,1.0,3.0,9.0,139.0,37.0,100.0,2.0,Non-New York City
-12298,Orleans,Orleans County Park PD,2013,12.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,Non-New York City
-12325,Orleans,Orleans County Sheriff,2013,12.0,253.0,13.0,1.0,1.0,1.0,10.0,240.0,84.0,144.0,12.0,Non-New York City
-12355,Orleans,Orleans County State Police,2013,12.0,52.0,7.0,0.0,1.0,0.0,6.0,45.0,15.0,27.0,3.0,Non-New York City
-12385,Oswego,Central Square Vg PD,2013,12.0,56.0,3.0,0.0,0.0,2.0,1.0,53.0,6.0,45.0,2.0,Non-New York City
-12415,Oswego,County Total,2013,,2678.0,158.0,2.0,15.0,29.0,112.0,2520.0,521.0,1919.0,80.0,Non-New York City
-12445,Oswego,Fulton City PD,2013,12.0,487.0,24.0,0.0,3.0,7.0,14.0,463.0,81.0,376.0,6.0,Non-New York City
-12475,Oswego,Oswego City PD,2013,12.0,691.0,55.0,1.0,3.0,13.0,38.0,636.0,85.0,537.0,14.0,Non-New York City
-12515,Oswego,Oswego County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Non-New York City
-12543,Oswego,Oswego County Sheriff,2013,12.0,459.0,35.0,1.0,1.0,2.0,31.0,424.0,99.0,305.0,20.0,Non-New York City
-12573,Oswego,Oswego County State Police,2013,12.0,728.0,35.0,0.0,8.0,4.0,23.0,693.0,196.0,462.0,35.0,Non-New York City
-12606,Oswego,Phoenix Vg PD,2013,12.0,45.0,4.0,0.0,0.0,1.0,3.0,41.0,2.0,39.0,0.0,Non-New York City
-12636,Oswego,Pulaski Vg PD,2013,12.0,58.0,1.0,0.0,0.0,0.0,1.0,57.0,12.0,44.0,1.0,Non-New York City
-12666,Oswego,SUNY Police - Oswego,2013,12.0,153.0,1.0,0.0,0.0,0.0,1.0,152.0,39.0,111.0,2.0,Non-New York City
-12694,Otsego,Cooperstown Vg PD,2013,12.0,24.0,1.0,0.0,0.0,0.0,1.0,23.0,2.0,21.0,0.0,Non-New York City
-12723,Otsego,County Total,2013,,835.0,65.0,1.0,11.0,15.0,38.0,770.0,177.0,579.0,14.0,Non-New York City
-12753,Otsego,Oneonta City PD,2013,12.0,332.0,21.0,0.0,3.0,11.0,7.0,311.0,69.0,238.0,4.0,Non-New York City
-12786,Otsego,Otsego County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-12813,Otsego,Otsego County Sheriff,2013,12.0,98.0,22.0,1.0,0.0,3.0,18.0,76.0,37.0,33.0,6.0,Non-New York City
-12843,Otsego,Otsego County State Police,2013,12.0,369.0,21.0,0.0,8.0,1.0,12.0,348.0,67.0,277.0,4.0,Non-New York City
-12870,Otsego,SUNY Police - Oneonta,2013,12.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,2.0,9.0,0.0,Non-New York City
-12887,Putnam,Brewster Vg PD,2013,12.0,13.0,0.0,0.0,0.0,0.0,0.0,13.0,3.0,10.0,0.0,Non-New York City
-12917,Putnam,Carmel Town PD,2013,12.0,208.0,10.0,0.0,2.0,0.0,8.0,198.0,31.0,158.0,9.0,Non-New York City
-12968,Putnam,County Total,2013,,772.0,49.0,0.0,12.0,8.0,29.0,723.0,131.0,565.0,27.0,Non-New York City
-12998,Putnam,Kent Town PD,2013,12.0,99.0,1.0,0.0,1.0,0.0,0.0,98.0,22.0,71.0,5.0,Non-New York City
-13026,Putnam,Putnam County MTA,2013,12.0,13.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,13.0,0.0,Non-New York City
-13084,Putnam,Putnam County Sheriff,2013,12.0,341.0,30.0,0.0,8.0,5.0,17.0,311.0,57.0,247.0,7.0,Non-New York City
-13114,Putnam,Putnam County State Police,2013,12.0,98.0,8.0,0.0,1.0,3.0,4.0,90.0,18.0,66.0,6.0,Non-New York City
-13152,Queens,County Total,2013,12.0,39913.0,10740.0,59.0,254.0,3994.0,6433.0,29173.0,4732.0,22030.0,2411.0,New York City
-13217,Rensselaer,County Total,2013,,4137.0,471.0,3.0,24.0,159.0,285.0,3666.0,917.0,2615.0,134.0,Non-New York City
-13247,Rensselaer,East Greenbush Town PD,2013,12.0,385.0,12.0,0.0,0.0,4.0,8.0,373.0,36.0,330.0,7.0,Non-New York City
-13277,Rensselaer,Hoosick Falls Vg PD,2013,12.0,48.0,9.0,0.0,1.0,1.0,7.0,39.0,10.0,27.0,2.0,Non-New York City
-13307,Rensselaer,Nassau Vg PD,2013,12.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,5.0,5.0,0.0,Non-New York City
-13337,Rensselaer,North Greenbush Town PD,2013,12.0,239.0,8.0,0.0,0.0,2.0,6.0,231.0,32.0,197.0,2.0,Non-New York City
-13367,Rensselaer,Rensselaer City PD,2013,12.0,178.0,19.0,0.0,4.0,3.0,12.0,159.0,44.0,108.0,7.0,Non-New York City
-13403,Rensselaer,Rensselaer County Park PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,5.0,0.0,Non-New York City
-13433,Rensselaer,Rensselaer County Sheriff,2013,12.0,235.0,24.0,0.0,0.0,3.0,21.0,211.0,59.0,146.0,6.0,Non-New York City
-13463,Rensselaer,Rensselaer County State Police,2013,12.0,500.0,22.0,2.0,3.0,0.0,17.0,478.0,113.0,344.0,21.0,Non-New York City
-13493,Rensselaer,Rensselaer Poly Tech Police,2013,12.0,78.0,0.0,0.0,0.0,0.0,0.0,78.0,0.0,78.0,0.0,Non-New York City
-13523,Rensselaer,Schodack Town PD,2013,12.0,101.0,4.0,0.0,0.0,1.0,3.0,97.0,25.0,70.0,2.0,Non-New York City
-13553,Rensselaer,Troy City PD,2013,12.0,2358.0,373.0,1.0,16.0,145.0,211.0,1985.0,593.0,1305.0,87.0,Non-New York City
-13583,Richmond,County Total,2013,12.0,7234.0,1658.0,7.0,32.0,526.0,1093.0,5576.0,669.0,4681.0,226.0,New York City
-13613,Rockland,Clarkstown Town PD,2013,12.0,1585.0,65.0,0.0,8.0,17.0,40.0,1520.0,99.0,1392.0,29.0,Non-New York City
-13643,Rockland,County Total,2013,,3807.0,395.0,4.0,28.0,94.0,269.0,3412.0,408.0,2911.0,93.0,Non-New York City
-13673,Rockland,Haverstraw Town PD,2013,12.0,404.0,64.0,0.0,3.0,16.0,45.0,340.0,83.0,244.0,13.0,Non-New York City
-13721,Rockland,Orangetown Town PD,2013,12.0,354.0,37.0,0.0,1.0,13.0,23.0,317.0,41.0,262.0,14.0,Non-New York City
-13749,Rockland,Piermont Vg PD,2013,12.0,20.0,1.0,0.0,1.0,0.0,0.0,19.0,6.0,13.0,0.0,Non-New York City
-13779,Rockland,Ramapo Town PD,2013,12.0,628.0,57.0,2.0,5.0,9.0,41.0,571.0,89.0,469.0,13.0,Non-New York City
-13809,Rockland,Rockland County MTA,2013,12.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,Non-New York City
-13837,Rockland,Rockland County Park PD,2013,12.0,18.0,0.0,0.0,0.0,0.0,0.0,18.0,2.0,16.0,0.0,Non-New York City
-13867,Rockland,Rockland County Sheriff,2013,12.0,23.0,4.0,0.0,0.0,0.0,4.0,19.0,0.0,19.0,0.0,Non-New York City
-13897,Rockland,Rockland County State Police,2013,12.0,24.0,9.0,0.0,1.0,2.0,6.0,15.0,2.0,13.0,0.0,Non-New York City
-13927,Rockland,South Nyack-Grand View PD,2013,12.0,18.0,3.0,0.0,0.0,1.0,2.0,15.0,4.0,11.0,0.0,Non-New York City
-13957,Rockland,Spring Valley Vg PD,2013,12.0,541.0,134.0,2.0,9.0,34.0,89.0,407.0,53.0,337.0,17.0,Non-New York City
-13987,Rockland,Stony Point Town PD,2013,12.0,119.0,12.0,0.0,0.0,1.0,11.0,107.0,18.0,83.0,6.0,Non-New York City
-14017,Rockland,Suffern Vg PD,2013,12.0,69.0,9.0,0.0,0.0,1.0,8.0,60.0,11.0,48.0,1.0,Non-New York City
-14047,Saratoga,Ballston Spa Vg PD,2013,12.0,102.0,8.0,0.0,0.0,3.0,5.0,94.0,16.0,78.0,0.0,Non-New York City
-14095,Saratoga,County Total,2013,,3115.0,173.0,1.0,21.0,35.0,116.0,2942.0,494.0,2385.0,63.0,Non-New York City
-14125,Saratoga,Mechanicville City PD,2013,12.0,123.0,8.0,0.0,0.0,3.0,5.0,115.0,21.0,89.0,5.0,Non-New York City
-14163,Saratoga,Saratoga County Park PD,2013,12.0,39.0,0.0,0.0,0.0,0.0,0.0,39.0,2.0,36.0,1.0,Non-New York City
-14193,Saratoga,Saratoga County Sheriff,2013,12.0,1244.0,59.0,0.0,4.0,8.0,47.0,1185.0,243.0,906.0,36.0,Non-New York City
-14223,Saratoga,Saratoga County State Police,2013,12.0,723.0,53.0,0.0,13.0,12.0,28.0,670.0,101.0,561.0,8.0,Non-New York City
-14253,Saratoga,Saratoga Springs City PD,2013,12.0,675.0,33.0,1.0,3.0,8.0,21.0,642.0,84.0,550.0,8.0,Non-New York City
-14283,Saratoga,South Glens Falls Vg PD,2013,12.0,121.0,7.0,0.0,1.0,1.0,5.0,114.0,17.0,95.0,2.0,Non-New York City
-14313,Saratoga,Stillwater Town PD,2013,12.0,25.0,1.0,0.0,0.0,0.0,1.0,24.0,4.0,18.0,2.0,Non-New York City
-14343,Saratoga,Waterford Town and Vg PD,2013,12.0,63.0,4.0,0.0,0.0,0.0,4.0,59.0,6.0,52.0,1.0,Non-New York City
-14373,Schenectady,County Total,2013,,5378.0,675.0,11.0,36.0,229.0,399.0,4703.0,1007.0,3500.0,196.0,Non-New York City
-14403,Schenectady,Glenville Town PD,2013,12.0,506.0,13.0,0.0,0.0,2.0,11.0,493.0,57.0,426.0,10.0,Non-New York City
-14433,Schenectady,Niskayuna Town PD,2013,12.0,354.0,13.0,0.0,1.0,5.0,7.0,341.0,51.0,282.0,8.0,Non-New York City
-14463,Schenectady,Rotterdam Town PD,2013,12.0,862.0,33.0,2.0,4.0,16.0,11.0,829.0,109.0,700.0,20.0,Non-New York City
-14493,Schenectady,Schenectady City PD,2013,12.0,3410.0,608.0,8.0,31.0,205.0,364.0,2802.0,770.0,1878.0,154.0,Non-New York City
-14540,Schenectady,Schenectady County Sheriff,2013,12.0,6.0,1.0,0.0,0.0,0.0,1.0,5.0,0.0,5.0,0.0,Non-New York City
-14570,Schenectady,Schenectady County State Police,2013,12.0,109.0,2.0,0.0,0.0,0.0,2.0,107.0,6.0,97.0,4.0,Non-New York City
-14600,Schenectady,Scotia Vg PD,2013,12.0,131.0,5.0,1.0,0.0,1.0,3.0,126.0,14.0,112.0,0.0,Non-New York City
-14630,Schoharie,Cobleskill Vg PD,2013,12.0,223.0,5.0,0.0,0.0,3.0,2.0,218.0,14.0,204.0,0.0,Non-New York City
-14660,Schoharie,County Total,2013,,536.0,27.0,0.0,8.0,5.0,14.0,509.0,117.0,383.0,9.0,Non-New York City
-14704,Schoharie,Schoharie County Sheriff,2013,12.0,75.0,4.0,0.0,0.0,0.0,4.0,71.0,24.0,45.0,2.0,Non-New York City
-14734,Schoharie,Schoharie County State Police,2013,12.0,184.0,14.0,0.0,7.0,1.0,6.0,170.0,70.0,95.0,5.0,Non-New York City
-14792,Schoharie,SUNY Police - Cobleskill,2013,12.0,54.0,4.0,0.0,1.0,1.0,2.0,50.0,9.0,39.0,2.0,Non-New York City
-14822,Schuyler,County Total,2013,,165.0,14.0,0.0,0.0,1.0,13.0,151.0,33.0,111.0,7.0,Non-New York City
-14852,Schuyler,Schuyler County Park PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,4.0,1.0,Non-New York City
-14881,Schuyler,Schuyler County Sheriff,2013,12.0,33.0,7.0,0.0,0.0,1.0,6.0,26.0,14.0,10.0,2.0,Non-New York City
-14911,Schuyler,Schuyler County State Police,2013,12.0,28.0,1.0,0.0,0.0,0.0,1.0,27.0,9.0,16.0,2.0,Non-New York City
-14941,Schuyler,Watkins Glen Vg PD,2013,12.0,99.0,6.0,0.0,0.0,0.0,6.0,93.0,10.0,81.0,2.0,Non-New York City
-14971,Seneca,County Total,2013,,794.0,62.0,2.0,8.0,5.0,47.0,732.0,123.0,599.0,10.0,Non-New York City
-14986,Seneca,Interlaken Vg PD,2013,2.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,Non-New York City
-15024,Seneca,Seneca County Park PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,5.0,0.0,Non-New York City
-15054,Seneca,Seneca County Sheriff,2013,12.0,92.0,5.0,1.0,1.0,0.0,3.0,87.0,10.0,74.0,3.0,Non-New York City
-15084,Seneca,Seneca County State Police,2013,12.0,181.0,33.0,1.0,6.0,1.0,25.0,148.0,42.0,106.0,0.0,Non-New York City
-15097,Seneca,Seneca Falls Town PD,2013,12.0,305.0,12.0,0.0,0.0,1.0,11.0,293.0,48.0,240.0,5.0,Non-New York City
-15149,Seneca,Waterloo Vg PD,2013,12.0,208.0,12.0,0.0,1.0,3.0,8.0,196.0,23.0,171.0,2.0,Non-New York City
-15179,St Lawrence,Canton Vg PD,2013,12.0,97.0,3.0,0.0,0.0,1.0,2.0,94.0,11.0,82.0,1.0,Non-New York City
-15209,St Lawrence,County Total,2013,,1965.0,112.0,1.0,10.0,12.0,89.0,1853.0,345.0,1470.0,38.0,Non-New York City
-15263,St Lawrence,Massena Vg PD,2013,12.0,432.0,22.0,0.0,2.0,2.0,18.0,410.0,52.0,358.0,0.0,Non-New York City
-15288,St Lawrence,Norfolk Town PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,3.0,1.0,1.0,Non-New York City
-15339,St Lawrence,Ogdensburg City PD,2013,12.0,420.0,23.0,0.0,1.0,5.0,17.0,397.0,72.0,321.0,4.0,Non-New York City
-15369,St Lawrence,Potsdam Vg PD,2013,12.0,198.0,8.0,0.0,1.0,0.0,7.0,190.0,17.0,168.0,5.0,Non-New York City
-15409,St Lawrence,St Lawrence County Park PD,2013,12.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,7.0,0.0,Non-New York City
-15438,St Lawrence,St Lawrence County Sheriff,2013,12.0,52.0,11.0,0.0,0.0,0.0,11.0,41.0,8.0,33.0,0.0,Non-New York City
-15468,St Lawrence,St Lawrence County State Police,2013,12.0,637.0,41.0,1.0,3.0,3.0,34.0,596.0,174.0,397.0,25.0,Non-New York City
-15517,St Lawrence,SUNY Police - Canton,2013,12.0,60.0,2.0,0.0,1.0,1.0,0.0,58.0,5.0,53.0,0.0,Non-New York City
-15529,St Lawrence,SUNY Police - Potsdam,2013,12.0,57.0,2.0,0.0,2.0,0.0,0.0,55.0,3.0,50.0,2.0,Non-New York City
-15559,Steuben,Addison Vg PD,2013,12.0,27.0,3.0,0.0,0.0,0.0,3.0,24.0,3.0,20.0,1.0,Non-New York City
-15595,Steuben,Bath Vg PD,2013,12.0,206.0,15.0,0.0,1.0,3.0,11.0,191.0,32.0,157.0,2.0,Non-New York City
-15625,Steuben,Canisteo Vg PD,2013,12.0,15.0,3.0,0.0,0.0,1.0,2.0,12.0,3.0,9.0,0.0,Non-New York City
-15659,Steuben,Cohocton Town PD,2013,12.0,15.0,4.0,0.0,1.0,0.0,3.0,11.0,4.0,7.0,0.0,Non-New York City
-15688,Steuben,Corning City PD,2013,12.0,451.0,35.0,0.0,3.0,8.0,24.0,416.0,63.0,349.0,4.0,Non-New York City
-15718,Steuben,County Total,2013,,1541.0,123.0,1.0,21.0,13.0,88.0,1418.0,269.0,1125.0,24.0,Non-New York City
-15743,Steuben,Hammondsport Vg PD,2013,12.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,1.0,9.0,0.0,Non-New York City
-15773,Steuben,Hornell City PD,2013,12.0,117.0,5.0,0.0,0.0,0.0,5.0,112.0,18.0,94.0,0.0,Non-New York City
-15803,Steuben,Painted Post Vg PD,2013,12.0,74.0,1.0,0.0,0.0,0.0,1.0,73.0,5.0,66.0,2.0,Non-New York City
-15838,Steuben,Steuben County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-15865,Steuben,Steuben County Sheriff,2013,12.0,182.0,13.0,0.0,3.0,1.0,9.0,169.0,45.0,122.0,2.0,Non-New York City
-15895,Steuben,Steuben County State Police,2013,12.0,435.0,44.0,1.0,13.0,0.0,30.0,391.0,94.0,284.0,13.0,Non-New York City
-15925,Steuben,Wayland Vg PD,2013,12.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,1.0,7.0,0.0,Non-New York City
-15955,Suffolk,Amityville Vg PD,2013,12.0,219.0,9.0,0.0,2.0,4.0,3.0,210.0,16.0,188.0,6.0,Non-New York City
-15985,Suffolk,Asharoken Vg PD,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,Non-New York City
-16014,Suffolk,County Total,2013,,26379.0,1934.0,27.0,53.0,694.0,1160.0,24445.0,3610.0,19656.0,1179.0,Non-New York City
-16044,Suffolk,East Hampton Town PD,2013,12.0,328.0,20.0,0.0,2.0,1.0,17.0,308.0,59.0,241.0,8.0,Non-New York City
-16074,Suffolk,East Hampton Vg PD,2013,12.0,66.0,0.0,0.0,0.0,0.0,0.0,66.0,4.0,60.0,2.0,Non-New York City
-16126,Suffolk,Huntington Bay Vg PD,2013,12.0,13.0,1.0,0.0,0.0,0.0,1.0,12.0,0.0,11.0,1.0,Non-New York City
-16156,Suffolk,Lloyd Harbor Vg PD,2013,12.0,18.0,0.0,0.0,0.0,0.0,0.0,18.0,2.0,16.0,0.0,Non-New York City
-16186,Suffolk,Nissequogue Vg PD,2013,12.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,1.0,6.0,1.0,Non-New York City
-16216,Suffolk,Northport Vg PD,2013,12.0,65.0,6.0,0.0,0.0,1.0,5.0,59.0,11.0,44.0,4.0,Non-New York City
-16245,Suffolk,Ocean Beach Vg PD,2013,12.0,13.0,0.0,0.0,0.0,0.0,0.0,13.0,3.0,9.0,1.0,Non-New York City
-16275,Suffolk,Quogue Vg PD,2013,12.0,41.0,0.0,0.0,0.0,0.0,0.0,41.0,13.0,27.0,1.0,Non-New York City
-16305,Suffolk,Riverhead Town PD,2013,12.0,986.0,64.0,0.0,3.0,26.0,35.0,922.0,160.0,729.0,33.0,Non-New York City
-16335,Suffolk,Sag Harbor Vg PD,2013,12.0,74.0,3.0,0.0,0.0,1.0,2.0,71.0,17.0,53.0,1.0,Non-New York City
-16367,Suffolk,Shelter Island Town PD,2013,12.0,44.0,3.0,0.0,0.0,0.0,3.0,41.0,2.0,39.0,0.0,Non-New York City
-16395,Suffolk,Southampton Town PD,2013,12.0,1064.0,44.0,0.0,6.0,16.0,22.0,1020.0,219.0,752.0,49.0,Non-New York City
-16425,Suffolk,Southampton Vg PD,2013,12.0,121.0,3.0,0.0,0.0,1.0,2.0,118.0,9.0,105.0,4.0,Non-New York City
-16453,Suffolk,Southold Town PD,2013,12.0,362.0,16.0,0.0,1.0,8.0,7.0,346.0,70.0,272.0,4.0,Non-New York City
-16482,Suffolk,Suffolk County MTA,2013,12.0,88.0,13.0,0.0,0.0,7.0,6.0,75.0,1.0,74.0,0.0,Non-New York City
-16512,Suffolk,Suffolk County Park PD,2013,12.0,89.0,4.0,0.0,0.0,0.0,4.0,85.0,2.0,83.0,0.0,Non-New York City
-16542,Suffolk,Suffolk County Park Rangers,2013,12.0,36.0,0.0,0.0,0.0,0.0,0.0,36.0,1.0,35.0,0.0,Non-New York City
-16567,Suffolk,Suffolk County PD,2013,12.0,22192.0,1611.0,27.0,35.0,620.0,929.0,20581.0,2979.0,16551.0,1051.0,Non-New York City
-16597,Suffolk,Suffolk County Sheriff,2013,12.0,114.0,109.0,0.0,0.0,0.0,109.0,5.0,0.0,2.0,3.0,Non-New York City
-16627,Suffolk,Suffolk County State Police,2013,12.0,61.0,13.0,0.0,2.0,6.0,5.0,48.0,11.0,31.0,6.0,Non-New York City
-16674,Suffolk,SUNY Police - Farmingdale,2013,12.0,29.0,0.0,0.0,0.0,0.0,0.0,29.0,0.0,29.0,0.0,Non-New York City
-16686,Suffolk,SUNY Police - Stony Brook,2013,12.0,300.0,13.0,0.0,2.0,3.0,8.0,287.0,26.0,260.0,1.0,Non-New York City
-16716,Suffolk,Westhampton Beach Vg PD,2013,12.0,46.0,2.0,0.0,0.0,0.0,2.0,44.0,4.0,37.0,3.0,Non-New York City
-16746,Sullivan,County Total,2013,,1720.0,172.0,1.0,18.0,22.0,131.0,1548.0,484.0,1024.0,40.0,Non-New York City
-16776,Sullivan,Fallsburg Town PD,2013,12.0,186.0,23.0,1.0,0.0,0.0,22.0,163.0,65.0,97.0,1.0,Non-New York City
-16806,Sullivan,Liberty Vg PD,2013,12.0,228.0,21.0,0.0,2.0,2.0,17.0,207.0,43.0,161.0,3.0,Non-New York City
-16840,Sullivan,Monticello Vg PD,2013,12.0,324.0,48.0,0.0,4.0,16.0,28.0,276.0,107.0,164.0,5.0,Non-New York City
-16864,Sullivan,NYC-DEPP - Grahamsville PCT,2013,4.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-16880,Sullivan,Sullivan County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-16907,Sullivan,Sullivan County Sheriff,2013,12.0,512.0,24.0,0.0,0.0,3.0,21.0,488.0,113.0,363.0,12.0,Non-New York City
-16937,Sullivan,Sullivan County State Police,2013,12.0,444.0,49.0,0.0,12.0,1.0,36.0,395.0,148.0,228.0,19.0,Non-New York City
-16967,Sullivan,Woodridge Vg PD,2013,12.0,24.0,7.0,0.0,0.0,0.0,7.0,17.0,8.0,9.0,0.0,Non-New York City
-16997,Tioga,County Total,2013,,650.0,27.0,1.0,4.0,5.0,17.0,623.0,166.0,432.0,25.0,Non-New York City
-17027,Tioga,Owego Vg PD,2013,12.0,212.0,9.0,0.0,1.0,2.0,6.0,203.0,41.0,158.0,4.0,Non-New York City
-17044,Tioga,Tioga County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-17068,Tioga,Tioga County Sheriff,2013,12.0,265.0,10.0,1.0,2.0,2.0,5.0,255.0,88.0,164.0,3.0,Non-New York City
-17098,Tioga,Tioga County State Police,2013,12.0,113.0,3.0,0.0,1.0,0.0,2.0,110.0,28.0,68.0,14.0,Non-New York City
-17128,Tioga,Waverly Vg PD,2013,12.0,59.0,5.0,0.0,0.0,1.0,4.0,54.0,9.0,41.0,4.0,Non-New York City
-17158,Tompkins,Cayuga Heights Vg PD,2013,12.0,60.0,1.0,0.0,0.0,1.0,0.0,59.0,12.0,47.0,0.0,Non-New York City
-17188,Tompkins,Cornell University Police,2013,12.0,261.0,3.0,0.0,1.0,2.0,0.0,258.0,16.0,242.0,0.0,Non-New York City
-17218,Tompkins,County Total,2013,,2902.0,109.0,1.0,13.0,29.0,66.0,2793.0,459.0,2296.0,38.0,Non-New York City
-17248,Tompkins,Dryden Vg PD,2013,12.0,102.0,3.0,0.0,0.0,1.0,2.0,99.0,6.0,93.0,0.0,Non-New York City
-17297,Tompkins,Groton Vg PD,2013,12.0,39.0,1.0,0.0,1.0,0.0,0.0,38.0,6.0,31.0,1.0,Non-New York City
-17327,Tompkins,Ithaca City PD,2013,12.0,1414.0,50.0,0.0,5.0,17.0,28.0,1364.0,198.0,1150.0,16.0,Non-New York City
-17357,Tompkins,Ithaca College PD,2013,12.0,119.0,0.0,0.0,0.0,0.0,0.0,119.0,37.0,81.0,1.0,Non-New York City
-17387,Tompkins,Tompkins County Park PD,2013,12.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,1.0,6.0,0.0,Non-New York City
-17417,Tompkins,Tompkins County Sheriff,2013,12.0,569.0,35.0,1.0,5.0,4.0,25.0,534.0,120.0,404.0,10.0,Non-New York City
-17447,Tompkins,Tompkins County State Police,2013,12.0,263.0,14.0,0.0,0.0,3.0,11.0,249.0,57.0,184.0,8.0,Non-New York City
-17472,Tompkins,Trumansburg Vg PD,2013,12.0,68.0,2.0,0.0,1.0,1.0,0.0,66.0,6.0,58.0,2.0,Non-New York City
-17518,Ulster,County Total,2013,,3582.0,294.0,3.0,31.0,52.0,208.0,3288.0,593.0,2640.0,55.0,Non-New York City
-17547,Ulster,Ellenville Vg PD,2013,12.0,190.0,17.0,0.0,1.0,2.0,14.0,173.0,41.0,132.0,0.0,Non-New York City
-17580,Ulster,Kingston City PD,2013,12.0,761.0,74.0,1.0,4.0,25.0,44.0,687.0,112.0,565.0,10.0,Non-New York City
-17610,Ulster,Lloyd Town PD,2013,12.0,124.0,6.0,0.0,0.0,0.0,6.0,118.0,20.0,95.0,3.0,Non-New York City
-17640,Ulster,Marlborough Town PD,2013,12.0,140.0,5.0,0.0,0.0,1.0,4.0,135.0,35.0,97.0,3.0,Non-New York City
-17670,Ulster,New Paltz Town and Vg PD,2013,12.0,234.0,34.0,0.0,4.0,4.0,26.0,200.0,16.0,180.0,4.0,Non-New York City
-17705,Ulster,Olive Town PD,2013,12.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,Non-New York City
-17735,Ulster,Plattekill Town PD,2013,12.0,114.0,8.0,0.0,1.0,2.0,5.0,106.0,28.0,77.0,1.0,Non-New York City
-17765,Ulster,Rosendale Town PD,2013,12.0,62.0,1.0,0.0,0.0,0.0,1.0,61.0,16.0,45.0,0.0,Non-New York City
-17795,Ulster,Saugerties Town PD,2013,12.0,334.0,15.0,0.0,3.0,5.0,7.0,319.0,51.0,268.0,0.0,Non-New York City
-17846,Ulster,Shandaken Town PD,2013,12.0,66.0,4.0,0.0,0.0,0.0,4.0,62.0,17.0,44.0,1.0,Non-New York City
-17876,Ulster,Shawangunk Town PD,2013,12.0,83.0,3.0,0.0,0.0,0.0,3.0,80.0,20.0,60.0,0.0,Non-New York City
-17906,Ulster,SUNY Police - New Paltz,2013,12.0,48.0,1.0,0.0,0.0,0.0,1.0,47.0,3.0,43.0,1.0,Non-New York City
-17945,Ulster,Ulster County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
-17973,Ulster,Ulster County Sheriff,2013,12.0,338.0,36.0,1.0,6.0,5.0,24.0,302.0,66.0,229.0,7.0,Non-New York City
-18003,Ulster,Ulster County State Police,2013,12.0,569.0,74.0,1.0,9.0,6.0,58.0,495.0,128.0,344.0,23.0,Non-New York City
-18011,Ulster,Ulster Regional Gang Enforcement Narcotics Team,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,Non-New York City
-18038,Ulster,Ulster Town PD,2013,12.0,451.0,14.0,0.0,3.0,2.0,9.0,437.0,25.0,410.0,2.0,Non-New York City
-18068,Ulster,Woodstock Town PD,2013,12.0,62.0,2.0,0.0,0.0,0.0,2.0,60.0,15.0,45.0,0.0,Non-New York City
-18097,Warren,Bolton Town PD,2013,12.0,26.0,2.0,0.0,0.0,0.0,2.0,24.0,4.0,20.0,0.0,Non-New York City
-18127,Warren,County Total,2013,,1297.0,53.0,1.0,10.0,7.0,35.0,1244.0,158.0,1073.0,13.0,Non-New York City
-18157,Warren,Glens Falls City PD,2013,12.0,364.0,21.0,0.0,1.0,3.0,17.0,343.0,50.0,288.0,5.0,Non-New York City
-18188,Warren,Warren County Sheriff,2013,12.0,689.0,18.0,1.0,4.0,3.0,10.0,671.0,85.0,579.0,7.0,Non-New York City
-18218,Warren,Warren County State Police,2013,12.0,218.0,12.0,0.0,5.0,1.0,6.0,206.0,19.0,186.0,1.0,Non-New York City
-18248,Washington,Cambridge Vg PD,2013,12.0,46.0,2.0,0.0,0.0,0.0,2.0,44.0,12.0,31.0,1.0,Non-New York City
-18278,Washington,County Total,2013,,882.0,71.0,1.0,5.0,6.0,59.0,811.0,187.0,601.0,23.0,Non-New York City
-18308,Washington,Fort Edward Vg PD,2013,12.0,18.0,10.0,1.0,0.0,0.0,9.0,8.0,4.0,4.0,0.0,Non-New York City
-18338,Washington,Granville Vg PD,2013,12.0,32.0,6.0,0.0,1.0,0.0,5.0,26.0,7.0,19.0,0.0,Non-New York City
-18368,Washington,Greenwich Vg PD,2013,12.0,26.0,2.0,0.0,0.0,0.0,2.0,24.0,1.0,22.0,1.0,Non-New York City
-18398,Washington,Hudson Falls Vg PD,2013,12.0,118.0,6.0,0.0,0.0,2.0,4.0,112.0,22.0,90.0,0.0,Non-New York City
-18451,Washington,Washington County Sheriff,2013,12.0,407.0,32.0,0.0,3.0,2.0,27.0,375.0,84.0,281.0,10.0,Non-New York City
-18481,Washington,Washington County State Police,2013,12.0,167.0,7.0,0.0,1.0,2.0,4.0,160.0,45.0,105.0,10.0,Non-New York City
-18507,Washington,Whitehall Vg PD,2013,12.0,68.0,6.0,0.0,0.0,0.0,6.0,62.0,12.0,49.0,1.0,Non-New York City
-18534,Wayne,Clyde Vg PD,2013,12.0,64.0,4.0,0.0,0.0,3.0,1.0,60.0,16.0,43.0,1.0,Non-New York City
-18564,Wayne,County Total,2013,,1842.0,153.0,4.0,21.0,29.0,99.0,1689.0,469.0,1182.0,38.0,Non-New York City
-18594,Wayne,Lyons Vg PD,2013,12.0,206.0,27.0,0.0,5.0,3.0,19.0,179.0,34.0,142.0,3.0,Non-New York City
-18620,Wayne,Macedon Town and Vg PD,2013,12.0,67.0,4.0,0.0,0.0,1.0,3.0,63.0,7.0,54.0,2.0,Non-New York City
-18650,Wayne,Newark Vg PD,2013,12.0,364.0,27.0,0.0,3.0,7.0,17.0,337.0,71.0,264.0,2.0,Non-New York City
-18680,Wayne,Palmyra Vg PD,2013,12.0,47.0,4.0,0.0,0.0,0.0,4.0,43.0,9.0,33.0,1.0,Non-New York City
-18699,Wayne,Sodus Point Vg PD,2013,12.0,9.0,1.0,0.0,0.0,0.0,1.0,8.0,0.0,8.0,0.0,Non-New York City
-18725,Wayne,Sodus Vg PD,2013,12.0,23.0,0.0,0.0,0.0,0.0,0.0,23.0,2.0,21.0,0.0,Non-New York City
-18779,Wayne,Wayne County Sheriff,2013,12.0,506.0,43.0,2.0,2.0,8.0,31.0,463.0,158.0,293.0,12.0,Non-New York City
-18809,Wayne,Wayne County State Police,2013,12.0,550.0,43.0,2.0,11.0,7.0,23.0,507.0,169.0,321.0,17.0,Non-New York City
-18829,Wayne,Wolcott Vg PD,2013,12.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,3.0,3.0,0.0,Non-New York City
-18859,Westchester,Ardsley Vg PD,2013,12.0,38.0,5.0,0.0,0.0,3.0,2.0,33.0,4.0,28.0,1.0,Non-New York City
-18889,Westchester,Bedford Town PD,2013,12.0,161.0,5.0,0.0,0.0,1.0,4.0,156.0,26.0,126.0,4.0,Non-New York City
-18919,Westchester,Briarcliff Manor Vg PD,2013,12.0,12.0,1.0,0.0,0.0,0.0,1.0,11.0,1.0,10.0,0.0,Non-New York City
-18949,Westchester,Bronxville Vg PD,2013,12.0,47.0,0.0,0.0,0.0,0.0,0.0,47.0,5.0,39.0,3.0,Non-New York City
-18978,Westchester,Buchanan Vg PD,2013,12.0,5.0,1.0,0.0,1.0,0.0,0.0,4.0,0.0,4.0,0.0,Non-New York City
-19017,Westchester,County Total,2013,,14135.0,2192.0,11.0,59.0,843.0,1279.0,11943.0,1678.0,9646.0,619.0,Non-New York City
-19063,Westchester,Croton-On-Hudson Vg PD,2013,12.0,54.0,1.0,0.0,0.0,1.0,0.0,53.0,8.0,43.0,2.0,Non-New York City
-19093,Westchester,Dobbs Ferry Vg PD,2013,12.0,105.0,1.0,0.0,0.0,0.0,1.0,104.0,13.0,89.0,2.0,Non-New York City
-19123,Westchester,Eastchester Town PD,2013,12.0,170.0,2.0,0.0,0.0,0.0,2.0,168.0,13.0,154.0,1.0,Non-New York City
-19153,Westchester,Elmsford Vg PD,2013,12.0,37.0,2.0,0.0,1.0,0.0,1.0,35.0,3.0,27.0,5.0,Non-New York City
-19183,Westchester,Greenburgh Town PD,2013,12.0,627.0,48.0,1.0,5.0,16.0,26.0,579.0,55.0,501.0,23.0,Non-New York City
-19211,Westchester,Harrison Town PD,2013,12.0,231.0,6.0,0.0,0.0,1.0,5.0,225.0,27.0,194.0,4.0,Non-New York City
-19241,Westchester,Hastings-on-Hudson Vg PD,2013,12.0,82.0,1.0,0.0,0.0,1.0,0.0,81.0,4.0,75.0,2.0,Non-New York City
-19276,Westchester,Irvington Vg PD,2013,12.0,23.0,0.0,0.0,0.0,0.0,0.0,23.0,4.0,19.0,0.0,Non-New York City
-19306,Westchester,Larchmont Vg PD,2013,12.0,89.0,2.0,0.0,0.0,0.0,2.0,87.0,8.0,77.0,2.0,Non-New York City
-19327,Westchester,Lewisboro Town PD,2013,12.0,31.0,0.0,0.0,0.0,0.0,0.0,31.0,0.0,31.0,0.0,Non-New York City
-19355,Westchester,Mamaroneck Town PD,2013,12.0,159.0,1.0,0.0,0.0,1.0,0.0,158.0,16.0,141.0,1.0,Non-New York City
-19385,Westchester,Mamaroneck Vg PD,2013,12.0,189.0,8.0,0.0,1.0,2.0,5.0,181.0,23.0,150.0,8.0,Non-New York City
-19415,Westchester,Mount Kisco Vg PD,2013,12.0,125.0,17.0,0.0,1.0,6.0,10.0,108.0,10.0,98.0,0.0,Non-New York City
-19441,Westchester,Mount Pleasant Town PD,2013,12.0,238.0,12.0,0.0,0.0,6.0,6.0,226.0,25.0,198.0,3.0,Non-New York City
-19471,Westchester,Mount Vernon City PD,2013,12.0,1993.0,556.0,2.0,7.0,228.0,319.0,1437.0,318.0,972.0,147.0,Non-New York City
-19501,Westchester,New Castle Town PD,2013,12.0,79.0,2.0,0.0,0.0,0.0,2.0,77.0,13.0,62.0,2.0,Non-New York City
-19531,Westchester,New Rochelle City PD,2013,12.0,1569.0,176.0,0.0,6.0,81.0,89.0,1393.0,151.0,1172.0,70.0,Non-New York City
-19561,Westchester,North Castle Town PD,2013,12.0,71.0,3.0,0.0,0.0,0.0,3.0,68.0,12.0,53.0,3.0,Non-New York City
-19572,Westchester,NYC DEPP - Eastview PCT,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,Non-New York City
-19621,Westchester,Ossining Vg PD,2013,12.0,279.0,36.0,0.0,0.0,21.0,15.0,243.0,46.0,192.0,5.0,Non-New York City
-19651,Westchester,Peekskill City PD,2013,12.0,278.0,30.0,0.0,0.0,8.0,22.0,248.0,25.0,215.0,8.0,Non-New York City
-19681,Westchester,Pelham Manor Vg PD,2013,12.0,149.0,2.0,0.0,0.0,1.0,1.0,147.0,14.0,130.0,3.0,Non-New York City
-19711,Westchester,Pelham Vg PD,2013,12.0,179.0,7.0,0.0,1.0,2.0,4.0,172.0,22.0,149.0,1.0,Non-New York City
-19738,Westchester,Pleasantville Vg PD,2013,12.0,22.0,0.0,0.0,0.0,0.0,0.0,22.0,1.0,21.0,0.0,Non-New York City
-19768,Westchester,Port Chester Vg PD,2013,12.0,620.0,48.0,0.0,2.0,19.0,27.0,572.0,67.0,483.0,22.0,Non-New York City
-19787,Westchester,Pound Ridge Town PD,2013,12.0,36.0,3.0,0.0,0.0,0.0,3.0,33.0,15.0,18.0,0.0,Non-New York City
-19817,Westchester,Rye Brook Vg PD,2013,12.0,90.0,2.0,0.0,0.0,2.0,0.0,88.0,9.0,77.0,2.0,Non-New York City
-19846,Westchester,Rye City PD,2013,12.0,94.0,5.0,0.0,0.0,2.0,3.0,89.0,9.0,77.0,3.0,Non-New York City
-19876,Westchester,Scarsdale Vg PD,2013,12.0,185.0,1.0,0.0,0.0,0.0,1.0,184.0,24.0,153.0,7.0,Non-New York City
-19906,Westchester,Sleepy Hollow Vg PD,2013,12.0,66.0,8.0,1.0,0.0,1.0,6.0,58.0,9.0,47.0,2.0,Non-New York City
-19935,Westchester,SUNY Police - Purchase,2013,12.0,70.0,2.0,0.0,0.0,0.0,2.0,68.0,7.0,61.0,0.0,Non-New York City
-19965,Westchester,Tarrytown Vg PD,2013,12.0,116.0,6.0,0.0,0.0,3.0,3.0,110.0,12.0,94.0,4.0,Non-New York City
-19995,Westchester,Tuckahoe Vg PD,2013,12.0,35.0,0.0,0.0,0.0,0.0,0.0,35.0,7.0,27.0,1.0,Non-New York City
-20025,Westchester,Westchester Co Dept Pub Safety,2013,12.0,185.0,7.0,0.0,1.0,1.0,5.0,178.0,3.0,173.0,2.0,Non-New York City
-20062,Westchester,Westchester County MTA,2013,12.0,99.0,10.0,0.0,0.0,8.0,2.0,89.0,0.0,84.0,5.0,Non-New York City
-20092,Westchester,Westchester County Park PD,2013,12.0,17.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,16.0,1.0,Non-New York City
-20122,Westchester,Westchester County State Police,2013,12.0,413.0,46.0,0.0,5.0,8.0,33.0,367.0,77.0,279.0,11.0,Non-New York City
-20152,Westchester,White Plains City PD,2013,12.0,1311.0,78.0,1.0,3.0,28.0,46.0,1233.0,77.0,1135.0,21.0,Non-New York City
-20182,Westchester,Yonkers City PD,2013,12.0,3404.0,1036.0,6.0,25.0,390.0,615.0,2368.0,470.0,1662.0,236.0,Non-New York City
-20212,Westchester,Yorktown Town PD,2013,12.0,350.0,15.0,0.0,0.0,2.0,13.0,335.0,45.0,288.0,2.0,Non-New York City
-20242,Wyoming,Arcade Vg PD,2013,12.0,39.0,0.0,0.0,0.0,0.0,0.0,39.0,3.0,35.0,1.0,Non-New York City
-20272,Wyoming,Attica Vg PD,2013,12.0,7.0,2.0,0.0,0.0,0.0,2.0,5.0,0.0,4.0,1.0,Non-New York City
-20302,Wyoming,County Total,2013,,510.0,41.0,0.0,3.0,2.0,36.0,469.0,82.0,379.0,8.0,Non-New York City
-20332,Wyoming,Perry Vg PD,2013,12.0,102.0,3.0,0.0,0.0,0.0,3.0,99.0,14.0,84.0,1.0,Non-New York City
-20362,Wyoming,Warsaw Vg PD,2013,12.0,84.0,6.0,0.0,1.0,0.0,5.0,78.0,5.0,73.0,0.0,Non-New York City
-20397,Wyoming,Wyoming County Park PD,2013,12.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,Non-New York City
-20426,Wyoming,Wyoming County Sheriff,2013,12.0,209.0,15.0,0.0,0.0,2.0,13.0,194.0,47.0,144.0,3.0,Non-New York City
-20456,Wyoming,Wyoming County State Police,2013,12.0,66.0,15.0,0.0,2.0,0.0,13.0,51.0,13.0,36.0,2.0,Non-New York City
-20486,Yates,County Total,2013,,413.0,14.0,0.0,6.0,1.0,7.0,399.0,112.0,284.0,3.0,Non-New York City
-20516,Yates,Penn Yan Vg PD,2013,12.0,115.0,4.0,0.0,1.0,1.0,2.0,111.0,21.0,89.0,1.0,Non-New York City
-20559,Yates,Yates County Sheriff,2013,12.0,278.0,9.0,0.0,4.0,0.0,5.0,269.0,86.0,181.0,2.0,Non-New York City
-20589,Yates,Yates County State Police,2013,12.0,20.0,1.0,0.0,1.0,0.0,0.0,19.0,5.0,14.0,0.0,Non-New York City
+County,Agency,Year,Months Reported,Index Total,Violent Total,Murder,Rape,Robbery,Aggravated Assault,Property Total,Burglary,Larceny,Motor Vehicle Theft,Region
+Albany,Albany City PD,2013,12.0,4881.0,796.0,8.0,32.0,228.0,528.0,4085.0,702.0,3243.0,140.0,Non-New York City
+Albany,Albany County Park PD,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,Non-New York City
+Albany,Albany County Sheriff,2013,12.0,147.0,5.0,0.0,0.0,0.0,5.0,142.0,38.0,99.0,5.0,Non-New York City
+Albany,Albany County State Police,2013,12.0,186.0,8.0,0.0,3.0,0.0,5.0,178.0,17.0,159.0,2.0,Non-New York City
+Albany,Altamont Vg PD,2013,12.0,18.0,1.0,0.0,0.0,0.0,1.0,17.0,0.0,17.0,0.0,Non-New York City
+Albany,Bethlehem Town PD,2013,12.0,456.0,13.0,0.0,0.0,3.0,10.0,443.0,50.0,388.0,5.0,Non-New York City
+Albany,Coeymans Town PD,2013,12.0,125.0,39.0,0.0,2.0,0.0,37.0,86.0,13.0,69.0,4.0,Non-New York City
+Albany,Cohoes City PD,2013,12.0,270.0,27.0,0.0,1.0,12.0,14.0,243.0,65.0,163.0,15.0,Non-New York City
+Albany,Colonie Town PD,2013,12.0,2053.0,63.0,0.0,0.0,31.0,32.0,1990.0,186.0,1753.0,51.0,Non-New York City
+Albany,County Total,2013,,9457.0,1006.0,9.0,47.0,293.0,657.0,8451.0,1203.0,6998.0,250.0,Non-New York City
+Albany,Green Island Vg PD,2013,12.0,51.0,4.0,0.0,1.0,1.0,2.0,47.0,9.0,33.0,5.0,Non-New York City
+Albany,Guilderland Town PD,2013,12.0,686.0,12.0,0.0,3.0,5.0,4.0,674.0,48.0,625.0,1.0,Non-New York City
+Albany,Menands Vg PD,2013,12.0,108.0,6.0,0.0,1.0,1.0,4.0,102.0,13.0,88.0,1.0,Non-New York City
+Albany,SUNY Police - Albany,2013,12.0,203.0,5.0,0.0,1.0,1.0,3.0,198.0,4.0,194.0,0.0,Non-New York City
+Albany,Watervliet City PD,2013,12.0,271.0,27.0,1.0,3.0,11.0,12.0,244.0,58.0,165.0,21.0,Non-New York City
+Allegany,Alfred Vg PD,2013,12.0,51.0,5.0,0.0,0.0,3.0,2.0,46.0,10.0,36.0,0.0,Non-New York City
+Allegany,Allegany County Sheriff,2013,12.0,10.0,8.0,0.0,0.0,0.0,8.0,2.0,0.0,2.0,0.0,Non-New York City
+Allegany,Allegany County State Police,2013,12.0,365.0,21.0,0.0,6.0,0.0,15.0,344.0,124.0,211.0,9.0,Non-New York City
+Allegany,Andover Vg PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Non-New York City
+Allegany,Angelica Vg PD,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,Non-New York City
+Allegany,Belmont Vg PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Allegany,Bolivar Vg PD,2013,12.0,5.0,1.0,0.0,0.0,0.0,1.0,4.0,2.0,2.0,0.0,Non-New York City
+Allegany,County Total,2013,,796.0,54.0,0.0,9.0,4.0,41.0,742.0,194.0,534.0,14.0,Non-New York City
+Allegany,Cuba Town PD,2013,12.0,86.0,5.0,0.0,1.0,0.0,4.0,81.0,7.0,72.0,2.0,Non-New York City
+Allegany,Friendship Town PD,2013,12.0,16.0,0.0,0.0,0.0,0.0,0.0,16.0,6.0,10.0,0.0,Non-New York City
+Allegany,Independence Town PD,2013,12.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,5.0,6.0,0.0,Non-New York City
+Allegany,SUNY Police - Alfred,2013,12.0,73.0,3.0,0.0,1.0,1.0,1.0,70.0,6.0,64.0,0.0,Non-New York City
+Allegany,Wellsville Vg PD,2013,12.0,175.0,11.0,0.0,1.0,0.0,10.0,164.0,32.0,129.0,3.0,Non-New York City
+Bronx,County Total,2013,12.0,36280.0,13020.0,83.0,189.0,4456.0,8292.0,23260.0,2795.0,19016.0,1449.0,New York City
+Broome,Binghamton City PD,2013,12.0,2638.0,286.0,4.0,19.0,101.0,162.0,2352.0,525.0,1771.0,56.0,Non-New York City
+Broome,Broome County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Broome,Broome County Sheriff,2013,12.0,924.0,49.0,3.0,8.0,8.0,30.0,875.0,182.0,669.0,24.0,Non-New York City
+Broome,Broome County State Police,2013,12.0,665.0,42.0,0.0,11.0,3.0,28.0,623.0,156.0,448.0,19.0,Non-New York City
+Broome,County Total,2013,,6706.0,512.0,8.0,51.0,153.0,300.0,6194.0,1162.0,4903.0,129.0,Non-New York City
+Broome,Deposit Vg PD,2013,12.0,14.0,0.0,0.0,0.0,0.0,0.0,14.0,6.0,8.0,0.0,Non-New York City
+Broome,Endicott Vg PD,2013,12.0,649.0,46.0,0.0,4.0,13.0,29.0,603.0,137.0,455.0,11.0,Non-New York City
+Broome,Johnson City Vg PD,2013,12.0,1019.0,69.0,1.0,6.0,20.0,42.0,950.0,111.0,829.0,10.0,Non-New York City
+Broome,Port Dickinson Vg PD,2013,12.0,31.0,0.0,0.0,0.0,0.0,0.0,31.0,0.0,31.0,0.0,Non-New York City
+Broome,SUNY Police - Binghamton,2013,12.0,177.0,4.0,0.0,1.0,2.0,1.0,173.0,6.0,167.0,0.0,Non-New York City
+Broome,Vestal Town PD,2013,12.0,588.0,16.0,0.0,2.0,6.0,8.0,572.0,39.0,524.0,9.0,Non-New York City
+Cattaraugus,Allegany Vg PD,2013,12.0,13.0,3.0,0.0,0.0,0.0,3.0,10.0,0.0,10.0,0.0,Non-New York City
+Cattaraugus,Cattaraugus County Park PD,2013,12.0,13.0,1.0,0.0,0.0,0.0,1.0,12.0,2.0,10.0,0.0,Non-New York City
+Cattaraugus,Cattaraugus County Sheriff,2013,12.0,524.0,37.0,0.0,6.0,0.0,31.0,487.0,132.0,324.0,31.0,Non-New York City
+Cattaraugus,Cattaraugus County State Police,2013,12.0,360.0,15.0,0.0,1.0,3.0,11.0,345.0,58.0,277.0,10.0,Non-New York City
+Cattaraugus,Cattaraugus Vg PD,2013,12.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,Non-New York City
+Cattaraugus,County Total,2013,,1771.0,115.0,0.0,13.0,11.0,91.0,1656.0,309.0,1285.0,62.0,Non-New York City
+Cattaraugus,Ellicottville Town PD,2013,12.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,2.0,8.0,0.0,Non-New York City
+Cattaraugus,Franklinville Vg PD,2013,12.0,33.0,1.0,0.0,0.0,1.0,0.0,32.0,0.0,32.0,0.0,Non-New York City
+Cattaraugus,Olean City PD,2013,12.0,633.0,40.0,0.0,5.0,5.0,30.0,593.0,76.0,508.0,9.0,Non-New York City
+Cattaraugus,Portville Vg PD,2013,12.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,1.0,7.0,0.0,Non-New York City
+Cattaraugus,Salamanca City PD,2013,12.0,173.0,18.0,0.0,1.0,2.0,15.0,155.0,38.0,105.0,12.0,Non-New York City
+Cayuga,Auburn City PD,2013,12.0,958.0,97.0,1.0,21.0,22.0,53.0,861.0,131.0,723.0,7.0,Non-New York City
+Cayuga,Cayuga County Park PD,2013,12.0,9.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,9.0,0.0,Non-New York City
+Cayuga,Cayuga County Sheriff,2013,12.0,262.0,14.0,1.0,1.0,0.0,12.0,248.0,62.0,185.0,1.0,Non-New York City
+Cayuga,Cayuga County State Police,2013,12.0,245.0,14.0,0.0,4.0,1.0,9.0,231.0,71.0,157.0,3.0,Non-New York City
+Cayuga,County Total,2013,,1517.0,128.0,2.0,26.0,23.0,77.0,1389.0,269.0,1109.0,11.0,Non-New York City
+Cayuga,Moravia Vg PD,2013,12.0,18.0,3.0,0.0,0.0,0.0,3.0,15.0,0.0,15.0,0.0,Non-New York City
+Cayuga,Weedsport Vg PD,2013,12.0,25.0,0.0,0.0,0.0,0.0,0.0,25.0,5.0,20.0,0.0,Non-New York City
+Chautauqua,Carroll Town PD,2013,12.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,3.0,5.0,0.0,Non-New York City
+Chautauqua,Chautauqua County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Non-New York City
+Chautauqua,Chautauqua County Sheriff,2013,12.0,764.0,24.0,2.0,4.0,6.0,12.0,740.0,241.0,496.0,3.0,Non-New York City
+Chautauqua,Chautauqua County State Police,2013,12.0,306.0,18.0,0.0,3.0,1.0,14.0,288.0,66.0,211.0,11.0,Non-New York City
+Chautauqua,County Total,2013,,3637.0,274.0,2.0,30.0,65.0,177.0,3363.0,776.0,2540.0,47.0,Non-New York City
+Chautauqua,Dunkirk City PD,2013,12.0,349.0,40.0,0.0,0.0,12.0,28.0,309.0,78.0,230.0,1.0,Non-New York City
+Chautauqua,Ellicott Town PD,2013,12.0,296.0,8.0,0.0,2.0,1.0,5.0,288.0,53.0,235.0,0.0,Non-New York City
+Chautauqua,Fredonia Vg PD,2013,12.0,218.0,10.0,0.0,2.0,5.0,3.0,208.0,26.0,182.0,0.0,Non-New York City
+Chautauqua,Jamestown City PD,2013,12.0,1308.0,168.0,0.0,19.0,39.0,110.0,1140.0,281.0,829.0,30.0,Non-New York City
+Chautauqua,Lakewood-Busti PD,2013,12.0,342.0,1.0,0.0,0.0,1.0,0.0,341.0,23.0,316.0,2.0,Non-New York City
+Chautauqua,Silver Creek Vg PD,2013,3.0,14.0,3.0,0.0,0.0,0.0,3.0,11.0,0.0,11.0,0.0,Non-New York City
+Chautauqua,SUNY Police - Fredonia,2013,12.0,23.0,1.0,0.0,0.0,0.0,1.0,22.0,3.0,19.0,0.0,Non-New York City
+Chautauqua,Westfield Vg PD,2013,12.0,8.0,1.0,0.0,0.0,0.0,1.0,7.0,1.0,6.0,0.0,Non-New York City
+Chemung,Chemung County Park PD,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,Non-New York City
+Chemung,Chemung County Sheriff,2013,12.0,594.0,29.0,0.0,3.0,5.0,21.0,565.0,58.0,500.0,7.0,Non-New York City
+Chemung,Chemung County State Police,2013,12.0,293.0,37.0,0.0,2.0,2.0,33.0,256.0,40.0,211.0,5.0,Non-New York City
+Chemung,County Total,2013,,2201.0,151.0,0.0,7.0,37.0,107.0,2050.0,351.0,1672.0,27.0,Non-New York City
+Chemung,Elmira City PD,2013,12.0,1108.0,81.0,0.0,2.0,29.0,50.0,1027.0,224.0,790.0,13.0,Non-New York City
+Chemung,Elmira Heights Vg PD,2013,12.0,91.0,2.0,0.0,0.0,1.0,1.0,89.0,9.0,78.0,2.0,Non-New York City
+Chemung,Elmira Town PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Chemung,Horseheads Vg PD,2013,12.0,112.0,2.0,0.0,0.0,0.0,2.0,110.0,20.0,90.0,0.0,Non-New York City
+Chenango,Afton Vg PD,2013,12.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,4.0,2.0,0.0,Non-New York City
+Chenango,Bainbridge Vg PD,2013,12.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,Non-New York City
+Chenango,Chenango County Sheriff,2013,12.0,360.0,16.0,2.0,7.0,1.0,6.0,344.0,68.0,273.0,3.0,Non-New York City
+Chenango,Chenango County State Police,2013,12.0,185.0,14.0,0.0,2.0,2.0,10.0,171.0,58.0,107.0,6.0,Non-New York City
+Chenango,County Total,2013,,926.0,48.0,2.0,13.0,4.0,29.0,878.0,164.0,702.0,12.0,Non-New York City
+Chenango,Greene Vg PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Non-New York City
+Chenango,Norwich City PD,2013,12.0,340.0,15.0,0.0,4.0,0.0,11.0,325.0,25.0,297.0,3.0,Non-New York City
+Chenango,Oxford Vg PD,2013,12.0,15.0,2.0,0.0,0.0,1.0,1.0,13.0,1.0,12.0,0.0,Non-New York City
+Chenango,Sherburne Vg PD,2013,12.0,16.0,1.0,0.0,0.0,0.0,1.0,15.0,7.0,8.0,0.0,Non-New York City
+Clinton,Clinton County Park PD,2013,12.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,2.0,0.0,Non-New York City
+Clinton,Clinton County Sheriff,2013,12.0,43.0,12.0,0.0,1.0,0.0,11.0,31.0,0.0,29.0,2.0,Non-New York City
+Clinton,Clinton County State Police,2013,12.0,998.0,58.0,3.0,15.0,5.0,35.0,940.0,169.0,742.0,29.0,Non-New York City
+Clinton,County Total,2013,,1666.0,111.0,3.0,21.0,9.0,78.0,1555.0,262.0,1254.0,39.0,Non-New York City
+Clinton,Plattsburgh City PD,2013,12.0,525.0,41.0,0.0,5.0,4.0,32.0,484.0,80.0,396.0,8.0,Non-New York City
+Clinton,SUNY Police - Plattsburgh,2013,12.0,97.0,0.0,0.0,0.0,0.0,0.0,97.0,12.0,85.0,0.0,Non-New York City
+Columbia,Chatham Vg PD,2013,12.0,35.0,3.0,0.0,0.0,0.0,3.0,32.0,5.0,27.0,0.0,Non-New York City
+Columbia,Columbia County Park PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,5.0,0.0,Non-New York City
+Columbia,Columbia County Sheriff,2013,12.0,333.0,15.0,0.0,1.0,2.0,12.0,318.0,76.0,236.0,6.0,Non-New York City
+Columbia,Columbia County State Police,2013,12.0,294.0,30.0,0.0,6.0,6.0,18.0,264.0,86.0,173.0,5.0,Non-New York City
+Columbia,County Total,2013,,1127.0,76.0,0.0,8.0,17.0,51.0,1051.0,207.0,830.0,14.0,Non-New York City
+Columbia,Germantown Town PD,2013,12.0,9.0,0.0,0.0,0.0,0.0,0.0,9.0,2.0,7.0,0.0,Non-New York City
+Columbia,Greenport Town PD,2013,12.0,219.0,2.0,0.0,0.0,1.0,1.0,217.0,10.0,205.0,2.0,Non-New York City
+Columbia,Hudson City PD,2013,12.0,224.0,26.0,0.0,1.0,8.0,17.0,198.0,25.0,172.0,1.0,Non-New York City
+Columbia,Stockport Town PD,2013,12.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,3.0,5.0,0.0,Non-New York City
+Cortland,Cortland City PD,2013,12.0,416.0,18.0,0.0,3.0,3.0,12.0,398.0,88.0,306.0,4.0,Non-New York City
+Cortland,Cortland County Sheriff,2013,12.0,431.0,26.0,0.0,7.0,3.0,16.0,405.0,77.0,327.0,1.0,Non-New York City
+Cortland,Cortland County State Police,2013,12.0,127.0,4.0,0.0,0.0,2.0,2.0,123.0,28.0,89.0,6.0,Non-New York City
+Cortland,County Total,2013,,1064.0,51.0,0.0,12.0,9.0,30.0,1013.0,210.0,791.0,12.0,Non-New York City
+Cortland,Homer Vg PD,2013,12.0,33.0,0.0,0.0,0.0,0.0,0.0,33.0,3.0,29.0,1.0,Non-New York City
+Cortland,SUNY Police - Cortland,2013,12.0,57.0,3.0,0.0,2.0,1.0,0.0,54.0,14.0,40.0,0.0,Non-New York City
+Delaware,County Total,2013,,806.0,56.0,2.0,7.0,5.0,42.0,750.0,172.0,561.0,17.0,Non-New York City
+Delaware,Delaware County Sheriff,2013,12.0,178.0,17.0,0.0,1.0,1.0,15.0,161.0,47.0,113.0,1.0,Non-New York City
+Delaware,Delaware County State Police,2013,12.0,260.0,22.0,2.0,1.0,3.0,16.0,238.0,80.0,147.0,11.0,Non-New York City
+Delaware,Delhi Vg PD,2013,12.0,37.0,1.0,0.0,0.0,0.0,1.0,36.0,4.0,30.0,2.0,Non-New York City
+Delaware,Sidney Vg PD,2013,12.0,195.0,9.0,0.0,4.0,1.0,4.0,186.0,21.0,162.0,3.0,Non-New York City
+Delaware,SUNY Police - Delhi,2013,12.0,63.0,1.0,0.0,0.0,0.0,1.0,62.0,3.0,59.0,0.0,Non-New York City
+Delaware,Walton Vg PD,2013,12.0,73.0,6.0,0.0,1.0,0.0,5.0,67.0,17.0,50.0,0.0,Non-New York City
+Dutchess,Beacon City PD,2013,12.0,320.0,51.0,0.0,0.0,7.0,44.0,269.0,72.0,188.0,9.0,Non-New York City
+Dutchess,County Total,2013,,5121.0,584.0,12.0,28.0,150.0,394.0,4537.0,770.0,3629.0,138.0,Non-New York City
+Dutchess,Dutchess County MTA,2013,12.0,33.0,1.0,0.0,0.0,1.0,0.0,32.0,0.0,31.0,1.0,Non-New York City
+Dutchess,Dutchess County Park PD,2013,12.0,16.0,0.0,0.0,0.0,0.0,0.0,16.0,2.0,14.0,0.0,Non-New York City
+Dutchess,Dutchess County Sheriff,2013,12.0,720.0,73.0,0.0,2.0,7.0,64.0,647.0,137.0,484.0,26.0,Non-New York City
+Dutchess,Dutchess County State Police,2013,12.0,663.0,85.0,3.0,6.0,10.0,66.0,578.0,131.0,424.0,23.0,Non-New York City
+Dutchess,East Fishkill Town PD,2013,12.0,174.0,9.0,1.0,0.0,1.0,7.0,165.0,18.0,141.0,6.0,Non-New York City
+Dutchess,Fishkill Town PD,2013,12.0,279.0,3.0,0.0,0.0,1.0,2.0,276.0,28.0,243.0,5.0,Non-New York City
+Dutchess,Fishkill Vg PD,2013,12.0,27.0,1.0,0.0,0.0,1.0,0.0,26.0,0.0,26.0,0.0,Non-New York City
+Dutchess,Hyde Park Town PD,2013,12.0,198.0,18.0,0.0,3.0,4.0,11.0,180.0,42.0,133.0,5.0,Non-New York City
+Dutchess,Millerton Vg PD,2013,12.0,14.0,6.0,0.0,0.0,0.0,6.0,8.0,4.0,4.0,0.0,Non-New York City
+Dutchess,Pine Plains Town PD,2013,12.0,13.0,1.0,0.0,0.0,0.0,1.0,12.0,1.0,9.0,2.0,Non-New York City
+Dutchess,Poughkeepsie City PD,2013,12.0,1115.0,288.0,7.0,16.0,100.0,165.0,827.0,189.0,590.0,48.0,Non-New York City
+Dutchess,Poughkeepsie Town PD,2013,12.0,1379.0,39.0,1.0,1.0,12.0,25.0,1340.0,125.0,1204.0,11.0,Non-New York City
+Dutchess,Red Hook Vg PD,2013,12.0,31.0,1.0,0.0,0.0,0.0,1.0,30.0,6.0,24.0,0.0,Non-New York City
+Dutchess,Rhinebeck Vg PD,2013,12.0,44.0,2.0,0.0,0.0,0.0,2.0,42.0,0.0,41.0,1.0,Non-New York City
+Dutchess,Wappingers Falls Vg PD,2013,12.0,95.0,6.0,0.0,0.0,6.0,0.0,89.0,15.0,73.0,1.0,Non-New York City
+Erie,Akron Vg PD,2013,12.0,19.0,3.0,0.0,0.0,0.0,3.0,16.0,1.0,15.0,0.0,Non-New York City
+Erie,Amherst Town PD,2013,12.0,2225.0,107.0,1.0,7.0,31.0,68.0,2118.0,204.0,1882.0,32.0,Non-New York City
+Erie,Brant Town PD,2013,12.0,35.0,4.0,0.0,0.0,1.0,3.0,31.0,9.0,20.0,2.0,Non-New York City
+Erie,Buffalo City PD,2013,12.0,15731.0,3251.0,47.0,150.0,1320.0,1734.0,12480.0,3458.0,8066.0,956.0,Non-New York City
+Erie,Cheektowaga Town PD,2013,12.0,2847.0,158.0,0.0,11.0,48.0,99.0,2689.0,345.0,2271.0,73.0,Non-New York City
+Erie,County Total,2013,,29295.0,4089.0,55.0,209.0,1501.0,2324.0,25206.0,5222.0,18729.0,1255.0,Non-New York City
+Erie,Depew Vg PD,2013,12.0,327.0,17.0,0.0,3.0,2.0,12.0,310.0,54.0,251.0,5.0,Non-New York City
+Erie,East Aurora-Town Of Aurora PD,2013,12.0,136.0,5.0,0.0,0.0,2.0,3.0,131.0,24.0,105.0,2.0,Non-New York City
+Erie,Eden Town PD,2013,12.0,32.0,1.0,0.0,0.0,0.0,1.0,31.0,7.0,24.0,0.0,Non-New York City
+Erie,Erie County Park PD,2013,12.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,3.0,2.0,1.0,Non-New York City
+Erie,Erie County Sheriff,2013,12.0,1002.0,104.0,2.0,1.0,8.0,93.0,898.0,180.0,695.0,23.0,Non-New York City
+Erie,Erie County State Police,2013,12.0,375.0,24.0,0.0,6.0,2.0,16.0,351.0,46.0,287.0,18.0,Non-New York City
+Erie,Evans Town PD,2013,12.0,330.0,17.0,0.0,1.0,1.0,15.0,313.0,49.0,258.0,6.0,Non-New York City
+Erie,Gowanda Vg PD,2013,12.0,34.0,5.0,0.0,0.0,0.0,5.0,29.0,11.0,16.0,2.0,Non-New York City
+Erie,Hamburg Town PD,2013,12.0,1205.0,38.0,1.0,1.0,12.0,24.0,1167.0,134.0,1012.0,21.0,Non-New York City
+Erie,Hamburg Vg PD,2013,12.0,169.0,8.0,0.0,2.0,0.0,6.0,161.0,40.0,121.0,0.0,Non-New York City
+Erie,Kenmore Vg PD,2013,12.0,246.0,26.0,1.0,2.0,10.0,13.0,220.0,34.0,181.0,5.0,Non-New York City
+Erie,Lackawanna City PD,2013,12.0,622.0,89.0,1.0,13.0,11.0,64.0,533.0,100.0,398.0,35.0,Non-New York City
+Erie,Lancaster Town PD,2013,12.0,562.0,15.0,0.0,1.0,4.0,10.0,547.0,44.0,494.0,9.0,Non-New York City
+Erie,Orchard Park Town PD,2013,12.0,362.0,16.0,0.0,2.0,4.0,10.0,346.0,37.0,297.0,12.0,Non-New York City
+Erie,SUNY Police - Buffalo,2013,12.0,381.0,11.0,0.0,1.0,5.0,5.0,370.0,47.0,319.0,4.0,Non-New York City
+Erie,SUNY Police - Buffalo State College,2013,12.0,153.0,4.0,0.0,2.0,2.0,0.0,149.0,15.0,134.0,0.0,Non-New York City
+Erie,Tonawanda City PD,2013,12.0,349.0,34.0,0.0,0.0,4.0,30.0,315.0,24.0,289.0,2.0,Non-New York City
+Erie,Tonawanda Town PD,2013,12.0,1216.0,117.0,1.0,5.0,25.0,86.0,1099.0,190.0,882.0,27.0,Non-New York City
+Erie,West Seneca Town PD,2013,12.0,931.0,35.0,1.0,1.0,9.0,24.0,896.0,166.0,710.0,20.0,Non-New York City
+Essex,County Total,2013,,449.0,43.0,0.0,8.0,2.0,33.0,406.0,121.0,266.0,19.0,Non-New York City
+Essex,Essex County Sheriff,2013,12.0,12.0,5.0,0.0,0.0,0.0,5.0,7.0,2.0,5.0,0.0,Non-New York City
+Essex,Essex County State Police,2013,12.0,264.0,18.0,0.0,4.0,2.0,12.0,246.0,82.0,148.0,16.0,Non-New York City
+Essex,Lake Placid Vg PD,2013,12.0,53.0,2.0,0.0,0.0,0.0,2.0,51.0,11.0,38.0,2.0,Non-New York City
+Essex,Moriah Town PD,2013,12.0,16.0,7.0,0.0,0.0,0.0,7.0,9.0,3.0,5.0,1.0,Non-New York City
+Essex,Ticonderoga Town PD,2013,12.0,104.0,11.0,0.0,4.0,0.0,7.0,93.0,23.0,70.0,0.0,Non-New York City
+Franklin,County Total,2013,,876.0,61.0,1.0,10.0,3.0,47.0,815.0,179.0,608.0,28.0,Non-New York City
+Franklin,Franklin County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Franklin,Franklin County Sheriff,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Franklin,Franklin County State Police,2013,12.0,413.0,28.0,0.0,9.0,0.0,19.0,385.0,99.0,269.0,17.0,Non-New York City
+Franklin,Malone Vg PD,2013,12.0,196.0,4.0,0.0,0.0,2.0,2.0,192.0,28.0,161.0,3.0,Non-New York City
+Franklin,Saranac Lake Vg PD,2013,12.0,179.0,26.0,1.0,1.0,1.0,23.0,153.0,30.0,117.0,6.0,Non-New York City
+Franklin,Tupper Lake Vg PD,2013,12.0,86.0,3.0,0.0,0.0,0.0,3.0,83.0,22.0,59.0,2.0,Non-New York City
+Fulton,County Total,2013,,1527.0,62.0,1.0,13.0,11.0,37.0,1465.0,262.0,1164.0,39.0,Non-New York City
+Fulton,Fulton County Sheriff,2013,12.0,352.0,11.0,1.0,2.0,0.0,8.0,341.0,90.0,245.0,6.0,Non-New York City
+Fulton,Fulton County State Police,2013,12.0,125.0,4.0,0.0,1.0,1.0,2.0,121.0,32.0,85.0,4.0,Non-New York City
+Fulton,Gloversville City PD,2013,12.0,719.0,33.0,0.0,9.0,6.0,18.0,686.0,111.0,560.0,15.0,Non-New York City
+Fulton,Johnstown City PD,2013,12.0,330.0,14.0,0.0,1.0,4.0,9.0,316.0,29.0,273.0,14.0,Non-New York City
+Fulton,Northville Vg PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Genesee,Batavia City PD,2013,12.0,618.0,57.0,0.0,7.0,13.0,37.0,561.0,104.0,454.0,3.0,Non-New York City
+Genesee,County Total,2013,,1467.0,109.0,0.0,22.0,22.0,65.0,1358.0,294.0,1044.0,20.0,Non-New York City
+Genesee,Genesee County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Genesee,Genesee County Sheriff,2013,12.0,631.0,33.0,0.0,9.0,8.0,16.0,598.0,155.0,427.0,16.0,Non-New York City
+Genesee,Genesee County State Police,2013,12.0,119.0,6.0,0.0,3.0,0.0,3.0,113.0,17.0,95.0,1.0,Non-New York City
+Genesee,LeRoy Vg PD,2013,12.0,98.0,13.0,0.0,3.0,1.0,9.0,85.0,18.0,67.0,0.0,Non-New York City
+Greene,Cairo Town PD,2013,12.0,16.0,0.0,0.0,0.0,0.0,0.0,16.0,1.0,15.0,0.0,Non-New York City
+Greene,Catskill Vg PD,2013,12.0,133.0,14.0,0.0,1.0,3.0,10.0,119.0,16.0,101.0,2.0,Non-New York City
+Greene,County Total,2013,,718.0,58.0,1.0,8.0,6.0,43.0,660.0,213.0,421.0,26.0,Non-New York City
+Greene,Coxsackie Vg PD,2013,12.0,12.0,0.0,0.0,0.0,0.0,0.0,12.0,2.0,10.0,0.0,Non-New York City
+Greene,Durham Town PD,2013,12.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,3.0,3.0,0.0,Non-New York City
+Greene,Greene County Sheriff,2013,9.0,96.0,8.0,0.0,0.0,1.0,7.0,88.0,43.0,44.0,1.0,Non-New York City
+Greene,Greene County State Police,2013,12.0,444.0,36.0,1.0,7.0,2.0,26.0,408.0,146.0,239.0,23.0,Non-New York City
+Greene,Windham Town PD,2013,12.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,2.0,9.0,0.0,Non-New York City
+Hamilton,County Total,2013,,62.0,4.0,0.0,0.0,0.0,4.0,58.0,21.0,37.0,0.0,Non-New York City
+Hamilton,Hamilton County Sheriff,2013,12.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,4.0,2.0,0.0,Non-New York City
+Hamilton,Hamilton County State Police,2013,12.0,38.0,1.0,0.0,0.0,0.0,1.0,37.0,11.0,26.0,0.0,Non-New York City
+Hamilton,Inlet Town PD,2013,12.0,18.0,3.0,0.0,0.0,0.0,3.0,15.0,6.0,9.0,0.0,Non-New York City
+Herkimer,County Total,2013,,1190.0,126.0,4.0,15.0,7.0,100.0,1064.0,245.0,803.0,16.0,Non-New York City
+Herkimer,Dolgeville Vg PD,2013,12.0,46.0,7.0,0.0,0.0,0.0,7.0,39.0,5.0,33.0,1.0,Non-New York City
+Herkimer,Frankfort Town PD,2013,12.0,50.0,0.0,0.0,0.0,0.0,0.0,50.0,22.0,27.0,1.0,Non-New York City
+Herkimer,Frankfort Vg PD,2013,12.0,38.0,5.0,0.0,0.0,0.0,5.0,33.0,4.0,28.0,1.0,Non-New York City
+Herkimer,Herkimer County Sheriff,2013,12.0,6.0,2.0,0.0,0.0,0.0,2.0,4.0,0.0,4.0,0.0,Non-New York City
+Herkimer,Herkimer County State Police,2013,12.0,329.0,28.0,4.0,2.0,1.0,21.0,301.0,126.0,164.0,11.0,Non-New York City
+Herkimer,Herkimer Vg PD,2013,12.0,432.0,53.0,0.0,9.0,3.0,41.0,379.0,49.0,330.0,0.0,Non-New York City
+Herkimer,Ilion Vg PD,2013,12.0,143.0,15.0,0.0,1.0,2.0,12.0,128.0,21.0,106.0,1.0,Non-New York City
+Herkimer,Little Falls City PD,2013,12.0,146.0,16.0,0.0,3.0,1.0,12.0,130.0,18.0,111.0,1.0,Non-New York City
+Jefferson,Adams Vg PD,2013,12.0,12.0,0.0,0.0,0.0,0.0,0.0,12.0,2.0,10.0,0.0,Non-New York City
+Jefferson,Alexandria Bay Vg PD,2013,12.0,15.0,0.0,0.0,0.0,0.0,0.0,15.0,4.0,10.0,1.0,Non-New York City
+Jefferson,Black River Vg PD,2013,12.0,14.0,0.0,0.0,0.0,0.0,0.0,14.0,2.0,12.0,0.0,Non-New York City
+Jefferson,Brownville Vg PD,2013,12.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,10.0,0.0,Non-New York City
+Jefferson,Cape Vincent Vg PD,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,Non-New York City
+Jefferson,Carthage Vg PD,2013,12.0,61.0,1.0,0.0,1.0,0.0,0.0,60.0,12.0,47.0,1.0,Non-New York City
+Jefferson,Clayton Vg PD,2013,12.0,19.0,0.0,0.0,0.0,0.0,0.0,19.0,3.0,16.0,0.0,Non-New York City
+Jefferson,County Total,2013,,2402.0,140.0,1.0,16.0,16.0,107.0,2262.0,339.0,1843.0,80.0,Non-New York City
+Jefferson,Dexter Vg PD,2013,12.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,2.0,6.0,0.0,Non-New York City
+Jefferson,Glen Park Vg PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,5.0,0.0,Non-New York City
+Jefferson,Jefferson County Park PD,2013,12.0,16.0,0.0,0.0,0.0,0.0,0.0,16.0,1.0,15.0,0.0,Non-New York City
+Jefferson,Jefferson County Sheriff,2013,12.0,226.0,11.0,0.0,1.0,0.0,10.0,215.0,21.0,191.0,3.0,Non-New York City
+Jefferson,Jefferson County State Police,2013,12.0,733.0,17.0,0.0,1.0,0.0,16.0,716.0,122.0,562.0,32.0,Non-New York City
+Jefferson,Watertown City PD,2013,12.0,1281.0,111.0,1.0,13.0,16.0,81.0,1170.0,170.0,957.0,43.0,Non-New York City
+Kings,County Total,2013,12.0,59056.0,18258.0,147.0,401.0,6854.0,10856.0,40798.0,5635.0,32557.0,2606.0,New York City
+Lewis,County Total,2013,,332.0,24.0,1.0,1.0,0.0,22.0,308.0,95.0,199.0,14.0,Non-New York City
+Lewis,Lewis County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Lewis,Lewis County Sheriff,2013,12.0,154.0,15.0,1.0,0.0,0.0,14.0,139.0,50.0,85.0,4.0,Non-New York City
+Lewis,Lewis County State Police,2013,12.0,117.0,7.0,0.0,1.0,0.0,6.0,110.0,38.0,66.0,6.0,Non-New York City
+Lewis,Lowville Vg PD,2013,12.0,60.0,2.0,0.0,0.0,0.0,2.0,58.0,7.0,47.0,4.0,Non-New York City
+Livingston,Avon Vg PD,2013,12.0,26.0,1.0,0.0,0.0,1.0,0.0,25.0,3.0,20.0,2.0,Non-New York City
+Livingston,Caledonia Vg PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,5.0,0.0,Non-New York City
+Livingston,County Total,2013,,1088.0,56.0,0.0,16.0,9.0,31.0,1032.0,185.0,814.0,33.0,Non-New York City
+Livingston,Dansville Vg PD,2013,12.0,154.0,2.0,0.0,0.0,1.0,1.0,152.0,24.0,120.0,8.0,Non-New York City
+Livingston,Geneseo Vg PD,2013,12.0,168.0,6.0,0.0,3.0,3.0,0.0,162.0,7.0,155.0,0.0,Non-New York City
+Livingston,Livingston County Park PD,2013,12.0,13.0,1.0,0.0,0.0,0.0,1.0,12.0,0.0,12.0,0.0,Non-New York City
+Livingston,Livingston County Sheriff,2013,12.0,469.0,25.0,0.0,5.0,2.0,18.0,444.0,116.0,310.0,18.0,Non-New York City
+Livingston,Livingston County State Police,2013,12.0,65.0,13.0,0.0,3.0,1.0,9.0,52.0,12.0,36.0,4.0,Non-New York City
+Livingston,Mount Morris Vg PD,2013,12.0,76.0,2.0,0.0,0.0,1.0,1.0,74.0,10.0,63.0,1.0,Non-New York City
+Livingston,Nunda Town and Vg PD,2013,12.0,17.0,0.0,0.0,0.0,0.0,0.0,17.0,4.0,13.0,0.0,Non-New York City
+Livingston,SUNY Police - Geneseo,2013,12.0,95.0,6.0,0.0,5.0,0.0,1.0,89.0,9.0,80.0,0.0,Non-New York City
+Madison,Canastota Vg PD,2013,12.0,64.0,4.0,0.0,0.0,0.0,4.0,60.0,8.0,51.0,1.0,Non-New York City
+Madison,Cazenovia Vg PD,2013,12.0,58.0,0.0,0.0,0.0,0.0,0.0,58.0,5.0,52.0,1.0,Non-New York City
+Madison,Chittenango Vg PD,2013,12.0,66.0,1.0,0.0,0.0,0.0,1.0,65.0,11.0,53.0,1.0,Non-New York City
+Madison,County Total,2013,,1156.0,55.0,1.0,9.0,7.0,38.0,1101.0,210.0,868.0,23.0,Non-New York City
+Madison,Hamilton Vg PD,2013,12.0,34.0,4.0,0.0,0.0,1.0,3.0,30.0,2.0,28.0,0.0,Non-New York City
+Madison,Madison County Park PD,2013,12.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,Non-New York City
+Madison,Madison County Sheriff,2013,12.0,217.0,10.0,0.0,1.0,0.0,9.0,207.0,58.0,145.0,4.0,Non-New York City
+Madison,Madison County State Police,2013,12.0,192.0,14.0,1.0,5.0,0.0,8.0,178.0,48.0,123.0,7.0,Non-New York City
+Madison,Oneida City PD,2013,12.0,452.0,18.0,0.0,2.0,4.0,12.0,434.0,68.0,357.0,9.0,Non-New York City
+Madison,SUNY Police - Morrisville,2013,12.0,69.0,4.0,0.0,1.0,2.0,1.0,65.0,10.0,55.0,0.0,Non-New York City
+Monroe,Brighton Town PD,2013,12.0,822.0,27.0,1.0,2.0,10.0,14.0,795.0,143.0,624.0,28.0,Non-New York City
+Monroe,Brockport Vg PD,2013,12.0,190.0,23.0,1.0,1.0,5.0,16.0,167.0,29.0,134.0,4.0,Non-New York City
+Monroe,County Total,2013,,23076.0,2686.0,48.0,144.0,1133.0,1361.0,20390.0,4267.0,15236.0,887.0,Non-New York City
+Monroe,East Rochester Vg PD,2013,12.0,133.0,8.0,1.0,0.0,3.0,4.0,125.0,25.0,97.0,3.0,Non-New York City
+Monroe,Fairport Vg PD,2013,12.0,58.0,5.0,0.0,1.0,0.0,4.0,53.0,13.0,37.0,3.0,Non-New York City
+Monroe,Gates Town PD,2013,12.0,1108.0,57.0,0.0,4.0,19.0,34.0,1051.0,95.0,922.0,34.0,Non-New York City
+Monroe,Greece Town PD,2013,12.0,2457.0,151.0,0.0,9.0,60.0,82.0,2306.0,332.0,1928.0,46.0,Non-New York City
+Monroe,Irondequoit Town PD,2013,12.0,1447.0,93.0,1.0,6.0,51.0,35.0,1354.0,271.0,1049.0,34.0,Non-New York City
+Monroe,Monroe County Park PD,2013,12.0,21.0,1.0,0.0,1.0,0.0,0.0,20.0,1.0,19.0,0.0,Non-New York City
+Monroe,Monroe County Sheriff,2013,12.0,3774.0,162.0,2.0,16.0,56.0,88.0,3612.0,636.0,2876.0,100.0,Non-New York City
+Monroe,Monroe County State Police,2013,12.0,82.0,7.0,0.0,6.0,1.0,0.0,75.0,1.0,66.0,8.0,Non-New York City
+Monroe,Ogden Town PD,2013,12.0,225.0,17.0,0.0,2.0,6.0,9.0,208.0,24.0,176.0,8.0,Non-New York City
+Monroe,Rochester City PD,2013,12.0,12160.0,2109.0,42.0,94.0,918.0,1055.0,10051.0,2587.0,6855.0,609.0,Non-New York City
+Monroe,SUNY Police - Brockport,2013,12.0,108.0,5.0,0.0,0.0,1.0,4.0,103.0,9.0,91.0,3.0,Non-New York City
+Monroe,Webster Town and Vg PD,2013,12.0,491.0,21.0,0.0,2.0,3.0,16.0,470.0,101.0,362.0,7.0,Non-New York City
+Montgomery,Amsterdam City PD,2013,12.0,435.0,30.0,0.0,0.0,12.0,18.0,405.0,99.0,291.0,15.0,Non-New York City
+Montgomery,Canajoharie Vg PD,2013,12.0,15.0,1.0,0.0,0.0,0.0,1.0,14.0,1.0,13.0,0.0,Non-New York City
+Montgomery,County Total,2013,,1125.0,48.0,0.0,4.0,13.0,31.0,1077.0,186.0,864.0,27.0,Non-New York City
+Montgomery,Fort Plain Vg PD,2013,12.0,94.0,4.0,0.0,0.0,1.0,3.0,90.0,23.0,65.0,2.0,Non-New York City
+Montgomery,Montgomery County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Montgomery,Montgomery County Sheriff,2013,12.0,424.0,6.0,0.0,0.0,0.0,6.0,418.0,37.0,377.0,4.0,Non-New York City
+Montgomery,Montgomery County State Police,2013,12.0,106.0,4.0,0.0,4.0,0.0,0.0,102.0,18.0,78.0,6.0,Non-New York City
+Montgomery,St Johnsville Vg PD,2013,12.0,50.0,3.0,0.0,0.0,0.0,3.0,47.0,8.0,39.0,0.0,Non-New York City
+Nassau,Centre Island Vg PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Nassau,County Total,2013,,18683.0,2111.0,25.0,54.0,1043.0,989.0,16572.0,2355.0,13328.0,889.0,Non-New York City
+Nassau,Floral Park Vg PD,2013,12.0,86.0,14.0,0.0,2.0,7.0,5.0,72.0,16.0,44.0,12.0,Non-New York City
+Nassau,Freeport Vg PD,2013,12.0,1085.0,152.0,0.0,2.0,76.0,74.0,933.0,168.0,698.0,67.0,Non-New York City
+Nassau,Garden City Vg PD,2013,12.0,356.0,10.0,0.0,0.0,4.0,6.0,346.0,33.0,303.0,10.0,Non-New York City
+Nassau,Glen Cove City PD,2013,12.0,98.0,8.0,0.0,0.0,4.0,4.0,90.0,25.0,62.0,3.0,Non-New York City
+Nassau,Great Neck Estates Vg PD,2013,12.0,20.0,0.0,0.0,0.0,0.0,0.0,20.0,6.0,12.0,2.0,Non-New York City
+Nassau,Hempstead Vg PD,2013,12.0,1391.0,433.0,10.0,3.0,204.0,216.0,958.0,206.0,630.0,122.0,Non-New York City
+Nassau,Kensington Vg PD,2013,11.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,Non-New York City
+Nassau,Kings Point Vg PD,2013,12.0,17.0,1.0,0.0,0.0,0.0,1.0,16.0,4.0,11.0,1.0,Non-New York City
+Nassau,Lake Success Vg PD,2013,12.0,34.0,2.0,0.0,0.0,0.0,2.0,32.0,10.0,21.0,1.0,Non-New York City
+Nassau,Long Beach City PD,2013,12.0,373.0,35.0,0.0,1.0,13.0,21.0,338.0,42.0,278.0,18.0,Non-New York City
+Nassau,Lynbrook Vg PD,2013,12.0,175.0,12.0,0.0,1.0,3.0,8.0,163.0,18.0,128.0,17.0,Non-New York City
+Nassau,Malverne Vg PD,2013,12.0,25.0,4.0,0.0,0.0,3.0,1.0,21.0,3.0,17.0,1.0,Non-New York City
+Nassau,Nassau County MTA,2013,12.0,86.0,11.0,1.0,0.0,8.0,2.0,75.0,1.0,74.0,0.0,Non-New York City
+Nassau,Nassau County Park PD,2013,12.0,62.0,5.0,0.0,1.0,2.0,2.0,57.0,3.0,52.0,2.0,Non-New York City
+Nassau,Nassau County PD,2013,12.0,14283.0,1394.0,12.0,43.0,706.0,633.0,12889.0,1737.0,10558.0,594.0,Non-New York City
+Nassau,Nassau County State Police,2013,12.0,6.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,4.0,1.0,Non-New York City
+Nassau,Old Brookville Vg PD,2013,12.0,58.0,4.0,0.0,0.0,1.0,3.0,54.0,16.0,28.0,10.0,Non-New York City
+Nassau,Old Westbury Vg PD,2013,12.0,40.0,1.0,0.0,0.0,0.0,1.0,39.0,6.0,29.0,4.0,Non-New York City
+Nassau,Oyster Bay Cove Vg PD,2013,12.0,19.0,0.0,0.0,0.0,0.0,0.0,19.0,3.0,16.0,0.0,Non-New York City
+Nassau,Port Washington Police District,2013,12.0,100.0,2.0,0.0,0.0,1.0,1.0,98.0,13.0,81.0,4.0,Non-New York City
+Nassau,Rockville Centre Vg PD,2013,12.0,293.0,22.0,1.0,1.0,11.0,9.0,271.0,30.0,223.0,18.0,Non-New York City
+Nassau,Sands Point Vg PD,2013,12.0,18.0,0.0,0.0,0.0,0.0,0.0,18.0,4.0,13.0,1.0,Non-New York City
+Nassau,SUNY Police - Old Westbury,2013,12.0,54.0,0.0,0.0,0.0,0.0,0.0,54.0,8.0,45.0,1.0,Non-New York City
+New York,County Total,2013,12.0,51872.0,8708.0,39.0,236.0,3340.0,5093.0,43164.0,2775.0,39647.0,742.0,New York City
+Niagara,County Total,2013,,6655.0,798.0,4.0,37.0,240.0,517.0,5857.0,1312.0,4323.0,222.0,Non-New York City
+Niagara,Lewiston Town PD,2013,12.0,146.0,12.0,0.0,0.0,1.0,11.0,134.0,30.0,96.0,8.0,Non-New York City
+Niagara,Lockport City PD,2013,12.0,723.0,70.0,0.0,6.0,24.0,40.0,653.0,120.0,527.0,6.0,Non-New York City
+Niagara,Middleport Vg PD,2013,12.0,21.0,2.0,0.0,0.0,0.0,2.0,19.0,1.0,16.0,2.0,Non-New York City
+Niagara,Niagara County Park PD,2013,12.0,60.0,2.0,0.0,0.0,2.0,0.0,58.0,1.0,56.0,1.0,Non-New York City
+Niagara,Niagara County Sheriff,2013,12.0,966.0,61.0,0.0,8.0,22.0,31.0,905.0,234.0,618.0,53.0,Non-New York City
+Niagara,Niagara County State Police,2013,12.0,208.0,13.0,0.0,3.0,6.0,4.0,195.0,18.0,171.0,6.0,Non-New York City
+Niagara,Niagara Falls City PD,2013,12.0,3393.0,584.0,3.0,12.0,166.0,403.0,2809.0,746.0,1949.0,114.0,Non-New York City
+Niagara,Niagara Town PD,2013,12.0,507.0,13.0,0.0,0.0,2.0,11.0,494.0,48.0,432.0,14.0,Non-New York City
+Niagara,North Tonawanda City PD,2013,12.0,628.0,41.0,1.0,8.0,17.0,15.0,587.0,114.0,455.0,18.0,Non-New York City
+Niagara,Youngstown Vg PD,2013,12.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,Non-New York City
+Oneida,Boonville Vg PD,2013,12.0,20.0,1.0,0.0,0.0,0.0,1.0,19.0,7.0,12.0,0.0,Non-New York City
+Oneida,Camden Vg PD,2013,12.0,51.0,5.0,0.0,0.0,0.0,5.0,46.0,4.0,42.0,0.0,Non-New York City
+Oneida,County Total,2013,,5990.0,537.0,13.0,45.0,136.0,343.0,5453.0,1056.0,4228.0,169.0,Non-New York City
+Oneida,Kirkland Town PD,2013,12.0,103.0,0.0,0.0,0.0,0.0,0.0,103.0,21.0,81.0,1.0,Non-New York City
+Oneida,New Hartford Town and Vg PD,2013,12.0,826.0,13.0,0.0,1.0,3.0,9.0,813.0,74.0,734.0,5.0,Non-New York City
+Oneida,New York Mills Vg PD,2013,12.0,66.0,2.0,0.0,0.0,0.0,2.0,64.0,16.0,47.0,1.0,Non-New York City
+Oneida,Oneida County Park PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,Non-New York City
+Oneida,Oneida County Sheriff,2013,12.0,471.0,40.0,1.0,7.0,4.0,28.0,431.0,130.0,291.0,10.0,Non-New York City
+Oneida,Oneida County State Police,2013,12.0,632.0,56.0,1.0,10.0,2.0,43.0,576.0,145.0,401.0,30.0,Non-New York City
+Oneida,Oriskany Vg PD,2013,12.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,2.0,8.0,0.0,Non-New York City
+Oneida,Rome City PD,2013,12.0,709.0,47.0,4.0,0.0,23.0,20.0,662.0,157.0,470.0,35.0,Non-New York City
+Oneida,Sherrill City PD,2013,12.0,41.0,4.0,0.0,0.0,0.0,4.0,37.0,14.0,23.0,0.0,Non-New York City
+Oneida,SUNY Police - Polytechnic Institute,2013,12.0,16.0,1.0,0.0,0.0,0.0,1.0,15.0,1.0,14.0,0.0,Non-New York City
+Oneida,Utica City PD,2013,12.0,2890.0,361.0,7.0,27.0,102.0,225.0,2529.0,449.0,1998.0,82.0,Non-New York City
+Oneida,Vernon Vg PD,2013,12.0,23.0,2.0,0.0,0.0,1.0,1.0,21.0,4.0,17.0,0.0,Non-New York City
+Oneida,Whitesboro Vg PD,2013,12.0,40.0,4.0,0.0,0.0,0.0,4.0,36.0,14.0,21.0,1.0,Non-New York City
+Oneida,Whitestown Town PD,2013,12.0,77.0,0.0,0.0,0.0,0.0,0.0,77.0,13.0,61.0,3.0,Non-New York City
+Oneida,Yorkville Vg PD,2013,3.0,10.0,1.0,0.0,0.0,1.0,0.0,9.0,4.0,4.0,1.0,Non-New York City
+Onondaga,Baldwinsville Vg PD,2013,12.0,93.0,5.0,0.0,0.0,1.0,4.0,88.0,10.0,77.0,1.0,Non-New York City
+Onondaga,Camillus Town and Vg PD,2013,12.0,362.0,14.0,0.0,1.0,0.0,13.0,348.0,36.0,307.0,5.0,Non-New York City
+Onondaga,Cicero Town PD,2013,12.0,452.0,12.0,0.0,0.0,2.0,10.0,440.0,45.0,393.0,2.0,Non-New York City
+Onondaga,County Total,2013,,13987.0,1491.0,25.0,104.0,469.0,893.0,12496.0,2642.0,9312.0,542.0,Non-New York City
+Onondaga,DeWitt Town PD,2013,12.0,735.0,20.0,0.0,0.0,10.0,10.0,715.0,85.0,618.0,12.0,Non-New York City
+Onondaga,East Syracuse Vg PD,2013,12.0,155.0,8.0,0.0,0.0,4.0,4.0,147.0,19.0,121.0,7.0,Non-New York City
+Onondaga,Geddes Town PD,2013,12.0,258.0,7.0,0.0,0.0,2.0,5.0,251.0,21.0,222.0,8.0,Non-New York City
+Onondaga,Jordan Vg PD,2013,12.0,3.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,2.0,0.0,Non-New York City
+Onondaga,Liverpool Vg PD,2013,12.0,48.0,2.0,0.0,0.0,1.0,1.0,46.0,6.0,39.0,1.0,Non-New York City
+Onondaga,Manlius Town PD,2013,12.0,420.0,18.0,0.0,0.0,4.0,14.0,402.0,56.0,343.0,3.0,Non-New York City
+Onondaga,Marcellus Vg PD,2013,12.0,13.0,0.0,0.0,0.0,0.0,0.0,13.0,2.0,11.0,0.0,Non-New York City
+Onondaga,North Syracuse Vg PD,2013,12.0,121.0,10.0,0.0,0.0,0.0,10.0,111.0,14.0,94.0,3.0,Non-New York City
+Onondaga,Onondaga County Park PD,2013,12.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,11.0,0.0,Non-New York City
+Onondaga,Onondaga County Park Rangers,2013,12.0,64.0,0.0,0.0,0.0,0.0,0.0,64.0,4.0,60.0,0.0,Non-New York City
+Onondaga,Onondaga County Sheriff,2013,12.0,2448.0,146.0,3.0,18.0,32.0,93.0,2302.0,386.0,1851.0,65.0,Non-New York City
+Onondaga,Onondaga County State Police,2013,12.0,783.0,34.0,1.0,10.0,6.0,17.0,749.0,135.0,579.0,35.0,Non-New York City
+Onondaga,Skaneateles Vg PD,2013,12.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,2.0,8.0,0.0,Non-New York City
+Onondaga,Solvay Vg PD,2013,12.0,205.0,19.0,0.0,0.0,6.0,13.0,186.0,38.0,142.0,6.0,Non-New York City
+Onondaga,SUNY Police - Environmental Science,2013,12.0,22.0,0.0,0.0,0.0,0.0,0.0,22.0,0.0,22.0,0.0,Non-New York City
+Onondaga,SUNY Police - Upstate Medical,2013,12.0,119.0,3.0,0.0,0.0,1.0,2.0,116.0,2.0,114.0,0.0,Non-New York City
+Onondaga,Syracuse City PD,2013,12.0,7665.0,1192.0,21.0,75.0,400.0,696.0,6473.0,1781.0,4298.0,394.0,Non-New York City
+Ontario,Canandaigua City PD,2013,12.0,349.0,29.0,0.0,7.0,9.0,13.0,320.0,55.0,255.0,10.0,Non-New York City
+Ontario,County Total,2013,,2096.0,122.0,1.0,20.0,31.0,70.0,1974.0,388.0,1549.0,37.0,Non-New York City
+Ontario,Geneva City PD,2013,12.0,371.0,28.0,1.0,4.0,5.0,18.0,343.0,65.0,275.0,3.0,Non-New York City
+Ontario,Ontario County Park PD,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,Non-New York City
+Ontario,Ontario County Sheriff,2013,12.0,1130.0,54.0,0.0,8.0,16.0,30.0,1076.0,225.0,829.0,22.0,Non-New York City
+Ontario,Ontario County State Police,2013,12.0,222.0,10.0,0.0,1.0,1.0,8.0,212.0,40.0,170.0,2.0,Non-New York City
+Ontario,Phelps Vg PD,2013,11.0,22.0,1.0,0.0,0.0,0.0,1.0,21.0,3.0,18.0,0.0,Non-New York City
+Orange,Blooming Grove Town PD,2013,12.0,113.0,9.0,0.0,1.0,1.0,7.0,104.0,21.0,76.0,7.0,Non-New York City
+Orange,Chester Town PD,2013,12.0,24.0,0.0,0.0,0.0,0.0,0.0,24.0,9.0,15.0,0.0,Non-New York City
+Orange,Chester Vg PD,2013,12.0,98.0,6.0,0.0,0.0,4.0,2.0,92.0,14.0,78.0,0.0,Non-New York City
+Orange,Cornwall Town PD,2013,12.0,43.0,1.0,0.0,0.0,0.0,1.0,42.0,10.0,32.0,0.0,Non-New York City
+Orange,Cornwall-on-Hudson Vg PD,2013,12.0,24.0,2.0,0.0,0.0,0.0,2.0,22.0,8.0,14.0,0.0,Non-New York City
+Orange,County Total,2013,,8590.0,868.0,12.0,74.0,277.0,505.0,7722.0,1195.0,6310.0,217.0,Non-New York City
+Orange,Crawford Town PD,2013,12.0,122.0,11.0,0.0,0.0,2.0,9.0,111.0,16.0,95.0,0.0,Non-New York City
+Orange,Deerpark Town PD,2013,12.0,159.0,7.0,0.0,2.0,2.0,3.0,152.0,52.0,100.0,0.0,Non-New York City
+Orange,Florida Vg PD,2013,12.0,44.0,0.0,0.0,0.0,0.0,0.0,44.0,5.0,39.0,0.0,Non-New York City
+Orange,Goshen Town PD,2013,12.0,63.0,1.0,0.0,0.0,0.0,1.0,62.0,7.0,52.0,3.0,Non-New York City
+Orange,Goshen Vg PD,2013,12.0,66.0,2.0,0.0,1.0,1.0,0.0,64.0,2.0,62.0,0.0,Non-New York City
+Orange,Greenwood Lake Vg PD,2013,12.0,23.0,2.0,0.0,0.0,0.0,2.0,21.0,3.0,16.0,2.0,Non-New York City
+Orange,Harriman Vg PD,2013,12.0,15.0,2.0,0.0,0.0,0.0,2.0,13.0,3.0,10.0,0.0,Non-New York City
+Orange,Highland Falls Vg PD,2013,12.0,42.0,3.0,0.0,0.0,0.0,3.0,39.0,8.0,31.0,0.0,Non-New York City
+Orange,Highlands Town PD,2013,12.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,2.0,8.0,0.0,Non-New York City
+Orange,Maybrook Vg PD,2013,12.0,17.0,2.0,0.0,0.0,1.0,1.0,15.0,3.0,10.0,2.0,Non-New York City
+Orange,Middletown City PD,2013,12.0,966.0,114.0,1.0,6.0,47.0,60.0,852.0,136.0,683.0,33.0,Non-New York City
+Orange,Monroe Vg PD,2013,12.0,151.0,14.0,0.0,2.0,5.0,7.0,137.0,16.0,118.0,3.0,Non-New York City
+Orange,Montgomery Town PD,2013,12.0,120.0,6.0,0.0,2.0,1.0,3.0,114.0,22.0,91.0,1.0,Non-New York City
+Orange,Montgomery Vg PD,2013,12.0,47.0,2.0,0.0,0.0,0.0,2.0,45.0,3.0,42.0,0.0,Non-New York City
+Orange,Mount Hope Town PD,2013,12.0,32.0,0.0,0.0,0.0,0.0,0.0,32.0,6.0,25.0,1.0,Non-New York City
+Orange,New Windsor Town PD,2013,12.0,502.0,31.0,0.0,1.0,8.0,22.0,471.0,65.0,394.0,12.0,Non-New York City
+Orange,Newburgh City PD,2013,12.0,1475.0,435.0,5.0,21.0,150.0,259.0,1040.0,304.0,673.0,63.0,Non-New York City
+Orange,Newburgh Town PD,2013,12.0,1391.0,38.0,0.0,5.0,15.0,18.0,1353.0,143.0,1182.0,28.0,Non-New York City
+Orange,Orange County MTA,2013,12.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,6.0,0.0,Non-New York City
+Orange,Orange County Park PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,Non-New York City
+Orange,Orange County Sheriff,2013,12.0,16.0,9.0,0.0,0.0,0.0,9.0,7.0,0.0,7.0,0.0,Non-New York City
+Orange,Orange County State Police,2013,12.0,963.0,79.0,4.0,24.0,15.0,36.0,884.0,112.0,754.0,18.0,Non-New York City
+Orange,Port Jervis City PD,2013,12.0,299.0,15.0,1.0,3.0,3.0,8.0,284.0,67.0,214.0,3.0,Non-New York City
+Orange,Walden Vg PD,2013,12.0,161.0,18.0,1.0,2.0,1.0,14.0,143.0,12.0,126.0,5.0,Non-New York City
+Orange,Wallkill Town PD,2013,12.0,807.0,40.0,0.0,3.0,16.0,21.0,767.0,91.0,650.0,26.0,Non-New York City
+Orange,Warwick Town PD,2013,12.0,175.0,14.0,0.0,1.0,2.0,11.0,161.0,40.0,117.0,4.0,Non-New York City
+Orange,Washingtonville Vg PD,2013,12.0,60.0,2.0,0.0,0.0,1.0,1.0,58.0,5.0,51.0,2.0,Non-New York City
+Orange,Woodbury Town PD,2013,12.0,551.0,3.0,0.0,0.0,2.0,1.0,548.0,9.0,535.0,4.0,Non-New York City
+Orleans,Albion Vg PD,2013,12.0,245.0,23.0,0.0,3.0,4.0,16.0,222.0,52.0,166.0,4.0,Non-New York City
+Orleans,County Total,2013,,747.0,59.0,1.0,6.0,8.0,44.0,688.0,196.0,468.0,24.0,Non-New York City
+Orleans,Holley Vg PD,2013,12.0,42.0,3.0,0.0,0.0,0.0,3.0,39.0,8.0,28.0,3.0,Non-New York City
+Orleans,Medina Vg PD,2013,12.0,152.0,13.0,0.0,1.0,3.0,9.0,139.0,37.0,100.0,2.0,Non-New York City
+Orleans,Orleans County Park PD,2013,12.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,Non-New York City
+Orleans,Orleans County Sheriff,2013,12.0,253.0,13.0,1.0,1.0,1.0,10.0,240.0,84.0,144.0,12.0,Non-New York City
+Orleans,Orleans County State Police,2013,12.0,52.0,7.0,0.0,1.0,0.0,6.0,45.0,15.0,27.0,3.0,Non-New York City
+Oswego,Central Square Vg PD,2013,12.0,56.0,3.0,0.0,0.0,2.0,1.0,53.0,6.0,45.0,2.0,Non-New York City
+Oswego,County Total,2013,,2678.0,158.0,2.0,15.0,29.0,112.0,2520.0,521.0,1919.0,80.0,Non-New York City
+Oswego,Fulton City PD,2013,12.0,487.0,24.0,0.0,3.0,7.0,14.0,463.0,81.0,376.0,6.0,Non-New York City
+Oswego,Oswego City PD,2013,12.0,691.0,55.0,1.0,3.0,13.0,38.0,636.0,85.0,537.0,14.0,Non-New York City
+Oswego,Oswego County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Non-New York City
+Oswego,Oswego County Sheriff,2013,12.0,459.0,35.0,1.0,1.0,2.0,31.0,424.0,99.0,305.0,20.0,Non-New York City
+Oswego,Oswego County State Police,2013,12.0,728.0,35.0,0.0,8.0,4.0,23.0,693.0,196.0,462.0,35.0,Non-New York City
+Oswego,Phoenix Vg PD,2013,12.0,45.0,4.0,0.0,0.0,1.0,3.0,41.0,2.0,39.0,0.0,Non-New York City
+Oswego,Pulaski Vg PD,2013,12.0,58.0,1.0,0.0,0.0,0.0,1.0,57.0,12.0,44.0,1.0,Non-New York City
+Oswego,SUNY Police - Oswego,2013,12.0,153.0,1.0,0.0,0.0,0.0,1.0,152.0,39.0,111.0,2.0,Non-New York City
+Otsego,Cooperstown Vg PD,2013,12.0,24.0,1.0,0.0,0.0,0.0,1.0,23.0,2.0,21.0,0.0,Non-New York City
+Otsego,County Total,2013,,835.0,65.0,1.0,11.0,15.0,38.0,770.0,177.0,579.0,14.0,Non-New York City
+Otsego,Oneonta City PD,2013,12.0,332.0,21.0,0.0,3.0,11.0,7.0,311.0,69.0,238.0,4.0,Non-New York City
+Otsego,Otsego County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Otsego,Otsego County Sheriff,2013,12.0,98.0,22.0,1.0,0.0,3.0,18.0,76.0,37.0,33.0,6.0,Non-New York City
+Otsego,Otsego County State Police,2013,12.0,369.0,21.0,0.0,8.0,1.0,12.0,348.0,67.0,277.0,4.0,Non-New York City
+Otsego,SUNY Police - Oneonta,2013,12.0,11.0,0.0,0.0,0.0,0.0,0.0,11.0,2.0,9.0,0.0,Non-New York City
+Putnam,Brewster Vg PD,2013,12.0,13.0,0.0,0.0,0.0,0.0,0.0,13.0,3.0,10.0,0.0,Non-New York City
+Putnam,Carmel Town PD,2013,12.0,208.0,10.0,0.0,2.0,0.0,8.0,198.0,31.0,158.0,9.0,Non-New York City
+Putnam,County Total,2013,,772.0,49.0,0.0,12.0,8.0,29.0,723.0,131.0,565.0,27.0,Non-New York City
+Putnam,Kent Town PD,2013,12.0,99.0,1.0,0.0,1.0,0.0,0.0,98.0,22.0,71.0,5.0,Non-New York City
+Putnam,Putnam County MTA,2013,12.0,13.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,13.0,0.0,Non-New York City
+Putnam,Putnam County Sheriff,2013,12.0,341.0,30.0,0.0,8.0,5.0,17.0,311.0,57.0,247.0,7.0,Non-New York City
+Putnam,Putnam County State Police,2013,12.0,98.0,8.0,0.0,1.0,3.0,4.0,90.0,18.0,66.0,6.0,Non-New York City
+Queens,County Total,2013,12.0,39913.0,10740.0,59.0,254.0,3994.0,6433.0,29173.0,4732.0,22030.0,2411.0,New York City
+Rensselaer,County Total,2013,,4137.0,471.0,3.0,24.0,159.0,285.0,3666.0,917.0,2615.0,134.0,Non-New York City
+Rensselaer,East Greenbush Town PD,2013,12.0,385.0,12.0,0.0,0.0,4.0,8.0,373.0,36.0,330.0,7.0,Non-New York City
+Rensselaer,Hoosick Falls Vg PD,2013,12.0,48.0,9.0,0.0,1.0,1.0,7.0,39.0,10.0,27.0,2.0,Non-New York City
+Rensselaer,Nassau Vg PD,2013,12.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,5.0,5.0,0.0,Non-New York City
+Rensselaer,North Greenbush Town PD,2013,12.0,239.0,8.0,0.0,0.0,2.0,6.0,231.0,32.0,197.0,2.0,Non-New York City
+Rensselaer,Rensselaer City PD,2013,12.0,178.0,19.0,0.0,4.0,3.0,12.0,159.0,44.0,108.0,7.0,Non-New York City
+Rensselaer,Rensselaer County Park PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,5.0,0.0,Non-New York City
+Rensselaer,Rensselaer County Sheriff,2013,12.0,235.0,24.0,0.0,0.0,3.0,21.0,211.0,59.0,146.0,6.0,Non-New York City
+Rensselaer,Rensselaer County State Police,2013,12.0,500.0,22.0,2.0,3.0,0.0,17.0,478.0,113.0,344.0,21.0,Non-New York City
+Rensselaer,Rensselaer Poly Tech Police,2013,12.0,78.0,0.0,0.0,0.0,0.0,0.0,78.0,0.0,78.0,0.0,Non-New York City
+Rensselaer,Schodack Town PD,2013,12.0,101.0,4.0,0.0,0.0,1.0,3.0,97.0,25.0,70.0,2.0,Non-New York City
+Rensselaer,Troy City PD,2013,12.0,2358.0,373.0,1.0,16.0,145.0,211.0,1985.0,593.0,1305.0,87.0,Non-New York City
+Richmond,County Total,2013,12.0,7234.0,1658.0,7.0,32.0,526.0,1093.0,5576.0,669.0,4681.0,226.0,New York City
+Rockland,Clarkstown Town PD,2013,12.0,1585.0,65.0,0.0,8.0,17.0,40.0,1520.0,99.0,1392.0,29.0,Non-New York City
+Rockland,County Total,2013,,3807.0,395.0,4.0,28.0,94.0,269.0,3412.0,408.0,2911.0,93.0,Non-New York City
+Rockland,Haverstraw Town PD,2013,12.0,404.0,64.0,0.0,3.0,16.0,45.0,340.0,83.0,244.0,13.0,Non-New York City
+Rockland,Orangetown Town PD,2013,12.0,354.0,37.0,0.0,1.0,13.0,23.0,317.0,41.0,262.0,14.0,Non-New York City
+Rockland,Piermont Vg PD,2013,12.0,20.0,1.0,0.0,1.0,0.0,0.0,19.0,6.0,13.0,0.0,Non-New York City
+Rockland,Ramapo Town PD,2013,12.0,628.0,57.0,2.0,5.0,9.0,41.0,571.0,89.0,469.0,13.0,Non-New York City
+Rockland,Rockland County MTA,2013,12.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,Non-New York City
+Rockland,Rockland County Park PD,2013,12.0,18.0,0.0,0.0,0.0,0.0,0.0,18.0,2.0,16.0,0.0,Non-New York City
+Rockland,Rockland County Sheriff,2013,12.0,23.0,4.0,0.0,0.0,0.0,4.0,19.0,0.0,19.0,0.0,Non-New York City
+Rockland,Rockland County State Police,2013,12.0,24.0,9.0,0.0,1.0,2.0,6.0,15.0,2.0,13.0,0.0,Non-New York City
+Rockland,South Nyack-Grand View PD,2013,12.0,18.0,3.0,0.0,0.0,1.0,2.0,15.0,4.0,11.0,0.0,Non-New York City
+Rockland,Spring Valley Vg PD,2013,12.0,541.0,134.0,2.0,9.0,34.0,89.0,407.0,53.0,337.0,17.0,Non-New York City
+Rockland,Stony Point Town PD,2013,12.0,119.0,12.0,0.0,0.0,1.0,11.0,107.0,18.0,83.0,6.0,Non-New York City
+Rockland,Suffern Vg PD,2013,12.0,69.0,9.0,0.0,0.0,1.0,8.0,60.0,11.0,48.0,1.0,Non-New York City
+Saratoga,Ballston Spa Vg PD,2013,12.0,102.0,8.0,0.0,0.0,3.0,5.0,94.0,16.0,78.0,0.0,Non-New York City
+Saratoga,County Total,2013,,3115.0,173.0,1.0,21.0,35.0,116.0,2942.0,494.0,2385.0,63.0,Non-New York City
+Saratoga,Mechanicville City PD,2013,12.0,123.0,8.0,0.0,0.0,3.0,5.0,115.0,21.0,89.0,5.0,Non-New York City
+Saratoga,Saratoga County Park PD,2013,12.0,39.0,0.0,0.0,0.0,0.0,0.0,39.0,2.0,36.0,1.0,Non-New York City
+Saratoga,Saratoga County Sheriff,2013,12.0,1244.0,59.0,0.0,4.0,8.0,47.0,1185.0,243.0,906.0,36.0,Non-New York City
+Saratoga,Saratoga County State Police,2013,12.0,723.0,53.0,0.0,13.0,12.0,28.0,670.0,101.0,561.0,8.0,Non-New York City
+Saratoga,Saratoga Springs City PD,2013,12.0,675.0,33.0,1.0,3.0,8.0,21.0,642.0,84.0,550.0,8.0,Non-New York City
+Saratoga,South Glens Falls Vg PD,2013,12.0,121.0,7.0,0.0,1.0,1.0,5.0,114.0,17.0,95.0,2.0,Non-New York City
+Saratoga,Stillwater Town PD,2013,12.0,25.0,1.0,0.0,0.0,0.0,1.0,24.0,4.0,18.0,2.0,Non-New York City
+Saratoga,Waterford Town and Vg PD,2013,12.0,63.0,4.0,0.0,0.0,0.0,4.0,59.0,6.0,52.0,1.0,Non-New York City
+Schenectady,County Total,2013,,5378.0,675.0,11.0,36.0,229.0,399.0,4703.0,1007.0,3500.0,196.0,Non-New York City
+Schenectady,Glenville Town PD,2013,12.0,506.0,13.0,0.0,0.0,2.0,11.0,493.0,57.0,426.0,10.0,Non-New York City
+Schenectady,Niskayuna Town PD,2013,12.0,354.0,13.0,0.0,1.0,5.0,7.0,341.0,51.0,282.0,8.0,Non-New York City
+Schenectady,Rotterdam Town PD,2013,12.0,862.0,33.0,2.0,4.0,16.0,11.0,829.0,109.0,700.0,20.0,Non-New York City
+Schenectady,Schenectady City PD,2013,12.0,3410.0,608.0,8.0,31.0,205.0,364.0,2802.0,770.0,1878.0,154.0,Non-New York City
+Schenectady,Schenectady County Sheriff,2013,12.0,6.0,1.0,0.0,0.0,0.0,1.0,5.0,0.0,5.0,0.0,Non-New York City
+Schenectady,Schenectady County State Police,2013,12.0,109.0,2.0,0.0,0.0,0.0,2.0,107.0,6.0,97.0,4.0,Non-New York City
+Schenectady,Scotia Vg PD,2013,12.0,131.0,5.0,1.0,0.0,1.0,3.0,126.0,14.0,112.0,0.0,Non-New York City
+Schoharie,Cobleskill Vg PD,2013,12.0,223.0,5.0,0.0,0.0,3.0,2.0,218.0,14.0,204.0,0.0,Non-New York City
+Schoharie,County Total,2013,,536.0,27.0,0.0,8.0,5.0,14.0,509.0,117.0,383.0,9.0,Non-New York City
+Schoharie,Schoharie County Sheriff,2013,12.0,75.0,4.0,0.0,0.0,0.0,4.0,71.0,24.0,45.0,2.0,Non-New York City
+Schoharie,Schoharie County State Police,2013,12.0,184.0,14.0,0.0,7.0,1.0,6.0,170.0,70.0,95.0,5.0,Non-New York City
+Schoharie,SUNY Police - Cobleskill,2013,12.0,54.0,4.0,0.0,1.0,1.0,2.0,50.0,9.0,39.0,2.0,Non-New York City
+Schuyler,County Total,2013,,165.0,14.0,0.0,0.0,1.0,13.0,151.0,33.0,111.0,7.0,Non-New York City
+Schuyler,Schuyler County Park PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,4.0,1.0,Non-New York City
+Schuyler,Schuyler County Sheriff,2013,12.0,33.0,7.0,0.0,0.0,1.0,6.0,26.0,14.0,10.0,2.0,Non-New York City
+Schuyler,Schuyler County State Police,2013,12.0,28.0,1.0,0.0,0.0,0.0,1.0,27.0,9.0,16.0,2.0,Non-New York City
+Schuyler,Watkins Glen Vg PD,2013,12.0,99.0,6.0,0.0,0.0,0.0,6.0,93.0,10.0,81.0,2.0,Non-New York City
+Seneca,County Total,2013,,794.0,62.0,2.0,8.0,5.0,47.0,732.0,123.0,599.0,10.0,Non-New York City
+Seneca,Interlaken Vg PD,2013,2.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,Non-New York City
+Seneca,Seneca County Park PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,5.0,0.0,Non-New York City
+Seneca,Seneca County Sheriff,2013,12.0,92.0,5.0,1.0,1.0,0.0,3.0,87.0,10.0,74.0,3.0,Non-New York City
+Seneca,Seneca County State Police,2013,12.0,181.0,33.0,1.0,6.0,1.0,25.0,148.0,42.0,106.0,0.0,Non-New York City
+Seneca,Seneca Falls Town PD,2013,12.0,305.0,12.0,0.0,0.0,1.0,11.0,293.0,48.0,240.0,5.0,Non-New York City
+Seneca,Waterloo Vg PD,2013,12.0,208.0,12.0,0.0,1.0,3.0,8.0,196.0,23.0,171.0,2.0,Non-New York City
+St Lawrence,Canton Vg PD,2013,12.0,97.0,3.0,0.0,0.0,1.0,2.0,94.0,11.0,82.0,1.0,Non-New York City
+St Lawrence,County Total,2013,,1965.0,112.0,1.0,10.0,12.0,89.0,1853.0,345.0,1470.0,38.0,Non-New York City
+St Lawrence,Massena Vg PD,2013,12.0,432.0,22.0,0.0,2.0,2.0,18.0,410.0,52.0,358.0,0.0,Non-New York City
+St Lawrence,Norfolk Town PD,2013,12.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,3.0,1.0,1.0,Non-New York City
+St Lawrence,Ogdensburg City PD,2013,12.0,420.0,23.0,0.0,1.0,5.0,17.0,397.0,72.0,321.0,4.0,Non-New York City
+St Lawrence,Potsdam Vg PD,2013,12.0,198.0,8.0,0.0,1.0,0.0,7.0,190.0,17.0,168.0,5.0,Non-New York City
+St Lawrence,St Lawrence County Park PD,2013,12.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,7.0,0.0,Non-New York City
+St Lawrence,St Lawrence County Sheriff,2013,12.0,52.0,11.0,0.0,0.0,0.0,11.0,41.0,8.0,33.0,0.0,Non-New York City
+St Lawrence,St Lawrence County State Police,2013,12.0,637.0,41.0,1.0,3.0,3.0,34.0,596.0,174.0,397.0,25.0,Non-New York City
+St Lawrence,SUNY Police - Canton,2013,12.0,60.0,2.0,0.0,1.0,1.0,0.0,58.0,5.0,53.0,0.0,Non-New York City
+St Lawrence,SUNY Police - Potsdam,2013,12.0,57.0,2.0,0.0,2.0,0.0,0.0,55.0,3.0,50.0,2.0,Non-New York City
+Steuben,Addison Vg PD,2013,12.0,27.0,3.0,0.0,0.0,0.0,3.0,24.0,3.0,20.0,1.0,Non-New York City
+Steuben,Bath Vg PD,2013,12.0,206.0,15.0,0.0,1.0,3.0,11.0,191.0,32.0,157.0,2.0,Non-New York City
+Steuben,Canisteo Vg PD,2013,12.0,15.0,3.0,0.0,0.0,1.0,2.0,12.0,3.0,9.0,0.0,Non-New York City
+Steuben,Cohocton Town PD,2013,12.0,15.0,4.0,0.0,1.0,0.0,3.0,11.0,4.0,7.0,0.0,Non-New York City
+Steuben,Corning City PD,2013,12.0,451.0,35.0,0.0,3.0,8.0,24.0,416.0,63.0,349.0,4.0,Non-New York City
+Steuben,County Total,2013,,1541.0,123.0,1.0,21.0,13.0,88.0,1418.0,269.0,1125.0,24.0,Non-New York City
+Steuben,Hammondsport Vg PD,2013,12.0,10.0,0.0,0.0,0.0,0.0,0.0,10.0,1.0,9.0,0.0,Non-New York City
+Steuben,Hornell City PD,2013,12.0,117.0,5.0,0.0,0.0,0.0,5.0,112.0,18.0,94.0,0.0,Non-New York City
+Steuben,Painted Post Vg PD,2013,12.0,74.0,1.0,0.0,0.0,0.0,1.0,73.0,5.0,66.0,2.0,Non-New York City
+Steuben,Steuben County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Steuben,Steuben County Sheriff,2013,12.0,182.0,13.0,0.0,3.0,1.0,9.0,169.0,45.0,122.0,2.0,Non-New York City
+Steuben,Steuben County State Police,2013,12.0,435.0,44.0,1.0,13.0,0.0,30.0,391.0,94.0,284.0,13.0,Non-New York City
+Steuben,Wayland Vg PD,2013,12.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,1.0,7.0,0.0,Non-New York City
+Suffolk,Amityville Vg PD,2013,12.0,219.0,9.0,0.0,2.0,4.0,3.0,210.0,16.0,188.0,6.0,Non-New York City
+Suffolk,Asharoken Vg PD,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,Non-New York City
+Suffolk,County Total,2013,,26379.0,1934.0,27.0,53.0,694.0,1160.0,24445.0,3610.0,19656.0,1179.0,Non-New York City
+Suffolk,East Hampton Town PD,2013,12.0,328.0,20.0,0.0,2.0,1.0,17.0,308.0,59.0,241.0,8.0,Non-New York City
+Suffolk,East Hampton Vg PD,2013,12.0,66.0,0.0,0.0,0.0,0.0,0.0,66.0,4.0,60.0,2.0,Non-New York City
+Suffolk,Huntington Bay Vg PD,2013,12.0,13.0,1.0,0.0,0.0,0.0,1.0,12.0,0.0,11.0,1.0,Non-New York City
+Suffolk,Lloyd Harbor Vg PD,2013,12.0,18.0,0.0,0.0,0.0,0.0,0.0,18.0,2.0,16.0,0.0,Non-New York City
+Suffolk,Nissequogue Vg PD,2013,12.0,8.0,0.0,0.0,0.0,0.0,0.0,8.0,1.0,6.0,1.0,Non-New York City
+Suffolk,Northport Vg PD,2013,12.0,65.0,6.0,0.0,0.0,1.0,5.0,59.0,11.0,44.0,4.0,Non-New York City
+Suffolk,Ocean Beach Vg PD,2013,12.0,13.0,0.0,0.0,0.0,0.0,0.0,13.0,3.0,9.0,1.0,Non-New York City
+Suffolk,Quogue Vg PD,2013,12.0,41.0,0.0,0.0,0.0,0.0,0.0,41.0,13.0,27.0,1.0,Non-New York City
+Suffolk,Riverhead Town PD,2013,12.0,986.0,64.0,0.0,3.0,26.0,35.0,922.0,160.0,729.0,33.0,Non-New York City
+Suffolk,Sag Harbor Vg PD,2013,12.0,74.0,3.0,0.0,0.0,1.0,2.0,71.0,17.0,53.0,1.0,Non-New York City
+Suffolk,Shelter Island Town PD,2013,12.0,44.0,3.0,0.0,0.0,0.0,3.0,41.0,2.0,39.0,0.0,Non-New York City
+Suffolk,Southampton Town PD,2013,12.0,1064.0,44.0,0.0,6.0,16.0,22.0,1020.0,219.0,752.0,49.0,Non-New York City
+Suffolk,Southampton Vg PD,2013,12.0,121.0,3.0,0.0,0.0,1.0,2.0,118.0,9.0,105.0,4.0,Non-New York City
+Suffolk,Southold Town PD,2013,12.0,362.0,16.0,0.0,1.0,8.0,7.0,346.0,70.0,272.0,4.0,Non-New York City
+Suffolk,Suffolk County MTA,2013,12.0,88.0,13.0,0.0,0.0,7.0,6.0,75.0,1.0,74.0,0.0,Non-New York City
+Suffolk,Suffolk County Park PD,2013,12.0,89.0,4.0,0.0,0.0,0.0,4.0,85.0,2.0,83.0,0.0,Non-New York City
+Suffolk,Suffolk County Park Rangers,2013,12.0,36.0,0.0,0.0,0.0,0.0,0.0,36.0,1.0,35.0,0.0,Non-New York City
+Suffolk,Suffolk County PD,2013,12.0,22192.0,1611.0,27.0,35.0,620.0,929.0,20581.0,2979.0,16551.0,1051.0,Non-New York City
+Suffolk,Suffolk County Sheriff,2013,12.0,114.0,109.0,0.0,0.0,0.0,109.0,5.0,0.0,2.0,3.0,Non-New York City
+Suffolk,Suffolk County State Police,2013,12.0,61.0,13.0,0.0,2.0,6.0,5.0,48.0,11.0,31.0,6.0,Non-New York City
+Suffolk,SUNY Police - Farmingdale,2013,12.0,29.0,0.0,0.0,0.0,0.0,0.0,29.0,0.0,29.0,0.0,Non-New York City
+Suffolk,SUNY Police - Stony Brook,2013,12.0,300.0,13.0,0.0,2.0,3.0,8.0,287.0,26.0,260.0,1.0,Non-New York City
+Suffolk,Westhampton Beach Vg PD,2013,12.0,46.0,2.0,0.0,0.0,0.0,2.0,44.0,4.0,37.0,3.0,Non-New York City
+Sullivan,County Total,2013,,1720.0,172.0,1.0,18.0,22.0,131.0,1548.0,484.0,1024.0,40.0,Non-New York City
+Sullivan,Fallsburg Town PD,2013,12.0,186.0,23.0,1.0,0.0,0.0,22.0,163.0,65.0,97.0,1.0,Non-New York City
+Sullivan,Liberty Vg PD,2013,12.0,228.0,21.0,0.0,2.0,2.0,17.0,207.0,43.0,161.0,3.0,Non-New York City
+Sullivan,Monticello Vg PD,2013,12.0,324.0,48.0,0.0,4.0,16.0,28.0,276.0,107.0,164.0,5.0,Non-New York City
+Sullivan,NYC-DEPP - Grahamsville PCT,2013,4.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Sullivan,Sullivan County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Sullivan,Sullivan County Sheriff,2013,12.0,512.0,24.0,0.0,0.0,3.0,21.0,488.0,113.0,363.0,12.0,Non-New York City
+Sullivan,Sullivan County State Police,2013,12.0,444.0,49.0,0.0,12.0,1.0,36.0,395.0,148.0,228.0,19.0,Non-New York City
+Sullivan,Woodridge Vg PD,2013,12.0,24.0,7.0,0.0,0.0,0.0,7.0,17.0,8.0,9.0,0.0,Non-New York City
+Tioga,County Total,2013,,650.0,27.0,1.0,4.0,5.0,17.0,623.0,166.0,432.0,25.0,Non-New York City
+Tioga,Owego Vg PD,2013,12.0,212.0,9.0,0.0,1.0,2.0,6.0,203.0,41.0,158.0,4.0,Non-New York City
+Tioga,Tioga County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Tioga,Tioga County Sheriff,2013,12.0,265.0,10.0,1.0,2.0,2.0,5.0,255.0,88.0,164.0,3.0,Non-New York City
+Tioga,Tioga County State Police,2013,12.0,113.0,3.0,0.0,1.0,0.0,2.0,110.0,28.0,68.0,14.0,Non-New York City
+Tioga,Waverly Vg PD,2013,12.0,59.0,5.0,0.0,0.0,1.0,4.0,54.0,9.0,41.0,4.0,Non-New York City
+Tompkins,Cayuga Heights Vg PD,2013,12.0,60.0,1.0,0.0,0.0,1.0,0.0,59.0,12.0,47.0,0.0,Non-New York City
+Tompkins,Cornell University Police,2013,12.0,261.0,3.0,0.0,1.0,2.0,0.0,258.0,16.0,242.0,0.0,Non-New York City
+Tompkins,County Total,2013,,2902.0,109.0,1.0,13.0,29.0,66.0,2793.0,459.0,2296.0,38.0,Non-New York City
+Tompkins,Dryden Vg PD,2013,12.0,102.0,3.0,0.0,0.0,1.0,2.0,99.0,6.0,93.0,0.0,Non-New York City
+Tompkins,Groton Vg PD,2013,12.0,39.0,1.0,0.0,1.0,0.0,0.0,38.0,6.0,31.0,1.0,Non-New York City
+Tompkins,Ithaca City PD,2013,12.0,1414.0,50.0,0.0,5.0,17.0,28.0,1364.0,198.0,1150.0,16.0,Non-New York City
+Tompkins,Ithaca College PD,2013,12.0,119.0,0.0,0.0,0.0,0.0,0.0,119.0,37.0,81.0,1.0,Non-New York City
+Tompkins,Tompkins County Park PD,2013,12.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,1.0,6.0,0.0,Non-New York City
+Tompkins,Tompkins County Sheriff,2013,12.0,569.0,35.0,1.0,5.0,4.0,25.0,534.0,120.0,404.0,10.0,Non-New York City
+Tompkins,Tompkins County State Police,2013,12.0,263.0,14.0,0.0,0.0,3.0,11.0,249.0,57.0,184.0,8.0,Non-New York City
+Tompkins,Trumansburg Vg PD,2013,12.0,68.0,2.0,0.0,1.0,1.0,0.0,66.0,6.0,58.0,2.0,Non-New York City
+Ulster,County Total,2013,,3582.0,294.0,3.0,31.0,52.0,208.0,3288.0,593.0,2640.0,55.0,Non-New York City
+Ulster,Ellenville Vg PD,2013,12.0,190.0,17.0,0.0,1.0,2.0,14.0,173.0,41.0,132.0,0.0,Non-New York City
+Ulster,Kingston City PD,2013,12.0,761.0,74.0,1.0,4.0,25.0,44.0,687.0,112.0,565.0,10.0,Non-New York City
+Ulster,Lloyd Town PD,2013,12.0,124.0,6.0,0.0,0.0,0.0,6.0,118.0,20.0,95.0,3.0,Non-New York City
+Ulster,Marlborough Town PD,2013,12.0,140.0,5.0,0.0,0.0,1.0,4.0,135.0,35.0,97.0,3.0,Non-New York City
+Ulster,New Paltz Town and Vg PD,2013,12.0,234.0,34.0,0.0,4.0,4.0,26.0,200.0,16.0,180.0,4.0,Non-New York City
+Ulster,Olive Town PD,2013,12.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,Non-New York City
+Ulster,Plattekill Town PD,2013,12.0,114.0,8.0,0.0,1.0,2.0,5.0,106.0,28.0,77.0,1.0,Non-New York City
+Ulster,Rosendale Town PD,2013,12.0,62.0,1.0,0.0,0.0,0.0,1.0,61.0,16.0,45.0,0.0,Non-New York City
+Ulster,Saugerties Town PD,2013,12.0,334.0,15.0,0.0,3.0,5.0,7.0,319.0,51.0,268.0,0.0,Non-New York City
+Ulster,Shandaken Town PD,2013,12.0,66.0,4.0,0.0,0.0,0.0,4.0,62.0,17.0,44.0,1.0,Non-New York City
+Ulster,Shawangunk Town PD,2013,12.0,83.0,3.0,0.0,0.0,0.0,3.0,80.0,20.0,60.0,0.0,Non-New York City
+Ulster,SUNY Police - New Paltz,2013,12.0,48.0,1.0,0.0,0.0,0.0,1.0,47.0,3.0,43.0,1.0,Non-New York City
+Ulster,Ulster County Park PD,2013,12.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Non-New York City
+Ulster,Ulster County Sheriff,2013,12.0,338.0,36.0,1.0,6.0,5.0,24.0,302.0,66.0,229.0,7.0,Non-New York City
+Ulster,Ulster County State Police,2013,12.0,569.0,74.0,1.0,9.0,6.0,58.0,495.0,128.0,344.0,23.0,Non-New York City
+Ulster,Ulster Regional Gang Enforcement Narcotics Team,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,Non-New York City
+Ulster,Ulster Town PD,2013,12.0,451.0,14.0,0.0,3.0,2.0,9.0,437.0,25.0,410.0,2.0,Non-New York City
+Ulster,Woodstock Town PD,2013,12.0,62.0,2.0,0.0,0.0,0.0,2.0,60.0,15.0,45.0,0.0,Non-New York City
+Warren,Bolton Town PD,2013,12.0,26.0,2.0,0.0,0.0,0.0,2.0,24.0,4.0,20.0,0.0,Non-New York City
+Warren,County Total,2013,,1297.0,53.0,1.0,10.0,7.0,35.0,1244.0,158.0,1073.0,13.0,Non-New York City
+Warren,Glens Falls City PD,2013,12.0,364.0,21.0,0.0,1.0,3.0,17.0,343.0,50.0,288.0,5.0,Non-New York City
+Warren,Warren County Sheriff,2013,12.0,689.0,18.0,1.0,4.0,3.0,10.0,671.0,85.0,579.0,7.0,Non-New York City
+Warren,Warren County State Police,2013,12.0,218.0,12.0,0.0,5.0,1.0,6.0,206.0,19.0,186.0,1.0,Non-New York City
+Washington,Cambridge Vg PD,2013,12.0,46.0,2.0,0.0,0.0,0.0,2.0,44.0,12.0,31.0,1.0,Non-New York City
+Washington,County Total,2013,,882.0,71.0,1.0,5.0,6.0,59.0,811.0,187.0,601.0,23.0,Non-New York City
+Washington,Fort Edward Vg PD,2013,12.0,18.0,10.0,1.0,0.0,0.0,9.0,8.0,4.0,4.0,0.0,Non-New York City
+Washington,Granville Vg PD,2013,12.0,32.0,6.0,0.0,1.0,0.0,5.0,26.0,7.0,19.0,0.0,Non-New York City
+Washington,Greenwich Vg PD,2013,12.0,26.0,2.0,0.0,0.0,0.0,2.0,24.0,1.0,22.0,1.0,Non-New York City
+Washington,Hudson Falls Vg PD,2013,12.0,118.0,6.0,0.0,0.0,2.0,4.0,112.0,22.0,90.0,0.0,Non-New York City
+Washington,Washington County Sheriff,2013,12.0,407.0,32.0,0.0,3.0,2.0,27.0,375.0,84.0,281.0,10.0,Non-New York City
+Washington,Washington County State Police,2013,12.0,167.0,7.0,0.0,1.0,2.0,4.0,160.0,45.0,105.0,10.0,Non-New York City
+Washington,Whitehall Vg PD,2013,12.0,68.0,6.0,0.0,0.0,0.0,6.0,62.0,12.0,49.0,1.0,Non-New York City
+Wayne,Clyde Vg PD,2013,12.0,64.0,4.0,0.0,0.0,3.0,1.0,60.0,16.0,43.0,1.0,Non-New York City
+Wayne,County Total,2013,,1842.0,153.0,4.0,21.0,29.0,99.0,1689.0,469.0,1182.0,38.0,Non-New York City
+Wayne,Lyons Vg PD,2013,12.0,206.0,27.0,0.0,5.0,3.0,19.0,179.0,34.0,142.0,3.0,Non-New York City
+Wayne,Macedon Town and Vg PD,2013,12.0,67.0,4.0,0.0,0.0,1.0,3.0,63.0,7.0,54.0,2.0,Non-New York City
+Wayne,Newark Vg PD,2013,12.0,364.0,27.0,0.0,3.0,7.0,17.0,337.0,71.0,264.0,2.0,Non-New York City
+Wayne,Palmyra Vg PD,2013,12.0,47.0,4.0,0.0,0.0,0.0,4.0,43.0,9.0,33.0,1.0,Non-New York City
+Wayne,Sodus Point Vg PD,2013,12.0,9.0,1.0,0.0,0.0,0.0,1.0,8.0,0.0,8.0,0.0,Non-New York City
+Wayne,Sodus Vg PD,2013,12.0,23.0,0.0,0.0,0.0,0.0,0.0,23.0,2.0,21.0,0.0,Non-New York City
+Wayne,Wayne County Sheriff,2013,12.0,506.0,43.0,2.0,2.0,8.0,31.0,463.0,158.0,293.0,12.0,Non-New York City
+Wayne,Wayne County State Police,2013,12.0,550.0,43.0,2.0,11.0,7.0,23.0,507.0,169.0,321.0,17.0,Non-New York City
+Wayne,Wolcott Vg PD,2013,12.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,3.0,3.0,0.0,Non-New York City
+Westchester,Ardsley Vg PD,2013,12.0,38.0,5.0,0.0,0.0,3.0,2.0,33.0,4.0,28.0,1.0,Non-New York City
+Westchester,Bedford Town PD,2013,12.0,161.0,5.0,0.0,0.0,1.0,4.0,156.0,26.0,126.0,4.0,Non-New York City
+Westchester,Briarcliff Manor Vg PD,2013,12.0,12.0,1.0,0.0,0.0,0.0,1.0,11.0,1.0,10.0,0.0,Non-New York City
+Westchester,Bronxville Vg PD,2013,12.0,47.0,0.0,0.0,0.0,0.0,0.0,47.0,5.0,39.0,3.0,Non-New York City
+Westchester,Buchanan Vg PD,2013,12.0,5.0,1.0,0.0,1.0,0.0,0.0,4.0,0.0,4.0,0.0,Non-New York City
+Westchester,County Total,2013,,14135.0,2192.0,11.0,59.0,843.0,1279.0,11943.0,1678.0,9646.0,619.0,Non-New York City
+Westchester,Croton-On-Hudson Vg PD,2013,12.0,54.0,1.0,0.0,0.0,1.0,0.0,53.0,8.0,43.0,2.0,Non-New York City
+Westchester,Dobbs Ferry Vg PD,2013,12.0,105.0,1.0,0.0,0.0,0.0,1.0,104.0,13.0,89.0,2.0,Non-New York City
+Westchester,Eastchester Town PD,2013,12.0,170.0,2.0,0.0,0.0,0.0,2.0,168.0,13.0,154.0,1.0,Non-New York City
+Westchester,Elmsford Vg PD,2013,12.0,37.0,2.0,0.0,1.0,0.0,1.0,35.0,3.0,27.0,5.0,Non-New York City
+Westchester,Greenburgh Town PD,2013,12.0,627.0,48.0,1.0,5.0,16.0,26.0,579.0,55.0,501.0,23.0,Non-New York City
+Westchester,Harrison Town PD,2013,12.0,231.0,6.0,0.0,0.0,1.0,5.0,225.0,27.0,194.0,4.0,Non-New York City
+Westchester,Hastings-on-Hudson Vg PD,2013,12.0,82.0,1.0,0.0,0.0,1.0,0.0,81.0,4.0,75.0,2.0,Non-New York City
+Westchester,Irvington Vg PD,2013,12.0,23.0,0.0,0.0,0.0,0.0,0.0,23.0,4.0,19.0,0.0,Non-New York City
+Westchester,Larchmont Vg PD,2013,12.0,89.0,2.0,0.0,0.0,0.0,2.0,87.0,8.0,77.0,2.0,Non-New York City
+Westchester,Lewisboro Town PD,2013,12.0,31.0,0.0,0.0,0.0,0.0,0.0,31.0,0.0,31.0,0.0,Non-New York City
+Westchester,Mamaroneck Town PD,2013,12.0,159.0,1.0,0.0,0.0,1.0,0.0,158.0,16.0,141.0,1.0,Non-New York City
+Westchester,Mamaroneck Vg PD,2013,12.0,189.0,8.0,0.0,1.0,2.0,5.0,181.0,23.0,150.0,8.0,Non-New York City
+Westchester,Mount Kisco Vg PD,2013,12.0,125.0,17.0,0.0,1.0,6.0,10.0,108.0,10.0,98.0,0.0,Non-New York City
+Westchester,Mount Pleasant Town PD,2013,12.0,238.0,12.0,0.0,0.0,6.0,6.0,226.0,25.0,198.0,3.0,Non-New York City
+Westchester,Mount Vernon City PD,2013,12.0,1993.0,556.0,2.0,7.0,228.0,319.0,1437.0,318.0,972.0,147.0,Non-New York City
+Westchester,New Castle Town PD,2013,12.0,79.0,2.0,0.0,0.0,0.0,2.0,77.0,13.0,62.0,2.0,Non-New York City
+Westchester,New Rochelle City PD,2013,12.0,1569.0,176.0,0.0,6.0,81.0,89.0,1393.0,151.0,1172.0,70.0,Non-New York City
+Westchester,North Castle Town PD,2013,12.0,71.0,3.0,0.0,0.0,0.0,3.0,68.0,12.0,53.0,3.0,Non-New York City
+Westchester,NYC DEPP - Eastview PCT,2013,12.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,Non-New York City
+Westchester,Ossining Vg PD,2013,12.0,279.0,36.0,0.0,0.0,21.0,15.0,243.0,46.0,192.0,5.0,Non-New York City
+Westchester,Peekskill City PD,2013,12.0,278.0,30.0,0.0,0.0,8.0,22.0,248.0,25.0,215.0,8.0,Non-New York City
+Westchester,Pelham Manor Vg PD,2013,12.0,149.0,2.0,0.0,0.0,1.0,1.0,147.0,14.0,130.0,3.0,Non-New York City
+Westchester,Pelham Vg PD,2013,12.0,179.0,7.0,0.0,1.0,2.0,4.0,172.0,22.0,149.0,1.0,Non-New York City
+Westchester,Pleasantville Vg PD,2013,12.0,22.0,0.0,0.0,0.0,0.0,0.0,22.0,1.0,21.0,0.0,Non-New York City
+Westchester,Port Chester Vg PD,2013,12.0,620.0,48.0,0.0,2.0,19.0,27.0,572.0,67.0,483.0,22.0,Non-New York City
+Westchester,Pound Ridge Town PD,2013,12.0,36.0,3.0,0.0,0.0,0.0,3.0,33.0,15.0,18.0,0.0,Non-New York City
+Westchester,Rye Brook Vg PD,2013,12.0,90.0,2.0,0.0,0.0,2.0,0.0,88.0,9.0,77.0,2.0,Non-New York City
+Westchester,Rye City PD,2013,12.0,94.0,5.0,0.0,0.0,2.0,3.0,89.0,9.0,77.0,3.0,Non-New York City
+Westchester,Scarsdale Vg PD,2013,12.0,185.0,1.0,0.0,0.0,0.0,1.0,184.0,24.0,153.0,7.0,Non-New York City
+Westchester,Sleepy Hollow Vg PD,2013,12.0,66.0,8.0,1.0,0.0,1.0,6.0,58.0,9.0,47.0,2.0,Non-New York City
+Westchester,SUNY Police - Purchase,2013,12.0,70.0,2.0,0.0,0.0,0.0,2.0,68.0,7.0,61.0,0.0,Non-New York City
+Westchester,Tarrytown Vg PD,2013,12.0,116.0,6.0,0.0,0.0,3.0,3.0,110.0,12.0,94.0,4.0,Non-New York City
+Westchester,Tuckahoe Vg PD,2013,12.0,35.0,0.0,0.0,0.0,0.0,0.0,35.0,7.0,27.0,1.0,Non-New York City
+Westchester,Westchester Co Dept Pub Safety,2013,12.0,185.0,7.0,0.0,1.0,1.0,5.0,178.0,3.0,173.0,2.0,Non-New York City
+Westchester,Westchester County MTA,2013,12.0,99.0,10.0,0.0,0.0,8.0,2.0,89.0,0.0,84.0,5.0,Non-New York City
+Westchester,Westchester County Park PD,2013,12.0,17.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,16.0,1.0,Non-New York City
+Westchester,Westchester County State Police,2013,12.0,413.0,46.0,0.0,5.0,8.0,33.0,367.0,77.0,279.0,11.0,Non-New York City
+Westchester,White Plains City PD,2013,12.0,1311.0,78.0,1.0,3.0,28.0,46.0,1233.0,77.0,1135.0,21.0,Non-New York City
+Westchester,Yonkers City PD,2013,12.0,3404.0,1036.0,6.0,25.0,390.0,615.0,2368.0,470.0,1662.0,236.0,Non-New York City
+Westchester,Yorktown Town PD,2013,12.0,350.0,15.0,0.0,0.0,2.0,13.0,335.0,45.0,288.0,2.0,Non-New York City
+Wyoming,Arcade Vg PD,2013,12.0,39.0,0.0,0.0,0.0,0.0,0.0,39.0,3.0,35.0,1.0,Non-New York City
+Wyoming,Attica Vg PD,2013,12.0,7.0,2.0,0.0,0.0,0.0,2.0,5.0,0.0,4.0,1.0,Non-New York City
+Wyoming,County Total,2013,,510.0,41.0,0.0,3.0,2.0,36.0,469.0,82.0,379.0,8.0,Non-New York City
+Wyoming,Perry Vg PD,2013,12.0,102.0,3.0,0.0,0.0,0.0,3.0,99.0,14.0,84.0,1.0,Non-New York City
+Wyoming,Warsaw Vg PD,2013,12.0,84.0,6.0,0.0,1.0,0.0,5.0,78.0,5.0,73.0,0.0,Non-New York City
+Wyoming,Wyoming County Park PD,2013,12.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,Non-New York City
+Wyoming,Wyoming County Sheriff,2013,12.0,209.0,15.0,0.0,0.0,2.0,13.0,194.0,47.0,144.0,3.0,Non-New York City
+Wyoming,Wyoming County State Police,2013,12.0,66.0,15.0,0.0,2.0,0.0,13.0,51.0,13.0,36.0,2.0,Non-New York City
+Yates,County Total,2013,,413.0,14.0,0.0,6.0,1.0,7.0,399.0,112.0,284.0,3.0,Non-New York City
+Yates,Penn Yan Vg PD,2013,12.0,115.0,4.0,0.0,1.0,1.0,2.0,111.0,21.0,89.0,1.0,Non-New York City
+Yates,Yates County Sheriff,2013,12.0,278.0,9.0,0.0,4.0,0.0,5.0,269.0,86.0,181.0,2.0,Non-New York City
+Yates,Yates County State Police,2013,12.0,20.0,1.0,0.0,1.0,0.0,0.0,19.0,5.0,14.0,0.0,Non-New York City
